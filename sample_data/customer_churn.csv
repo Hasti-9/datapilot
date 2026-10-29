@@ -1,0 +1,2026 @@
+Customer ID,Signup Date,Region,Contract Type,Internet Service,Tenure (months),Monthly Charges,Total Charges,Support Calls,Paperless Billing,Notes,Churn
+C100000,2023-10-19,East,One year,Fiber,46,$45.71,2117.96,4,No,,No
+C100001,2024-04-06,South,Two year,DSL,19,$24.96,494.52,5,No,,No
+C100002,2023-09-21,North,One year,Fiber,26,$80.16,2092.98,2,Yes,,No
+C100003,2023-01-23,West,Month-to-month,No internet,15,$41.47,597.87,7,Yes,,Yes
+C100004,2023-03-13,East,Month-to-month,Fiber,12,$59.01,682.1,1,Yes,,No
+C100005,2023-10-19,West,Two year,DSL,53,$92.79,5047.21,4,Yes,,Yes
+C100006,2023-11-14,North,Month-to-month,DSL,14,$49.54,674.97,3,No,,No
+C100007,2023-05-10,South,Two year,DSL,65,$91.96,6136.78,2,No,,No
+C100008,2023-03-06,South,One year,DSL,33,$52.97,1764.19,1,Yes,,No
+C100009,2024-04-13,South,Month-to-month,Fiber,17,$107.27,1803.18,2,Yes,,Yes
+C100010,2024-01-30,West,Month-to-month,Fiber,15,$103.13,1538.24,1,No,,Yes
+C100011,2022-09-25,North,Month-to-month,Fiber,16,$58.22,961.91,3,No,,No
+C100012,2024-01-27,South,Month-to-month,Fiber,13,$64.67,879.64,1,Yes,,Yes
+C100013,2023-09-26,South,Month-to-month,Fiber,21,$49.20,997.48,,No,,Yes
+C100014,2023-06-03,East,Month-to-month,Fiber,14,$75.00,1079.25,2,Yes,,Yes
+C100015,2022-10-14,North,One year,Fiber,32,$98.73,3195.91,N/A,Yes,,Yes
+C100016,2023-12-25,East,Two year,DSL,62,$33.83,2042.01,1,No,,No
+C100017,2024-04-15,West,One year,DSL,50,$92.94,4507.52,1,No,,No
+C100018,2023-08-11,East,One year,Fiber,70,$36.90,2509.8,4,No,,No
+C100019,2022-10-02,South,Two year,No internet,68,$48.51,3449.01,1,Yes,,No
+C100020,2022-06-23,West,Month-to-month,Fiber,18,$25.31,465.86,3,No,,No
+C100021,2022-02-07,North,Month-to-month,No internet,6,$122.62,699.08,1,Yes,,Yes
+C100022,2022-11-03,North,One year,DSL,30,$71.47,2126.91,1,No,,No
+C100023,2023-03-14,North,Month-to-month,DSL,23,$76.12,1793.01,4,No,,Yes
+C100024,2024-03-31,West,Month-to-month,No internet,14,$53.10,721.39,4,No,,No
+C100025,2023-09-27,North,Month-to-month,Fiber,19,,1825.49,3,Yes,,Yes
+C100026,2024-04-07,South,Month-to-month,Fiber,5,$18.00,88.38,3,No,,Yes
+C100027,2023-01-03,North,Two year,Fiber,45,$70.67,3181.0,0,No,,No
+C100028,2023-03-29,North,One year,DSL,56,$125.17,6727.55,2,Yes,,No
+C100029,2023-11-05,South,Month-to-month,Fiber,2,$60.45,122.86,2,No,,No
+C100030,2022-09-29,East,Month-to-month,Fiber,14,$70.43,947.12,0,No,,Yes
+C100031,2023-11-01,West,Month-to-month,DSL,27,$86.81,2345.82,2,No,,Yes
+C100032,2023-11-14,West,Month-to-month,No internet,14,$49.71,672.72,3,No,,Yes
+C100033,2022-07-22,West,Month-to-month,Fiber,12,$70.57,855.63,2,Yes,,Yes
+C100034,2023-03-22,South,One year,Fiber,12,N/A,1079.81,2,Yes,,No
+C100035,2022-12-30,North,Month-to-month,DSL,27,$74.86,1970.48,4,No,,Yes
+C100036,2023-01-31,West,Month-to-month,Fiber,7,$79.27,570.06,1,Yes,,Yes
+C100037,2024-06-09,North,Month-to-month,No internet,18,$61.26,1059.02,0,Yes,,Yes
+C100038,2022-09-18,West,Two year,DSL,31,$77.89,2344.69,2,No,,No
+C100039,2023-04-11,South,Month-to-month,Fiber,16,$71.39,1155.92,3,Yes,,Yes
+C100040,2024-04-25,East,Month-to-month,Fiber,4,$106.38,429.36,0,No,,Yes
+C100041,2024-02-29,North,Two year,No internet,17,$88.11,1433.02,1,No,,No
+C100042,2023-12-26,West,Month-to-month,Fiber,5,$63.91,320.94,4,No,,No
+C100043,2022-12-25,,Two year,No internet,26,$18.00,487.98,2,Yes,,No
+C100044,2024-03-25,N/A,One year,No internet,11,$87.89,929.68,0,No,,No
+C100045,2022-07-21,South,One year,Fiber,63,$88.88,5529.91,3,Yes,,No
+C100046,2023-02-21,East,Month-to-month,Fiber,3,$47.08,134.71,1,No,,Yes
+C100047,2024-03-03,South,Month-to-month,DSL,5,$20.04,101.82,3,No,,No
+C100048,2022-12-20,North,Month-to-month,Fiber,27,$41.45,1073.11,1,Yes,,No
+C100049,2023-02-14,West,Two year,Fiber,68,$93.15,6264.29,3,No,,No
+C100050,2024-05-25,East,Month-to-month,Fiber,24,$43.38,1008.72,4,Yes,,Yes
+C100051,2022-01-13,West,One year,DSL,34,$58.51,2041.42,4,Yes,,No
+C100052,2022-09-24,East,Month-to-month,DSL,23,$75.51,1682.57,4,No,,Yes
+C100053,2023-09-24,West,Month-to-month,DSL,3,$100.61,295.49,2,Yes,,No
+C100054,2022-06-19,East,Month-to-month,No internet,21,$69.55,1485.87,4,Yes,,No
+C100055,2023-04-28,East,Month-to-month,Fiber,4,$67.49,258.6,4,Yes,,Yes
+C100056,2023-05-17,East,Two year,DSL,48,$56.28,2713.85,0,No,,No
+C100057,2024-01-13,South,Month-to-month,DSL,14,$110.77,1498.28,2,Yes,,Yes
+C100058,2022-06-26,North,Two year,DSL,19,$96.65,1777.44,3,Yes,,Yes
+C100059,2024-05-15,North,One year,DSL,37,$67.62,2626.2,0,Yes,,No
+C100060,2023-07-30,South,One year,Fiber,45,$35.09,1512.72,4,Yes,,No
+C100061,2023-09-13,West,One year,Fiber,33,$50.24,1616.7,1,No,,No
+C100062,2022-12-16,East,One year,Fiber,62,$84.49,5155.78,0,No,,No
+C100063,2022-04-28,North,Month-to-month,No internet,4,$51.96,212.26,3,Yes,,Yes
+C100064,2022-12-12,West,Month-to-month,DSL,13,$92.31,1163.39,3,Yes,,Yes
+C100065,2022-03-29,West,Month-to-month,No internet,1,$79.04,76.12,2,Yes,,Yes
+C100066,2023-07-07,North,Month-to-month,DSL,26,$77.32,1964.07,2,Yes,,Yes
+C100067,2024-02-09,West,Month-to-month,Fiber,29,$86.34,2529.33,6,No,,Yes
+C100068,2023-04-12,North,Two year,DSL,67,$82.46,5784.14,2,Yes,,No
+C100069,2023-10-27,West,Month-to-month,Fiber,10,$48.62,490.03,4,Yes,,No
+C100070,2022-02-04,East,One year,DSL,60,$61.85,3531.06,0,Yes,,No
+C100071,2024-01-07,,Month-to-month,Fiber,15,$128.50,1904.21,5,Yes,,Yes
+C100072,2022-02-03,North,Two year,DSL,53,$39.80,2118.76,0,Yes,,No
+C100073,2023-05-06,South,One year,Fiber,35,$58.14,2096.46,0,No,,No
+C100074,2022-04-09,North,Month-to-month,No internet,12,$96.64,1215.79,,Yes,,Yes
+C100075,2023-06-16,West,Two year,Fiber,38,$66.02,2417.49,2,Yes,,No
+C100076,2022-09-10,South,Two year,No internet,14,$49.70,717.7,1,Yes,,No
+C100077,2022-03-07,South,Two year,No internet,57,$36.92,2148.09,3,Yes,,Yes
+C100078,2024-02-13,South,One year,DSL,52,$83.40,4400.28,1,Yes,,No
+C100079,2023-01-18,West,Month-to-month,Fiber,23,$95.50,2207.43,2,Yes,,Yes
+C100080,2022-02-10,South,Month-to-month,Fiber,18,$105.00,1918.11,0,No,,Yes
+C100081,2023-05-23,North,Two year,DSL,32,$71.34,2242.58,1,Yes,,No
+C100082,2022-08-01,East,One year,Fiber,52,$96.12,4783.23,1,Yes,,Yes
+C100083,2022-09-14,West,Month-to-month,Fiber,25,$44.18,1077.98,2,Yes,,No
+C100084,2022-06-09,West,Two year,No internet,7,$74.20,494.71,1,No,,No
+C100085,2022-03-13,South,One year,DSL,28,$53.07,1527.65,2,No,,Yes
+C100086,2024-06-17,East,One year,DSL,67,$74.35,4865.74,2,Yes,,No
+C100087,2024-03-06,East,Month-to-month,Fiber,17,,1571.61,0,Yes,,Yes
+C100088,2023-02-19,West,Month-to-month,DSL,13,$96.74,1266.5,2,Yes,,No
+C100089,2022-05-17,North,Month-to-month,DSL,11,$45.25,507.44,3,Yes,,Yes
+C100090,2022-12-26,North,Month-to-month,Fiber,8,$101.69,814.36,2,Yes,,Yes
+C100091,2023-04-07,North,Two year,No internet,8,$58.14,482.2,N/A,No,,No
+C100092,2022-11-25,East,Month-to-month,Fiber,4,$44.36,182.12,1,Yes,,Yes
+C100093,2023-08-28,North,Month-to-month,Fiber,6,$65.73,379.77,3,No,,No
+C100094,2023-03-18,South,Month-to-month,DSL,29,$33.44,987.69,3,Yes,,Yes
+C100095,2023-03-19,North,One year,Fiber,56,$70.11,4055.01,3,Yes,,No
+C100096,2023-12-15,North,Month-to-month,No internet,7,$77.24,551.41,3,Yes,,No
+C100097,2024-03-12,South,Month-to-month,Fiber,25,$64.99,1678.72,4,No,,Yes
+C100098,2023-06-13,West,Month-to-month,Fiber,18,$83.40,1529.4,4,Yes,,Yes
+C100099,2022-07-31,East,Month-to-month,DSL,1,$62.13,61.85,3,No,,Yes
+C100100,2023-08-23,North,Two year,Fiber,37,$70.10,2483.07,1,No,,No
+C100101,2024-03-16,South,One year,Fiber,71,$33.98,2349.21,2,Yes,,No
+C100102,2022-10-12,South,Month-to-month,DSL,8,$71.07,580.97,4,No,,Yes
+C100103,2024-02-16,East,Month-to-month,DSL,20,$48.72,954.33,4,Yes,,Yes
+C100104,2023-01-15,North,Two year,DSL,40,$58.76,2412.32,0,No,,No
+C100105,2023-05-06,South,Month-to-month,DSL,1,$67.66,69.77,3,No,,Yes
+C100106,2023-06-10,North,One year,Fiber,71,$74.77,5571.01,1,Yes,,No
+C100107,2023-01-11,North,One year,DSL,61,$28.83,1828.28,2,Yes,,No
+C100108,2022-04-14,West,Month-to-month,Fiber,24,$30.91,777.3,2,No,,No
+C100109,2024-02-14,West,Month-to-month,No internet,22,$62.45,1338.69,4,No,,Yes
+C100110,2024-03-28,East,One year,Fiber,28,$81.86,2198.99,2,No,,No
+C100111,2023-03-17,East,Two year,DSL,6,$79.01,490.04,1,Yes,,No
+C100112,2022-03-05,East,Month-to-month,Fiber,5,$92.32,453.55,3,No,,Yes
+C100113,2024-05-15,West,Two year,Fiber,23,$102.53,2449.69,1,No,,Yes
+C100114,2022-05-24,West,Month-to-month,Fiber,20,$82.41,1683.79,N/A,No,,Yes
+C100115,2022-05-15,N/A,One year,DSL,45,$69.50,3278.96,3,No,,No
+C100116,2023-11-17,North,Two year,DSL,70,$44.21,3003.8,2,No,,No
+C100117,2022-03-30,South,Month-to-month,Fiber,7,$46.35,317.36,4,Yes,,Yes
+C100118,2023-08-28,West,Month-to-month,Fiber,1,$58.32,59.38,5,No,,Yes
+C100119,2022-06-04,North,Two year,No internet,46,$76.69,3354.48,0,No,,No
+C100120,2024-01-01,East,Month-to-month,Fiber,17,$75.52,1307.08,,Yes,,Yes
+C100121,2024-01-27,North,One year,Fiber,24,$70.11,1690.95,1,No,,No
+C100122,2023-07-07,North,One year,DSL,38,$66.18,2511.53,2,No,,No
+C100123,2023-01-26,South,Month-to-month,DSL,19,$85.76,1559.78,1,Yes,,No
+C100124,2023-12-22,West,One year,DSL,55,$75.21,4237.94,3,Yes,,No
+C100125,2023-02-26,South,Month-to-month,Fiber,3,$77.45,221.98,5,Yes,,Yes
+C100126,2022-05-13,East,Month-to-month,Fiber,6,$77.71,475.44,1,Yes,,No
+C100127,2023-08-25,East,Month-to-month,No internet,6,$56.34,348.35,4,No,,Yes
+C100128,2023-08-19,South,Month-to-month,DSL,6,$44.23,258.86,1,Yes,,No
+C100129,2022-07-03,South,Month-to-month,Fiber,23,$82.28,1961.59,,No,,Yes
+C100130,2023-01-04,South,Two year,No internet,26,$80.42,2035.02,4,No,,Yes
+C100131,2023-02-01,East,One year,DSL,28,$64.50,1783.74,0,Yes,,No
+C100132,2022-06-21,East,Month-to-month,DSL,23,$59.61,1413.01,2,No,,Yes
+C100133,2023-06-30,South,Month-to-month,Fiber,20,$126.96,2637.11,1,No,,Yes
+C100134,2024-03-13,South,Two year,Fiber,46,$51.02,2446.35,0,No,,No
+C100135,2022-01-25,,Month-to-month,DSL,22,$64.56,1459.03,4,Yes,,No
+C100136,2023-10-26,South,Two year,Fiber,35,$76.64,2553.79,4,No,,No
+C100137,2023-01-28,East,Month-to-month,No internet,18,$41.14,766.22,1,No,,No
+C100138,2022-01-06,East,Month-to-month,Fiber,11,$72.93,831.39,2,Yes,,Yes
+C100139,2023-06-13,West,Two year,DSL,70,$114.94,8375.73,1,No,,No
+C100140,2022-07-29,South,One year,DSL,66,$93.35,6061.35,2,No,,No
+C100141,2023-01-12,South,One year,Fiber,15,$85.81,1240.44,1,No,,No
+C100142,2023-09-07,North,Month-to-month,DSL,28,$84.81,2448.76,4,Yes,,Yes
+C100143,2022-06-27,West,Two year,DSL,66,$72.80,4697.07,2,No,,No
+C100144,2023-02-28,South,Month-to-month,Fiber,9,$93.96,837.99,,Yes,,No
+C100145,2022-02-27,West,Two year,Fiber,58,$66.10,3985.46,1,Yes,,No
+C100146,2022-04-06,East,Month-to-month,Fiber,15,$59.43,862.98,5,No,,Yes
+C100147,2024-05-03,South,Month-to-month,Fiber,13,$72.55,922.3,1,Yes,,Yes
+C100148,2023-11-28,East,Month-to-month,DSL,20,$92.64,1821.71,4,Yes,,Yes
+C100149,2023-12-18,South,Two year,Fiber,37,$78.26,2985.38,0,Yes,,No
+C100150,2022-12-28,North,Month-to-month,DSL,15,$86.86,1361.54,7,Yes,,Yes
+C100151,2023-05-14,West,Two year,Fiber,47,$19.40,881.48,4,No,,No
+C100152,2022-12-16,West,One year,DSL,44,,4297.13,0,Yes,,No
+C100153,2023-10-17,South,One year,Fiber,26,$128.52,3432.12,1,Yes,,Yes
+C100154,2024-03-18,N/A,One year,Fiber,54,$103.37,5422.3,1,No,,No
+C100155,2022-01-21,East,Two year,DSL,13,$62.06,814.72,2,Yes,,No
+C100156,2023-03-05,West,Month-to-month,Fiber,20,$48.79,971.47,4,Yes,,Yes
+C100157,2024-06-18,West,Month-to-month,No internet,11,$76.94,875.06,3,No,,Yes
+C100158,2022-03-27,West,Month-to-month,Fiber,25,$45.33,1106.39,1,No,,No
+C100159,2022-11-01,East,Month-to-month,DSL,12,$88.14,1060.05,3,Yes,,Yes
+C100160,2022-02-07,West,Month-to-month,DSL,8,,458.84,3,Yes,,Yes
+C100161,2023-02-05,North,Two year,DSL,38,$94.02,3408.61,2,No,,No
+C100162,2023-10-16,East,Two year,Fiber,12,$104.05,1194.35,1,Yes,,Yes
+C100163,2022-02-28,South,Month-to-month,DSL,16,$19.19,297.97,0,No,,No
+C100164,2022-11-14,,One year,Fiber,24,$77.32,1770.59,2,No,,No
+C100165,2022-10-17,East,Month-to-month,DSL,17,$52.54,882.9,5,Yes,,Yes
+C100166,2023-09-23,North,One year,DSL,30,$34.76,1049.38,3,No,,No
+C100167,2022-04-16,West,One year,DSL,42,$54.57,2288.82,1,Yes,,No
+C100168,2024-02-18,East,Month-to-month,Fiber,1,$64.53,65.42,2,No,,Yes
+C100169,2022-10-31,West,Two year,DSL,34,$95.84,3284.34,3,No,,Yes
+C100170,2023-10-10,,Month-to-month,DSL,10,$31.96,326.49,1,Yes,,Yes
+C100171,2023-01-12,South,One year,DSL,70,,6975.97,0,Yes,,No
+C100172,2022-09-26,,One year,DSL,22,$120.45,2523.32,1,Yes,,No
+C100173,2023-06-28,North,Month-to-month,No internet,29,$84.94,2356.4,2,No,,Yes
+C100174,2023-01-19,North,Month-to-month,DSL,10,$83.65,797.11,3,No,,Yes
+C100175,2022-04-28,South,Month-to-month,DSL,11,,770.59,3,No,,Yes
+C100176,2023-11-14,North,One year,No internet,11,$40.62,431.43,3,Yes,,No
+C100177,2024-02-22,South,Two year,DSL,21,$83.37,1748.9,3,Yes,,No
+C100178,2022-06-04,West,One year,Fiber,65,,5058.81,1,Yes,,No
+C100179,2024-04-30,West,Month-to-month,No internet,24,$88.29,2102.05,2,No,,Yes
+C100180,2023-05-24,East,Two year,Fiber,43,$134.22,5735.42,2,Yes,,No
+C100181,2022-04-29,South,Two year,DSL,55,$88.19,4896.2,2,Yes,,No
+C100182,2023-09-18,North,Two year,DSL,28,$80.64,2150.42,1,No,,No
+C100183,2022-05-15,North,Month-to-month,No internet,9,$109.05,981.53,3,No,,No
+C100184,2022-03-25,West,Two year,Fiber,59,$36.37,2103.28,0,No,,No
+C100185,2023-12-09,South,Month-to-month,Fiber,19,$41.43,791.53,6,No,,No
+C100186,2022-12-27,East,Month-to-month,No internet,26,$60.62,1560.23,1,Yes,,No
+C100187,2022-10-28,North,Month-to-month,DSL,26,$53.63,1327.37,5,No,,No
+C100188,2023-03-13,West,Month-to-month,Fiber,25,$87.35,2171.46,4,No,,Yes
+C100189,2022-09-02,West,Month-to-month,DSL,4,$62.06,249.49,2,No,,Yes
+C100190,2023-10-16,N/A,Month-to-month,DSL,18,$113.50,2117.58,5,Yes,,Yes
+C100191,2022-08-28,East,One year,DSL,66,$108.01,7111.13,2,Yes,,No
+C100192,2023-01-23,East,Month-to-month,Fiber,6,$89.25,523.73,3,No,,Yes
+C100193,2022-06-18,West,One year,Fiber,26,$60.35,1494.52,2,Yes,,No
+C100194,2024-01-28,West,Month-to-month,No internet,6,$85.42,495.18,,Yes,,No
+C100195,2024-03-25,North,One year,DSL,7,$90.28,660.2,1,Yes,,No
+C100196,2023-06-08,South,Month-to-month,No internet,20,$43.34,870.71,2,No,,Yes
+C100197,2023-08-24,West,Month-to-month,DSL,23,$78.72,1884.99,5,Yes,,Yes
+C100198,2023-09-23,South,Two year,Fiber,64,,5390.53,1,Yes,,No
+C100199,2022-07-14,South,Month-to-month,Fiber,2,$75.41,145.69,1,Yes,,Yes
+C100200,2022-06-05,North,Two year,DSL,19,,2155.09,1,Yes,,Yes
+C100201,2024-06-17,East,One year,DSL,6,$100.35,574.67,2,Yes,,No
+C100202,2022-04-04,South,One year,No internet,20,$49.36,984.93,2,Yes,,No
+C100203,2022-10-25,West,Month-to-month,Fiber,21,$73.11,1559.12,4,No,,Yes
+C100204,2024-04-30,South,One year,Fiber,52,$49.11,2561.36,3,Yes,,No
+C100205,2023-11-17,East,Month-to-month,Fiber,4,$84.49,343.45,5,No,,No
+C100206,2023-08-25,East,Two year,No internet,19,$48.32,876.57,1,Yes,,No
+C100207,2023-10-22,West,Two year,DSL,64,$93.08,5986.66,3,Yes,,No
+C100208,2023-02-21,North,Two year,DSL,54,$79.70,4318.24,1,No,,No
+C100209,2023-01-29,North,Month-to-month,No internet,20,$94.27,1937.77,1,Yes,,No
+C100210,2023-10-27,West,Month-to-month,DSL,7,$66.37,463.78,3,No,,Yes
+C100211,2023-08-29,West,Month-to-month,DSL,10,$33.59,330.0,1,No,,Yes
+C100212,2023-05-14,East,Month-to-month,DSL,3,$114.15,340.9,3,Yes,,Yes
+C100213,2022-09-11,West,One year,DSL,52,$65.69,3302.24,4,No,,No
+C100214,2023-10-03,East,One year,DSL,60,$104.42,6439.7,2,Yes,,No
+C100215,2023-10-19,West,Month-to-month,Fiber,29,$80.75,2350.57,1,No,,No
+C100216,2023-11-11,North,Two year,DSL,15,$86.85,1272.34,1,No,,No
+C100217,2022-07-02,West,One year,Fiber,54,$115.74,6371.25,1,No,,No
+C100218,2023-08-24,North,Month-to-month,Fiber,2,$78.51,154.08,2,Yes,,Yes
+C100219,2022-04-26,North,One year,DSL,36,$105.01,3783.19,2,Yes,,Yes
+C100220,2022-08-06,North,Two year,DSL,33,$32.89,1138.41,1,Yes,,No
+C100221,2022-12-07,,Month-to-month,Fiber,2,$91.78,191.5,1,No,,Yes
+C100222,2023-05-03,South,One year,No internet,64,$63.95,4071.11,2,Yes,,No
+C100223,2023-09-27,West,One year,DSL,26,$66.65,1691.67,2,Yes,,No
+C100224,2023-01-25,West,One year,DSL,27,$70.22,1941.91,2,No,,No
+C100225,2023-10-05,South,Month-to-month,No internet,25,$78.66,2058.94,4,Yes,,No
+C100226,2023-05-06,West,One year,DSL,7,$111.43,808.27,3,No,,Yes
+C100227,2022-09-09,East,One year,DSL,45,$23.66,1074.85,3,Yes,,No
+C100228,2023-04-06,South,Two year,Fiber,69,$71.10,5031.13,2,Yes,,No
+C100229,2022-01-30,East,Two year,Fiber,23,$52.09,1257.68,3,Yes,,No
+C100230,2022-09-06,East,Month-to-month,DSL,7,$99.15,679.84,2,Yes,,Yes
+C100231,2023-05-12,West,One year,DSL,24,$59.42,1368.0,3,Yes,,Yes
+C100232,2023-12-17,South,Two year,DSL,26,$81.42,2170.04,2,No,,No
+C100233,2023-11-06,South,Two year,Fiber,64,$60.06,4006.07,2,Yes,,No
+C100234,2024-03-21,North,Month-to-month,Fiber,8,$86.70,699.05,2,No,,Yes
+C100235,2022-02-04,South,Month-to-month,No internet,16,$95.37,1495.92,2,No,,No
+C100236,2022-02-08,East,One year,DSL,36,$60.07,2138.19,0,No,,No
+C100237,2022-05-07,South,Month-to-month,DSL,22,$71.23,1489.54,4,No,,No
+C100238,2022-12-27,North,One year,Fiber,19,$34.49,671.42,3,No,,No
+C100239,2023-02-16,West,Two year,DSL,47,$77.63,3823.93,0,No,,No
+C100240,2024-03-10,West,Month-to-month,DSL,1,$91.41,88.14,4,Yes,,Yes
+C100241,2022-06-25,South,Month-to-month,Fiber,15,$56.11,848.84,3,Yes,,Yes
+C100242,2024-01-08,North,Month-to-month,Fiber,1,$98.01,97.37,2,Yes,,No
+C100243,2022-12-13,North,One year,Fiber,9,$18.17,165.73,2,No,,No
+C100244,2023-02-11,South,Month-to-month,DSL,25,$23.72,620.86,1,No,,No
+C100245,2022-06-11,North,Month-to-month,No internet,20,$35.29,728.6,4,No,,No
+C100246,2022-05-21,South,Month-to-month,DSL,16,$57.88,937.82,2,Yes,,No
+C100247,2023-09-25,East,One year,Fiber,46,$70.47,3091.54,N/A,No,,No
+C100248,2023-03-13,North,Two year,DSL,62,$68.03,4148.54,1,No,,No
+C100249,2023-12-02,,Month-to-month,DSL,1,$68.32,67.14,5,No,,Yes
+C100250,2022-01-21,,Month-to-month,DSL,6,$88.09,540.29,2,Yes,,Yes
+C100251,2024-05-09,East,Month-to-month,DSL,3,$58.20,168.27,3,Yes,,Yes
+C100252,2022-07-07,North,Month-to-month,Fiber,11,$38.41,411.42,0,Yes,,No
+C100253,2022-01-28,West,Month-to-month,Fiber,6,$38.91,224.48,3,Yes,,Yes
+C100254,2022-11-27,East,Month-to-month,Fiber,5,$122.82,625.75,2,Yes,,Yes
+C100255,2022-05-04,West,Month-to-month,Fiber,25,$18.00,427.61,4,Yes,,No
+C100256,2023-12-23,East,Month-to-month,Fiber,16,$65.59,1036.48,1,Yes,,Yes
+C100257,2024-02-29,South,One year,DSL,66,$106.45,6920.31,2,Yes,,No
+C100258,2023-12-11,South,One year,DSL,7,$82.08,597.14,5,No,,Yes
+C100259,2023-09-16,North,Month-to-month,Fiber,22,$49.26,1035.42,2,No,,Yes
+C100260,2022-07-18,North,Month-to-month,DSL,22,$70.05,1577.64,2,No,,No
+C100261,2023-09-12,North,One year,DSL,20,$91.60,1822.47,0,Yes,,No
+C100262,2024-02-01,East,Month-to-month,Fiber,25,$100.20,2460.55,3,No,,Yes
+C100263,2022-01-16,,Month-to-month,DSL,3,$47.52,135.9,5,No,,Yes
+C100264,2022-04-26,East,Month-to-month,DSL,28,$89.01,2465.45,3,No,,Yes
+C100265,2024-06-16,West,Month-to-month,DSL,14,$76.31,1118.33,4,Yes,,Yes
+C100266,2022-04-01,West,Two year,DSL,27,$97.61,2700.27,0,No,,No
+C100267,2022-10-13,North,Month-to-month,DSL,26,$104.76,2630.49,1,Yes,,No
+C100268,2024-04-29,South,Month-to-month,Fiber,20,$61.42,1182.67,3,No,,No
+C100269,2022-02-19,East,Two year,Fiber,43,$33.76,1457.47,1,No,,No
+C100270,2024-03-15,South,One year,DSL,38,$79.90,3079.62,4,Yes,,No
+C100271,2022-04-09,North,Month-to-month,Fiber,19,$114.42,2267.13,1,Yes,,Yes
+C100272,2022-06-05,East,Month-to-month,DSL,24,$87.14,2184.74,3,No,,No
+C100273,2022-05-10,South,Two year,Fiber,45,$75.75,3534.31,1,No,,No
+C100274,2023-07-17,South,Month-to-month,Fiber,5,$130.03,625.98,3,No,,Yes
+C100275,2023-08-07,East,One year,No internet,9,$44.00,393.8,2,No,,No
+C100276,2022-02-16,East,Month-to-month,Fiber,24,$92.57,2159.2,4,Yes,,Yes
+C100277,2023-01-08,West,One year,Fiber,8,$55.74,451.0,3,Yes,,Yes
+C100278,2023-03-30,South,One year,DSL,15,$71.24,1042.13,2,Yes,,No
+C100279,2022-09-30,North,Two year,Fiber,32,$72.24,2296.05,4,Yes,,Yes
+C100280,2022-09-19,South,One year,No internet,35,$107.87,3924.01,4,Yes,,Yes
+C100281,2022-05-31,East,Month-to-month,Fiber,11,$46.60,500.5,6,No,,Yes
+C100282,2022-10-14,North,Month-to-month,Fiber,24,$56.62,1410.19,4,No,,Yes
+C100283,2022-09-06,West,Month-to-month,DSL,8,$30.18,244.1,1,No,,Yes
+C100284,2022-05-23,North,One year,Fiber,66,$82.18,5295.92,2,No,,No
+C100285,2023-12-29,South,Month-to-month,Fiber,21,$58.54,1251.7,0,Yes,,No
+C100286,2022-08-11,East,Month-to-month,Fiber,2,$80.55,163.61,6,Yes,,Yes
+C100287,2022-11-28,West,Month-to-month,Fiber,10,$43.17,426.97,3,Yes,,Yes
+C100288,2022-04-20,North,One year,No internet,36,$61.02,2271.75,3,No,,No
+C100289,2022-01-08,South,Two year,DSL,11,$95.97,1083.12,1,Yes,,No
+C100290,2023-11-21,South,Month-to-month,DSL,29,$65.64,1921.73,0,No,,Yes
+C100291,2024-06-16,North,Month-to-month,Fiber,8,$85.64,697.21,0,Yes,,Yes
+C100292,2023-12-27,East,One year,DSL,17,$83.21,1460.09,2,No,,No
+C100293,2024-05-11,South,One year,Fiber,30,$61.17,1848.81,0,No,,No
+C100294,2023-08-28,West,One year,Fiber,36,$31.01,1142.03,1,Yes,,No
+C100295,2022-12-02,South,Two year,Fiber,64,$94.64,6050.84,0,Yes,,No
+C100296,2022-04-13,West,Two year,Fiber,68,$74.27,5023.17,1,No,,No
+C100297,2023-08-07,East,Two year,DSL,46,$94.58,4292.18,4,No,,No
+C100298,2022-03-04,North,One year,Fiber,52,$19.68,1010.37,0,Yes,,Yes
+C100299,2022-03-25,North,Month-to-month,Fiber,27,$28.63,798.28,0,No,,No
+C100300,2022-04-13,East,One year,No internet,40,$18.00,710.07,2,Yes,,No
+C100301,2023-05-30,North,Month-to-month,Fiber,21,$48.08,1016.14,1,No,,Yes
+C100302,2023-04-29,East,One year,Fiber,29,$96.05,2751.58,1,Yes,,No
+C100303,2022-02-17,North,One year,No internet,50,$84.15,4246.47,1,No,,No
+C100304,2023-09-28,South,One year,Fiber,21,$69.15,1397.69,3,Yes,,No
+C100305,2022-07-31,North,Month-to-month,Fiber,10,$73.28,698.37,2,No,,Yes
+C100306,2022-11-08,North,Month-to-month,DSL,1,$89.02,87.77,1,Yes,,Yes
+C100307,2024-04-26,North,Month-to-month,No internet,25,$62.45,1524.37,5,Yes,,No
+C100308,2023-03-20,West,Month-to-month,No internet,16,$79.90,1324.04,1,Yes,,Yes
+C100309,2022-04-29,East,Two year,No internet,63,$73.50,4759.16,0,Yes,,No
+C100310,2022-11-02,South,Month-to-month,DSL,16,$18.00,298.34,0,No,,No
+C100311,2023-04-20,South,Month-to-month,No internet,29,$60.38,1748.37,1,Yes,,No
+C100312,2022-03-11,West,Month-to-month,Fiber,25,$103.97,2638.8,1,No,,Yes
+C100313,2023-06-22,West,One year,Fiber,31,$60.10,1911.36,0,No,,No
+C100314,2022-05-15,South,Month-to-month,DSL,11,$66.42,717.54,0,No,,No
+C100315,2022-07-20,West,Two year,DSL,55,$54.83,2896.56,0,Yes,,No
+C100316,2023-06-16,South,Two year,DSL,71,$57.88,4301.87,1,No,,No
+C100317,2024-05-15,West,Month-to-month,Fiber,25,$98.10,2558.67,3,Yes,,Yes
+C100318,2023-05-31,South,Month-to-month,Fiber,22,$63.30,1332.42,3,No,,Yes
+C100319,2023-03-31,West,One year,DSL,30,$44.45,1290.07,0,No,,No
+C100320,2023-03-21,East,Two year,Fiber,63,$18.00,1171.91,5,Yes,,No
+C100321,2022-03-12,West,Month-to-month,DSL,22,$55.68,1244.5,2,Yes,,Yes
+C100322,2023-05-29,East,One year,No internet,10,$20.83,214.39,3,No,,No
+C100323,2023-11-23,East,Two year,Fiber,19,$24.41,463.08,1,Yes,,No
+C100324,2023-05-31,North,Two year,DSL,47,$89.88,4107.63,0,No,,No
+C100325,2023-03-04,South,Month-to-month,DSL,29,$87.72,2462.4,3,Yes,,Yes
+C100326,2024-02-07,North,Month-to-month,Fiber,8,$22.07,183.78,4,Yes,,No
+C100327,2022-06-06,South,Two year,Fiber,64,$91.29,5867.34,0,No,,No
+C100328,2023-05-21,North,Month-to-month,DSL,4,$81.48,326.8,2,Yes,,No
+C100329,2022-11-17,North,Month-to-month,Fiber,5,$50.41,254.82,2,Yes,,No
+C100330,2022-09-01,North,One year,DSL,46,$88.36,4139.35,1,Yes,,No
+C100331,2023-05-18,North,Month-to-month,Fiber,8,$29.33,229.36,2,No,,No
+C100332,2022-12-23,North,One year,DSL,16,$39.89,611.5,0,Yes,,Yes
+C100333,2023-03-23,West,Month-to-month,No internet,17,$34.01,602.55,2,Yes,,No
+C100334,2024-04-22,North,Two year,No internet,6,$42.21,245.14,2,No,,No
+C100335,2023-01-31,East,Month-to-month,No internet,23,$91.97,2165.97,0,No,,No
+C100336,2022-01-19,East,One year,Fiber,9,$36.66,328.06,2,No,,No
+C100337,2022-01-05,West,Month-to-month,DSL,5,$41.22,202.56,1,Yes,,Yes
+C100338,2024-03-18,North,Month-to-month,Fiber,16,$46.21,770.63,4,Yes,,Yes
+C100339,2022-03-31,West,Month-to-month,Fiber,28,$74.89,2144.4,4,Yes,,Yes
+C100340,2023-10-02,South,Month-to-month,DSL,10,$61.51,632.1,2,No,,Yes
+C100341,2023-01-10,West,Month-to-month,No internet,11,$91.56,986.26,2,No,,No
+C100342,2022-08-20,West,One year,Fiber,43,$52.22,2293.96,3,No,,Yes
+C100343,2024-05-28,South,Month-to-month,Fiber,29,$37.76,1080.02,,No,,Yes
+C100344,2023-07-11,North,Month-to-month,DSL,27,$57.40,1589.41,5,Yes,,No
+C100345,2022-06-04,North,Two year,No internet,20,$70.87,1469.76,1,No,,No
+C100346,2022-07-01,East,Two year,DSL,71,$46.65,3175.24,4,No,,No
+C100347,2022-08-04,South,Two year,Fiber,55,$76.85,4356.61,2,No,,No
+C100348,2022-01-16,North,Month-to-month,DSL,5,$115.28,567.83,3,Yes,,Yes
+C100349,2023-02-15,West,Month-to-month,No internet,11,$55.29,580.08,2,No,,Yes
+C100350,2023-11-17,West,Month-to-month,Fiber,28,$70.91,2024.95,1,Yes,,No
+C100351,2022-10-06,North,Month-to-month,DSL,3,$103.58,320.45,1,No,,Yes
+C100352,2022-10-06,West,Month-to-month,No internet,4,$53.55,208.58,4,Yes,,Yes
+C100353,2024-03-03,East,Month-to-month,Fiber,3,$48.55,148.25,2,Yes,,Yes
+C100354,2023-02-19,West,Month-to-month,DSL,6,$42.36,257.95,2,No,,Yes
+C100355,2023-11-12,North,Month-to-month,DSL,19,N/A,1521.67,4,Yes,,Yes
+C100356,2023-05-12,South,Two year,No internet,58,$82.52,4973.75,0,No,,No
+C100357,2023-09-15,West,Month-to-month,DSL,23,$65.92,1552.14,2,Yes,,Yes
+C100358,2023-10-30,North,Month-to-month,Fiber,18,$70.66,1277.86,3,Yes,,Yes
+C100359,2022-05-06,West,One year,DSL,33,$101.43,3505.65,1,No,,No
+C100360,2023-07-27,East,Month-to-month,Fiber,10,$91.24,869.35,3,Yes,,Yes
+C100361,2022-11-29,North,Month-to-month,Fiber,11,$34.49,384.86,,No,,Yes
+C100362,2022-10-04,East,Month-to-month,Fiber,2,$69.26,140.93,N/A,Yes,,Yes
+C100363,2023-12-14,East,Month-to-month,Fiber,28,$72.10,2054.32,7,No,,Yes
+C100364,2022-03-04,East,One year,Fiber,6,$87.45,539.52,4,Yes,,Yes
+C100365,2023-05-20,West,Month-to-month,DSL,9,$63.84,574.41,2,Yes,,Yes
+C100366,2023-03-10,South,Month-to-month,DSL,7,$53.26,359.37,0,Yes,,No
+C100367,2022-05-10,South,One year,Fiber,18,$57.92,1057.0,2,No,,Yes
+C100368,2022-07-11,South,Two year,DSL,21,$24.90,500.99,0,No,,No
+C100369,2024-02-05,South,Month-to-month,Fiber,27,$68.70,1919.64,2,Yes,,Yes
+C100370,2024-01-02,North,Month-to-month,Fiber,10,$54.40,555.7,5,Yes,,No
+C100371,2024-04-06,South,Month-to-month,DSL,5,$80.96,389.11,3,Yes,,Yes
+C100372,2023-09-18,South,Two year,DSL,51,$43.62,2271.02,1,No,,No
+C100373,2023-11-19,South,Two year,DSL,18,$58.35,1020.26,3,Yes,,Yes
+C100374,2022-09-26,West,Month-to-month,DSL,4,$44.77,184.3,4,No,,Yes
+C100375,2023-06-20,East,Two year,No internet,67,$42.56,2720.82,2,Yes,,No
+C100376,2022-01-14,North,Month-to-month,No internet,2,$86.68,165.07,0,Yes,,No
+C100377,2022-05-29,North,Month-to-month,No internet,21,$57.54,1194.19,1,Yes,,No
+C100378,2023-07-18,East,Month-to-month,Fiber,26,$80.25,2070.88,2,No,,Yes
+C100379,2022-11-14,East,Two year,DSL,15,$41.15,611.29,0,Yes,,Yes
+C100380,2022-02-09,West,Month-to-month,Fiber,18,$71.54,1224.09,1,No,,Yes
+C100381,2023-02-04,South,Month-to-month,No internet,16,$26.87,408.44,3,Yes,,Yes
+C100382,2022-01-13,West,One year,DSL,12,$57.12,683.18,2,Yes,,No
+C100383,2023-05-30,West,Month-to-month,Fiber,15,$56.49,862.88,2,No,,Yes
+C100384,2023-04-18,North,Month-to-month,Fiber,27,$83.60,2361.23,2,No,,No
+C100385,2023-05-01,South,Month-to-month,DSL,11,$73.51,832.11,1,Yes,,Yes
+C100386,2023-03-30,East,Two year,DSL,26,$64.62,1651.11,1,No,,Yes
+C100387,2022-05-10,West,One year,Fiber,48,$89.92,4302.04,3,Yes,,No
+C100388,2023-04-26,North,Two year,Fiber,47,$73.75,3547.87,2,Yes,,No
+C100389,2023-06-22,East,One year,DSL,30,$82.40,2431.77,0,No,,No
+C100390,2023-04-05,North,One year,DSL,19,$88.10,1690.86,0,No,,No
+C100391,2023-12-30,West,Two year,DSL,32,$67.28,2131.25,3,No,,No
+C100392,2022-01-24,North,One year,Fiber,27,$61.59,1701.44,2,Yes,,No
+C100393,2022-07-10,West,One year,Fiber,25,$77.09,1901.61,0,No,,No
+C100394,2023-02-15,North,Month-to-month,DSL,29,$58.49,1630.19,3,Yes,,No
+C100395,2022-03-07,West,Month-to-month,Fiber,8,$78.58,625.63,4,No,,No
+C100396,2023-05-02,South,One year,DSL,29,$96.57,2785.41,2,No,,No
+C100397,2022-12-19,South,Month-to-month,DSL,6,$90.23,544.68,3,Yes,,Yes
+C100398,2022-06-22,West,Two year,DSL,47,$59.36,2733.45,2,No,,No
+C100399,2022-12-18,East,One year,Fiber,38,$36.79,1373.9,1,Yes,,No
+C100400,2023-12-05,North,Month-to-month,Fiber,27,$67.48,1874.87,3,Yes,,No
+C100401,2024-04-13,North,Two year,Fiber,62,$65.73,4184.82,4,No,,Yes
+C100402,2022-10-25,,Month-to-month,Fiber,20,$96.47,1840.36,0,No,,Yes
+C100403,2022-08-28,West,Month-to-month,DSL,9,N/A,533.45,3,Yes,,No
+C100404,2022-04-09,South,Month-to-month,DSL,22,$63.63,1437.99,2,No,,No
+C100405,2023-11-28,West,Two year,No internet,51,$87.20,4250.97,1,Yes,,No
+C100406,2023-04-17,North,One year,DSL,38,$56.92,2153.8,0,No,,No
+C100407,2024-01-11,South,Two year,DSL,23,,1445.42,0,No,,No
+C100408,2023-01-01,East,Month-to-month,No internet,5,$111.61,560.46,2,Yes,,Yes
+C100409,2022-04-29,West,Two year,DSL,21,$106.01,2204.58,0,No,,No
+C100410,2022-05-05,South,One year,Fiber,51,$84.54,4368.98,3,No,,No
+C100411,2024-03-28,East,One year,Fiber,21,$75.53,1607.08,1,Yes,,No
+C100412,2023-08-17,North,Two year,Fiber,63,$44.64,2689.02,1,Yes,,No
+C100413,2023-06-02,North,Month-to-month,Fiber,1,$82.76,81.73,4,Yes,,Yes
+C100414,2024-04-13,South,Month-to-month,Fiber,26,$70.27,1746.23,3,No,,Yes
+C100415,2024-02-16,South,One year,Fiber,58,$74.33,4507.26,2,Yes,,No
+C100416,2022-12-08,North,Two year,Fiber,38,$55.88,2027.43,1,No,,No
+C100417,2023-12-12,North,Month-to-month,Fiber,18,$68.52,1195.57,2,Yes,,Yes
+C100418,2022-03-03,West,One year,DSL,42,$64.22,2594.94,1,Yes,,No
+C100419,2023-03-15,East,Month-to-month,Fiber,2,$76.69,147.71,1,No,,No
+C100420,2022-02-01,East,One year,Fiber,65,$104.45,6824.41,4,No,,No
+C100421,2024-02-02,West,One year,Fiber,59,$77.84,4474.87,4,No,,Yes
+C100422,2023-08-08,South,Month-to-month,Fiber,17,$27.45,477.01,,No,,No
+C100423,2022-10-22,North,One year,Fiber,34,$44.61,1588.93,3,Yes,,Yes
+C100424,2022-08-29,West,Month-to-month,DSL,1,N/A,30.26,3,No,,Yes
+C100425,2022-10-17,North,Two year,Fiber,56,$49.02,2691.66,0,Yes,,No
+C100426,2023-02-15,North,Month-to-month,DSL,14,$82.76,1129.76,,No,,No
+C100427,2023-06-22,North,Month-to-month,DSL,25,$78.81,1901.36,3,No,,No
+C100428,2024-04-11,West,One year,No internet,16,$53.86,880.5,0,No,,No
+C100429,2022-12-05,East,Month-to-month,Fiber,5,$75.46,362.05,6,No,,Yes
+C100430,2022-02-17,East,One year,Fiber,35,$49.92,1832.74,4,Yes,,Yes
+C100431,2022-07-09,West,Month-to-month,Fiber,23,$33.36,791.4,4,Yes,,No
+C100432,2024-06-01,North,One year,DSL,32,$33.72,1103.14,0,No,,No
+C100433,2023-12-28,West,One year,Fiber,69,$47.37,3414.91,1,Yes,,No
+C100434,2022-05-25,North,Two year,DSL,28,$104.24,2775.31,0,No,,No
+C100435,2024-01-02,East,Month-to-month,Fiber,5,$35.34,170.35,2,Yes,,Yes
+C100436,2022-07-07,West,Month-to-month,No internet,25,$99.81,2494.95,3,No,,No
+C100437,2022-03-16,South,One year,Fiber,16,$101.91,1657.3,2,No,,No
+C100438,2023-05-29,N/A,One year,Fiber,9,$64.24,555.39,0,No,,Yes
+C100439,2023-09-29,West,Month-to-month,No internet,27,$67.55,1830.26,1,Yes,,No
+C100440,2023-12-28,West,One year,DSL,37,$53.47,1891.65,1,No,,No
+C100441,2024-04-07,North,Month-to-month,DSL,26,$68.15,1751.97,0,No,,No
+C100442,2024-05-31,South,Month-to-month,No internet,21,$85.18,1724.4,5,Yes,,No
+C100443,2024-01-01,South,Two year,DSL,8,$68.98,567.69,0,Yes,,No
+C100444,2024-03-27,South,Month-to-month,Fiber,12,$93.62,1152.99,2,Yes,,Yes
+C100445,2022-05-12,East,Month-to-month,No internet,2,$98.34,203.0,3,Yes,,Yes
+C100446,2022-09-04,West,One year,Fiber,15,$77.30,1148.25,2,Yes,,Yes
+C100447,2022-03-20,West,One year,DSL,33,$76.89,2451.12,,No,,No
+C100448,2024-01-28,North,One year,Fiber,31,$67.19,2135.88,0,Yes,,No
+C100449,2023-02-05,South,Two year,Fiber,46,$77.36,3532.75,2,No,,No
+C100450,2022-06-28,North,Month-to-month,Fiber,20,$40.92,787.81,3,No,,Yes
+C100451,2024-03-16,West,One year,Fiber,64,$78.83,4802.27,2,No,,No
+C100452,2023-10-28,East,Two year,DSL,9,$73.83,650.79,2,Yes,,No
+C100453,2024-03-31,South,One year,Fiber,53,$47.20,2530.37,5,Yes,,No
+C100454,2022-08-03,South,One year,DSL,21,$122.40,2567.77,1,No,,No
+C100455,2022-01-24,West,Month-to-month,Fiber,16,$44.46,704.35,3,Yes,,Yes
+C100456,2023-08-30,East,One year,Fiber,29,$47.03,1297.33,3,No,,Yes
+C100457,2024-03-20,East,Month-to-month,Fiber,21,$75.65,1595.02,3,No,,Yes
+C100458,2022-12-30,West,One year,DSL,7,$20.36,149.63,1,No,,No
+C100459,2023-08-04,South,Month-to-month,Fiber,14,$48.95,663.46,1,No,,Yes
+C100460,2023-09-12,,Month-to-month,DSL,27,$30.65,850.75,1,Yes,,No
+C100461,2023-08-16,East,One year,Fiber,6,$44.57,256.27,4,Yes,,Yes
+C100462,2022-08-16,North,Month-to-month,DSL,25,$65.37,1676.27,1,No,,No
+C100463,2022-08-02,East,Month-to-month,DSL,8,$76.65,608.6,1,No,,Yes
+C100464,2022-04-23,North,Two year,Fiber,60,,5903.23,0,No,,No
+C100465,2023-07-19,South,Month-to-month,Fiber,9,$88.79,810.49,1,Yes,,Yes
+C100466,2022-07-28,East,Two year,DSL,29,$98.23,2803.25,4,No,,No
+C100467,2024-04-26,North,One year,No internet,17,$83.35,1465.08,1,Yes,,No
+C100468,2023-07-16,South,Month-to-month,DSL,17,$56.98,964.66,5,No,,No
+C100469,2023-06-09,North,One year,Fiber,21,$96.49,2124.61,2,No,,No
+C100470,2023-10-26,East,Month-to-month,No internet,29,$56.47,1682.53,3,No,,Yes
+C100471,2024-04-01,East,Month-to-month,DSL,28,$53.33,1421.29,4,Yes,,Yes
+C100472,2022-12-22,North,Two year,Fiber,54,$106.82,5917.53,1,No,,No
+C100473,2023-09-12,West,One year,Fiber,69,$88.32,6144.85,1,Yes,,No
+C100474,2022-06-21,South,One year,DSL,41,,3162.23,5,No,,Yes
+C100475,2022-08-03,North,One year,Fiber,36,,3177.64,2,No,,No
+C100476,2023-05-28,East,One year,DSL,52,$90.57,4764.3,2,Yes,,No
+C100477,2022-11-13,South,One year,No internet,48,$34.62,1679.96,1,Yes,,No
+C100478,2023-05-17,West,Month-to-month,DSL,4,$66.29,257.8,,Yes,,Yes
+C100479,2022-08-22,East,Month-to-month,DSL,12,$39.19,469.5,5,Yes,,Yes
+C100480,2023-11-08,East,Month-to-month,DSL,7,$71.68,520.58,5,No,,Yes
+C100481,2022-09-26,North,Month-to-month,DSL,18,$51.87,901.85,N/A,No,,Yes
+C100482,2022-12-31,East,Month-to-month,DSL,2,$102.55,202.8,0,No,,No
+C100483,2023-08-25,South,Two year,Fiber,49,$81.57,4109.04,0,No,,No
+C100484,2023-09-05,North,Month-to-month,DSL,5,$48.35,250.93,0,Yes,,No
+C100485,2023-03-18,West,Month-to-month,Fiber,20,$68.16,1319.0,3,Yes,,No
+C100486,2023-11-27,South,Month-to-month,Fiber,12,$38.37,449.69,3,No,,Yes
+C100487,2024-03-23,South,One year,DSL,63,$69.63,4494.23,1,No,,Yes
+C100488,2022-03-14,North,Two year,DSL,49,$82.28,4134.87,0,No,,No
+C100489,2022-06-27,West,Two year,Fiber,16,,1176.33,0,Yes,,No
+C100490,2024-06-02,West,Month-to-month,DSL,17,$20.41,334.06,2,Yes,,No
+C100491,2022-04-28,West,Month-to-month,DSL,15,$60.23,865.8,2,No,,Yes
+C100492,2022-04-01,West,Two year,DSL,18,$81.31,1525.07,,No,,Yes
+C100493,2022-03-21,West,Month-to-month,Fiber,29,$76.24,2312.14,3,No,,Yes
+C100494,2023-02-06,West,One year,Fiber,23,$97.55,2134.83,0,Yes,,No
+C100495,2022-08-12,South,Month-to-month,DSL,26,$36.48,937.58,3,Yes,,Yes
+C100496,2023-08-27,East,Two year,DSL,54,$81.67,4315.64,3,No,,No
+C100497,2023-10-06,East,Month-to-month,DSL,17,$52.33,883.15,3,No,,Yes
+C100498,2023-07-22,East,Month-to-month,Fiber,21,$73.46,1548.55,5,Yes,,Yes
+C100499,2022-05-30,South,Month-to-month,DSL,20,$78.72,1571.28,1,No,,No
+C100500,2023-12-22,South,Month-to-month,Fiber,13,$85.74,1122.15,5,Yes,,Yes
+C100501,2023-07-30,West,Two year,DSL,68,$54.16,3693.45,2,No,,No
+C100502,2022-04-30,N/A,Two year,Fiber,11,$73.20,808.23,0,No,,Yes
+C100503,2024-03-31,East,Month-to-month,No internet,28,$39.38,1147.03,5,No,,No
+C100504,2022-08-28,N/A,One year,DSL,33,$33.33,1075.63,3,No,,Yes
+C100505,2023-07-18,East,Month-to-month,Fiber,19,$82.45,1518.33,2,Yes,,Yes
+C100506,2023-08-04,East,Month-to-month,DSL,20,$67.21,1392.14,1,No,,No
+C100507,2022-07-05,South,Month-to-month,Fiber,26,$28.11,730.21,3,Yes,,Yes
+C100508,2022-10-24,East,Month-to-month,Fiber,12,$47.32,544.63,6,Yes,,Yes
+C100509,2023-11-18,South,Month-to-month,Fiber,9,$69.04,635.53,1,Yes,,Yes
+C100510,2024-05-17,South,One year,DSL,29,$107.42,3135.15,2,No,,Yes
+C100511,2024-01-25,West,One year,No internet,6,$94.67,580.24,2,Yes,,No
+C100512,2023-10-13,North,Month-to-month,Fiber,13,,1123.44,2,Yes,,Yes
+C100513,2023-04-20,West,One year,DSL,48,$23.94,1193.46,2,No,,Yes
+C100514,2023-04-02,South,Two year,Fiber,41,$66.12,2623.94,2,Yes,,No
+C100515,2022-12-11,South,Month-to-month,DSL,16,$80.47,1327.05,1,Yes,,Yes
+C100516,2022-06-11,,Month-to-month,No internet,14,$78.39,1075.61,5,Yes,,Yes
+C100517,2023-06-30,East,One year,DSL,35,$78.94,2863.21,1,Yes,,No
+C100518,2022-06-17,South,Month-to-month,Fiber,26,$62.72,1684.42,3,No,,Yes
+C100519,2022-03-30,North,One year,Fiber,27,$112.47,3126.42,0,Yes,,No
+C100520,2024-02-14,West,Month-to-month,Fiber,11,$105.44,1183.51,2,Yes,,Yes
+C100521,2023-08-17,South,One year,Fiber,17,$66.20,1157.2,0,Yes,,No
+C100522,2024-02-29,West,Month-to-month,Fiber,13,$44.06,589.77,2,Yes,,No
+C100523,2022-07-24,South,Month-to-month,Fiber,2,$119.87,245.14,0,No,,Yes
+C100524,2023-05-16,West,Month-to-month,Fiber,20,$54.73,1050.25,4,Yes,,Yes
+C100525,2023-07-28,East,One year,Fiber,22,$98.45,2138.99,1,No,,Yes
+C100526,2024-02-25,South,Month-to-month,Fiber,22,$116.26,2653.65,3,Yes,,Yes
+C100527,2022-10-07,East,Two year,DSL,64,$44.96,2739.96,2,Yes,,No
+C100528,2022-12-26,East,Month-to-month,No internet,18,$75.80,1320.07,4,Yes,,No
+C100529,2022-12-01,North,Month-to-month,Fiber,25,$59.85,1545.26,1,Yes,,Yes
+C100530,2022-05-15,North,Month-to-month,DSL,7,$81.41,591.2,1,Yes,,Yes
+C100531,2024-04-15,South,Month-to-month,Fiber,3,$76.55,236.01,2,No,,Yes
+C100532,2022-12-07,West,Month-to-month,No internet,14,$117.16,1669.11,2,Yes,,Yes
+C100533,2022-11-04,North,One year,Fiber,62,$83.29,5196.09,,No,,No
+C100534,2022-12-31,North,One year,Fiber,56,$68.32,3733.73,1,No,,No
+C100535,2023-12-11,West,Month-to-month,No internet,25,$96.68,2384.55,3,Yes,,No
+C100536,2022-05-29,East,Month-to-month,Fiber,27,$61.74,1626.87,2,Yes,,Yes
+C100537,2022-04-03,North,Month-to-month,Fiber,20,$59.41,1180.65,3,Yes,,No
+C100538,2022-04-22,South,One year,DSL,43,$124.49,5406.74,4,No,,No
+C100539,2023-09-15,South,Month-to-month,DSL,21,$48.02,1007.09,1,Yes,,Yes
+C100540,2022-01-29,South,Two year,Fiber,9,$56.32,532.19,3,No,,Yes
+C100541,2022-03-11,South,One year,DSL,36,$69.63,2591.89,1,Yes,,No
+C100542,2023-03-13,North,One year,DSL,57,$42.12,2418.77,2,No,,No
+C100543,2023-04-02,North,One year,Fiber,59,$18.00,1023.11,2,Yes,,No
+C100544,2023-08-30,South,One year,No internet,41,$94.92,3801.84,2,No,,No
+C100545,2024-03-09,South,Month-to-month,DSL,20,$48.92,941.04,3,No,,Yes
+C100546,2022-01-09,East,Month-to-month,DSL,11,$55.01,586.52,3,No,,Yes
+C100547,2022-08-31,North,Month-to-month,Fiber,22,$59.22,1285.71,0,Yes,,No
+C100548,2022-09-16,West,Month-to-month,No internet,26,$44.00,1103.84,5,No,,Yes
+C100549,2022-09-10,East,Month-to-month,Fiber,22,$41.68,889.12,1,Yes,,No
+C100550,2023-04-01,South,Month-to-month,Fiber,12,$72.55,913.15,4,No,,Yes
+C100551,2024-04-04,East,One year,DSL,8,$128.47,1025.25,2,Yes,,Yes
+C100552,2023-01-03,,Month-to-month,DSL,21,$86.94,1758.53,0,Yes,,No
+C100553,2023-01-22,East,Month-to-month,Fiber,3,$87.20,271.06,6,Yes,,Yes
+C100554,2022-07-06,North,Month-to-month,DSL,2,$30.90,61.63,3,Yes,,Yes
+C100555,2023-07-25,West,Month-to-month,Fiber,3,$67.93,212.81,4,No,,Yes
+C100556,2022-07-18,South,Two year,Fiber,27,$38.95,1068.48,0,No,,No
+C100557,2023-10-05,South,Month-to-month,DSL,23,$87.83,2051.29,0,Yes,,No
+C100558,2023-05-19,South,Month-to-month,Fiber,25,$62.83,1619.99,0,Yes,,Yes
+C100559,2023-10-15,West,Month-to-month,Fiber,18,$69.48,1197.45,4,Yes,,Yes
+C100560,2022-05-10,West,Month-to-month,Fiber,28,$66.31,1862.96,2,No,,No
+C100561,2024-05-17,East,Month-to-month,Fiber,8,$53.94,445.19,3,Yes,,Yes
+C100562,2023-08-07,West,Month-to-month,Fiber,8,$30.49,232.35,1,No,,Yes
+C100563,2024-05-08,West,Month-to-month,DSL,1,$83.02,84.6,2,No,,Yes
+C100564,2024-05-11,North,Month-to-month,Fiber,4,$33.95,136.04,2,Yes,,No
+C100565,2022-03-11,East,One year,Fiber,65,$39.01,2462.83,2,No,,No
+C100566,2022-12-27,East,Month-to-month,DSL,23,$61.09,1363.77,3,No,,No
+C100567,2022-02-16,North,One year,Fiber,66,$50.87,3520.5,0,Yes,,No
+C100568,2022-06-16,West,Month-to-month,Fiber,25,$75.07,1952.22,1,Yes,,Yes
+C100569,2023-11-01,West,Month-to-month,Fiber,22,$93.79,2147.46,5,Yes,,Yes
+C100570,2022-10-21,South,Two year,DSL,58,$74.75,4152.18,1,No,,No
+C100571,2022-07-02,East,Month-to-month,DSL,10,$73.45,748.37,3,Yes,,Yes
+C100572,2022-11-18,South,Two year,Fiber,43,$69.11,2976.86,2,No,,No
+C100573,2023-09-24,West,Two year,DSL,49,$89.98,4219.19,1,No,,No
+C100574,2024-03-07,North,One year,No internet,26,$22.38,598.7,1,No,,No
+C100575,2022-04-14,West,Month-to-month,Fiber,3,$77.70,224.13,6,Yes,,Yes
+C100576,2023-08-25,South,One year,DSL,6,$45.20,279.0,0,Yes,,No
+C100577,2023-02-18,North,One year,Fiber,32,$37.70,1164.9,2,Yes,,Yes
+C100578,2022-02-06,North,One year,Fiber,33,$68.65,2364.43,0,No,,No
+C100579,2023-01-27,South,Month-to-month,No internet,3,$58.84,180.33,2,Yes,,No
+C100580,2022-10-13,South,Two year,Fiber,54,$83.11,4480.78,1,Yes,,No
+C100581,2023-01-28,South,Two year,DSL,6,$96.04,570.99,1,No,,No
+C100582,2022-03-03,North,Month-to-month,No internet,16,$18.00,289.83,3,No,,No
+C100583,2023-05-15,West,Month-to-month,Fiber,17,$66.72,1084.51,,Yes,,Yes
+C100584,2022-08-20,East,Month-to-month,No internet,18,$117.48,2194.54,2,No,,Yes
+C100585,2022-04-26,North,Two year,No internet,54,$90.21,5009.76,2,Yes,,No
+C100586,2023-01-01,North,Two year,Fiber,25,$104.68,2705.61,2,Yes,,No
+C100587,2023-02-07,East,Two year,No internet,31,$71.07,2293.67,1,Yes,,No
+C100588,2023-02-25,West,One year,DSL,30,$32.64,994.0,3,No,,No
+C100589,2024-06-10,North,One year,Fiber,22,$40.40,897.79,1,No,,No
+C100590,2023-10-10,South,One year,DSL,6,$86.32,531.61,3,Yes,,Yes
+C100591,2022-02-24,,One year,No internet,41,$92.50,3744.53,3,No,,No
+C100592,2022-04-12,West,Two year,No internet,23,$50.24,1200.5,3,Yes,,No
+C100593,2023-12-14,South,One year,No internet,25,$61.82,1504.8,0,Yes,,No
+C100594,2022-10-30,East,Month-to-month,DSL,13,$75.06,987.16,5,Yes,,No
+C100595,2023-05-27,North,Month-to-month,Fiber,12,,298.33,3,Yes,,Yes
+C100596,2023-10-31,South,Month-to-month,Fiber,29,$59.78,1788.23,2,Yes,,Yes
+C100597,2022-06-17,West,One year,Fiber,44,$108.98,4992.53,0,Yes,,No
+C100598,2023-05-09,South,One year,DSL,54,$123.17,6538.99,0,No,,No
+C100599,2023-08-26,East,Month-to-month,Fiber,9,$65.82,592.14,3,No,,Yes
+C100600,2024-02-26,,Two year,DSL,31,$114.32,3501.85,1,No,,No
+C100601,2022-11-03,West,One year,Fiber,59,,3208.97,0,Yes,,No
+C100602,2022-03-08,West,Month-to-month,DSL,1,$48.27,50.37,2,No,,No
+C100603,2023-03-10,North,Month-to-month,DSL,2,$18.00,36.53,2,No,,No
+C100604,2023-08-09,South,Month-to-month,DSL,25,$92.45,2370.9,2,No,,No
+C100605,2022-07-13,East,Month-to-month,Fiber,22,$59.18,1259.09,2,No,,No
+C100606,2024-05-27,West,Month-to-month,DSL,13,$127.03,1709.66,0,Yes,,Yes
+C100607,2024-06-16,East,Month-to-month,Fiber,9,$76.82,712.54,2,Yes,,No
+C100608,2022-01-06,North,Two year,DSL,23,$73.25,1638.97,1,No,,No
+C100609,2024-04-19,West,Month-to-month,DSL,13,$23.38,296.12,2,Yes,,No
+C100610,2024-06-17,South,Two year,DSL,23,$106.04,2450.62,0,No,,No
+C100611,2023-03-30,North,One year,Fiber,68,$59.47,4089.97,1,Yes,,No
+C100612,2023-04-11,South,Two year,Fiber,69,$64.52,4379.74,5,Yes,,No
+C100613,2023-03-08,North,Month-to-month,No internet,2,$18.00,37.47,3,No,,Yes
+C100614,2023-05-16,North,Month-to-month,Fiber,8,$91.71,757.22,2,Yes,,Yes
+C100615,2022-12-20,South,One year,DSL,35,$93.27,3239.39,2,Yes,,Yes
+C100616,2022-02-27,South,Month-to-month,Fiber,29,$53.41,1485.03,3,No,,Yes
+C100617,2023-06-04,West,Month-to-month,DSL,4,$70.89,276.1,4,Yes,,Yes
+C100618,2024-02-22,North,One year,Fiber,60,$78.38,4590.64,0,No,,No
+C100619,2023-07-22,North,One year,DSL,34,$92.64,3190.73,2,Yes,,No
+C100620,2023-07-20,North,Month-to-month,Fiber,14,$71.19,1004.48,N/A,No,,No
+C100621,2023-11-14,East,Month-to-month,No internet,7,$111.64,818.85,1,Yes,,Yes
+C100622,2024-04-20,West,Two year,DSL,30,$62.52,1888.06,0,No,,No
+C100623,2022-05-12,South,Month-to-month,DSL,15,$53.42,793.09,2,Yes,,Yes
+C100624,2023-09-26,South,One year,DSL,31,$56.92,1767.49,4,Yes,,No
+C100625,2024-03-31,North,Month-to-month,DSL,10,$18.00,185.02,0,No,,No
+C100626,2023-12-22,East,Two year,Fiber,11,$48.42,544.21,4,Yes,,No
+C100627,2022-03-09,West,Month-to-month,DSL,7,$93.77,679.76,2,No,,Yes
+C100628,2022-08-02,North,Month-to-month,Fiber,9,$75.22,669.42,4,No,,Yes
+C100629,2024-04-20,South,Month-to-month,Fiber,28,$48.14,1359.37,2,Yes,,Yes
+C100630,2022-05-01,East,One year,DSL,32,$77.35,2546.3,3,No,,No
+C100631,2022-07-15,South,Two year,DSL,42,$18.15,731.17,2,Yes,,No
+C100632,2023-10-20,West,Month-to-month,DSL,17,$61.50,1042.54,3,Yes,,Yes
+C100633,2023-03-15,,Month-to-month,Fiber,19,$81.75,1579.13,1,Yes,,Yes
+C100634,2024-04-26,East,One year,Fiber,17,$86.08,1510.26,6,Yes,,No
+C100635,2024-01-25,East,One year,Fiber,12,$49.27,619.29,1,No,,No
+C100636,2022-05-12,North,Month-to-month,DSL,7,$91.46,613.78,0,Yes,,Yes
+C100637,2022-11-15,West,One year,Fiber,33,$115.38,3984.05,1,No,,No
+C100638,2023-03-22,West,Month-to-month,Fiber,1,$57.97,55.31,5,Yes,,Yes
+C100639,2022-04-04,North,Two year,No internet,12,$87.17,1072.72,1,Yes,,No
+C100640,2022-12-24,South,Month-to-month,Fiber,10,$29.71,284.27,2,No,,Yes
+C100641,2023-09-05,West,One year,DSL,38,$19.60,714.77,0,Yes,,No
+C100642,2022-02-11,North,One year,Fiber,63,$83.97,5216.28,1,No,,No
+C100643,2023-10-18,North,One year,DSL,54,$69.74,3888.91,0,Yes,,No
+C100644,2023-10-21,East,Month-to-month,Fiber,21,$73.66,1519.17,2,No,,No
+C100645,2023-01-02,West,One year,DSL,26,$54.09,1336.98,2,Yes,,No
+C100646,2024-03-18,South,One year,Fiber,23,$61.33,1411.01,0,No,,No
+C100647,2023-08-16,,Month-to-month,Fiber,1,$88.95,87.96,1,Yes,,No
+C100648,2022-10-29,West,Month-to-month,DSL,19,$111.64,2039.22,3,Yes,,Yes
+C100649,2024-01-27,West,Two year,DSL,29,$63.27,1743.97,0,No,,No
+C100650,2024-03-12,East,One year,Fiber,38,$27.42,1067.1,1,No,,Yes
+C100651,2022-01-03,South,Month-to-month,DSL,19,$100.56,1878.06,2,No,,No
+C100652,2023-01-19,South,One year,No internet,50,$83.77,4109.85,1,Yes,,No
+C100653,2023-08-08,West,Month-to-month,DSL,13,,1109.94,3,No,,Yes
+C100654,2023-10-16,East,Month-to-month,Fiber,11,$73.26,773.92,1,No,,Yes
+C100655,2023-07-15,N/A,Two year,DSL,12,$126.81,1556.12,3,Yes,,Yes
+C100656,2024-06-10,West,Month-to-month,DSL,21,$70.60,1495.88,3,No,,No
+C100657,2023-02-13,North,Month-to-month,DSL,23,$81.57,1823.72,3,No,,No
+C100658,2022-06-09,South,Month-to-month,DSL,2,$22.37,45.29,3,Yes,,Yes
+C100659,2022-06-29,East,Month-to-month,No internet,16,$54.23,861.52,3,Yes,,Yes
+C100660,2024-01-21,South,Month-to-month,Fiber,18,$51.54,915.84,3,Yes,,No
+C100661,2022-11-02,North,Month-to-month,Fiber,6,$67.97,407.12,1,Yes,,Yes
+C100662,2024-04-22,West,Month-to-month,Fiber,15,$77.43,1202.43,3,No,,Yes
+C100663,2023-01-03,,Month-to-month,No internet,29,$49.97,1380.4,5,Yes,,No
+C100664,2023-01-02,North,Month-to-month,No internet,24,$112.01,2561.23,,Yes,,No
+C100665,2024-01-05,West,Month-to-month,DSL,28,$42.07,1157.89,5,Yes,,Yes
+C100666,2023-04-02,West,One year,DSL,36,$57.45,2017.14,0,Yes,,No
+C100667,2023-10-29,South,Two year,Fiber,55,$74.68,4090.0,2,Yes,,No
+C100668,2023-12-04,West,Month-to-month,Fiber,28,$37.43,1072.88,4,Yes,,Yes
+C100669,2023-04-04,North,One year,Fiber,68,$82.99,5634.1,2,No,,No
+C100670,2024-05-15,West,Month-to-month,Fiber,13,$84.55,1083.5,2,Yes,,Yes
+C100671,2022-09-30,West,Month-to-month,Fiber,16,$61.40,995.75,1,No,,No
+C100672,2023-10-25,West,Month-to-month,Fiber,14,$116.47,1666.65,1,No,,Yes
+C100673,2024-02-24,West,Two year,Fiber,48,$70.76,3547.8,1,Yes,,No
+C100674,2022-12-29,South,Month-to-month,Fiber,17,$75.75,1307.2,4,Yes,,Yes
+C100675,2022-02-05,West,Two year,Fiber,27,$44.70,1257.24,2,Yes,,No
+C100676,2022-07-18,East,Month-to-month,Fiber,25,$26.83,639.89,4,Yes,,Yes
+C100677,2022-11-22,West,One year,DSL,17,$52.93,924.77,3,Yes,,No
+C100678,2022-10-13,North,Two year,DSL,13,$60.68,759.92,0,Yes,,No
+C100679,2022-10-29,N/A,Two year,No internet,55,$57.33,3073.34,0,No,,No
+C100680,2023-09-03,West,Month-to-month,DSL,18,$87.95,1659.44,2,Yes,,Yes
+C100681,2023-03-12,West,Month-to-month,No internet,2,$18.00,37.62,3,No,,Yes
+C100682,2022-03-27,West,Month-to-month,DSL,22,$40.35,874.92,1,Yes,,Yes
+C100683,2022-02-10,South,One year,DSL,19,$23.03,451.37,3,No,,No
+C100684,2023-06-18,West,Month-to-month,Fiber,19,$102.28,1936.91,2,No,,No
+C100685,2023-01-18,South,Month-to-month,Fiber,21,$54.59,1108.49,2,Yes,,Yes
+C100686,2023-07-21,South,Two year,Fiber,11,$55.84,589.27,2,No,,No
+C100687,2022-05-10,South,Month-to-month,DSL,10,$41.16,406.35,4,No,,No
+C100688,2024-06-03,West,Month-to-month,Fiber,9,$91.23,804.42,2,Yes,,Yes
+C100689,2022-02-24,West,Two year,DSL,47,$58.42,2764.71,1,Yes,,No
+C100690,2022-08-10,South,Month-to-month,No internet,7,$74.28,526.99,1,Yes,,Yes
+C100691,2024-06-12,West,Month-to-month,DSL,23,$18.00,433.73,2,Yes,,No
+C100692,2023-08-02,East,Month-to-month,DSL,9,,877.88,2,Yes,,Yes
+C100693,2024-01-21,South,Month-to-month,DSL,25,$78.61,2014.96,3,Yes,,Yes
+C100694,2022-01-17,West,Month-to-month,No internet,28,$82.55,2369.99,1,Yes,,Yes
+C100695,2022-10-30,North,One year,Fiber,58,$99.68,5698.42,4,No,,No
+C100696,2022-12-22,East,Two year,DSL,65,$63.91,3974.9,2,No,,No
+C100697,2023-08-10,South,One year,DSL,66,$64.56,4313.23,0,Yes,,No
+C100698,2023-07-16,North,One year,DSL,45,$86.72,4045.4,1,Yes,,No
+C100699,2022-08-03,North,Month-to-month,Fiber,20,$79.43,1574.09,1,No,,No
+C100700,2022-01-02,South,One year,DSL,60,$62.63,3634.28,1,Yes,,No
+C100701,2024-03-09,North,One year,DSL,55,$69.86,3699.3,0,Yes,,No
+C100702,2024-01-01,North,One year,DSL,50,$56.14,2746.68,3,Yes,,No
+C100703,2023-07-29,South,Two year,No internet,68,$86.66,6184.41,4,No,,No
+C100704,2024-05-19,North,One year,Fiber,21,$92.14,2007.12,0,No,,No
+C100705,2023-01-30,South,Month-to-month,DSL,2,$68.90,143.85,4,Yes,,Yes
+C100706,2022-08-26,North,One year,DSL,42,$115.81,4728.24,0,Yes,,No
+C100707,2022-09-17,North,Month-to-month,DSL,8,$30.26,238.98,4,No,,No
+C100708,2022-05-28,East,Month-to-month,DSL,22,$62.94,1408.6,1,No,,No
+C100709,2023-02-01,West,One year,DSL,18,$111.63,1942.83,0,No,,No
+C100710,2022-05-12,North,Two year,Fiber,12,$58.23,670.31,2,No,,No
+C100711,2023-11-06,West,Month-to-month,Fiber,8,$28.71,220.37,2,Yes,,Yes
+C100712,2023-02-27,,Month-to-month,DSL,25,$103.74,2586.4,7,Yes,,Yes
+C100713,2023-12-02,West,One year,No internet,21,$82.46,1746.99,3,No,,Yes
+C100714,2022-10-30,East,Month-to-month,Fiber,6,$38.88,228.45,8,Yes,,Yes
+C100715,2022-02-19,South,Month-to-month,Fiber,26,$88.21,2355.69,1,Yes,,Yes
+C100716,2022-04-23,South,Month-to-month,DSL,22,$43.17,952.51,0,No,,No
+C100717,2024-05-24,East,Month-to-month,No internet,1,$35.22,34.75,2,No,,Yes
+C100718,2023-01-27,East,One year,Fiber,46,$64.99,2906.19,3,No,,Yes
+C100719,2023-04-16,West,One year,DSL,49,$56.75,2842.86,1,Yes,,No
+C100720,2023-05-20,West,Month-to-month,DSL,26,$41.30,1062.32,4,Yes,,Yes
+C100721,2024-03-24,West,Two year,No internet,50,$59.64,3089.39,0,No,,No
+C100722,2023-10-29,North,Two year,Fiber,47,$43.64,2146.93,1,Yes,,No
+C100723,2022-02-20,West,Month-to-month,DSL,7,$70.31,500.44,2,Yes,,Yes
+C100724,2023-07-26,South,Month-to-month,Fiber,21,$68.23,1470.52,5,Yes,,Yes
+C100725,2024-02-13,East,Month-to-month,Fiber,8,$87.48,695.25,5,Yes,,Yes
+C100726,2023-06-21,South,Two year,Fiber,52,$57.42,3077.02,0,No,,No
+C100727,2023-06-16,South,Two year,Fiber,34,$35.44,1181.64,1,Yes,,No
+C100728,2023-08-29,East,Month-to-month,Fiber,24,$35.75,828.12,2,Yes,,Yes
+C100729,2022-03-27,South,Month-to-month,Fiber,23,$62.65,1466.82,7,Yes,,No
+C100730,2022-12-20,North,Month-to-month,Fiber,5,$107.31,546.02,2,Yes,,Yes
+C100731,2022-01-01,North,Month-to-month,Fiber,14,$90.08,1239.78,2,Yes,,Yes
+C100732,2023-04-11,North,Two year,Fiber,15,$52.75,805.8,1,No,,No
+C100733,2022-08-03,West,Month-to-month,Fiber,4,$92.43,385.28,,Yes,,Yes
+C100734,2023-07-10,North,Month-to-month,DSL,19,$39.75,740.26,2,No,,Yes
+C100735,2024-04-03,South,Month-to-month,DSL,8,$94.22,771.19,5,Yes,,Yes
+C100736,2023-07-23,East,Month-to-month,No internet,29,$59.22,1713.57,5,Yes,,Yes
+C100737,2023-08-15,East,One year,Fiber,65,$88.09,5638.41,0,Yes,,No
+C100738,2022-02-17,N/A,Month-to-month,DSL,16,$84.43,1414.45,5,Yes,,No
+C100739,2022-10-22,West,Month-to-month,Fiber,23,$61.87,1445.45,6,No,,Yes
+C100740,2023-06-16,South,Month-to-month,Fiber,28,$77.04,2057.16,2,Yes,,No
+C100741,2022-10-01,North,Two year,Fiber,40,$42.08,1723.7,0,Yes,,No
+C100742,2022-02-04,West,One year,DSL,19,$66.98,1314.09,2,No,,No
+C100743,2023-10-10,South,Month-to-month,Fiber,21,$95.98,2013.22,2,No,,Yes
+C100744,2023-03-24,West,Two year,Fiber,49,$140.00,6572.66,2,Yes,,No
+C100745,2022-12-25,West,Month-to-month,DSL,11,$86.45,976.65,2,No,,No
+C100746,2024-04-03,East,One year,DSL,50,$71.04,3520.44,2,Yes,,No
+C100747,2022-03-21,South,Month-to-month,Fiber,21,$43.45,940.92,1,No,,No
+C100748,2022-07-05,North,Two year,DSL,59,$95.39,5573.9,2,Yes,,No
+C100749,2023-07-30,South,Month-to-month,Fiber,9,$27.31,244.34,2,No,,Yes
+C100750,2024-06-11,North,Month-to-month,No internet,13,$48.71,647.84,3,No,,Yes
+C100751,2023-04-03,East,One year,DSL,62,$77.82,4712.87,1,No,,No
+C100752,2023-09-30,South,Month-to-month,DSL,25,$38.62,1002.37,2,Yes,,No
+C100753,2024-02-26,North,Month-to-month,No internet,1,$107.46,104.86,4,Yes,,Yes
+C100754,2022-03-23,East,Month-to-month,Fiber,4,$96.25,399.19,,Yes,,Yes
+C100755,2022-03-29,West,Month-to-month,DSL,9,$54.59,505.05,2,Yes,,No
+C100756,2023-06-22,North,Month-to-month,DSL,12,$54.92,645.16,3,Yes,,No
+C100757,2023-08-19,East,Month-to-month,DSL,25,$35.78,914.79,4,No,,No
+C100758,2023-11-23,East,Month-to-month,Fiber,22,$33.72,748.76,5,No,,Yes
+C100759,2023-11-27,West,Month-to-month,Fiber,26,$79.94,2049.71,3,Yes,,Yes
+C100760,2022-04-18,West,Month-to-month,Fiber,20,$84.48,1697.59,4,Yes,,Yes
+C100761,2023-03-30,North,One year,No internet,61,$77.66,4577.98,0,No,,No
+C100762,2022-01-16,North,Month-to-month,Fiber,7,$75.51,502.99,3,Yes,,Yes
+C100763,2023-12-21,North,Month-to-month,Fiber,22,$54.80,1262.47,5,Yes,,Yes
+C100764,2024-06-14,South,Month-to-month,No internet,13,$77.88,1032.89,1,Yes,,No
+C100765,2024-03-09,East,One year,Fiber,71,$31.93,2328.44,1,No,,No
+C100766,2024-06-16,West,Month-to-month,Fiber,25,$69.05,1700.25,3,Yes,,Yes
+C100767,2023-10-25,East,Month-to-month,No internet,11,$105.82,1107.34,2,No,,No
+C100768,2022-04-08,East,One year,Fiber,22,$102.03,2139.27,1,Yes,,Yes
+C100769,2022-06-27,West,Month-to-month,Fiber,27,$57.23,1515.27,2,No,,No
+C100770,2022-07-01,West,Two year,Fiber,8,$60.47,471.71,1,No,,No
+C100771,2022-04-22,West,Two year,DSL,54,$103.41,5583.26,1,Yes,,No
+C100772,2022-02-28,North,Month-to-month,Fiber,9,$113.69,1000.16,0,No,,Yes
+C100773,2023-05-08,West,One year,Fiber,69,$31.31,2249.43,3,No,,No
+C100774,2023-08-11,South,Month-to-month,Fiber,6,$58.15,344.65,2,Yes,,Yes
+C100775,2024-06-02,North,Month-to-month,Fiber,23,$74.73,1690.21,1,No,,No
+C100776,2023-06-25,North,Month-to-month,DSL,12,$99.42,1176.56,,No,,No
+C100777,2024-05-10,East,One year,Fiber,7,$47.83,326.12,3,Yes,,Yes
+C100778,2023-10-04,,Two year,Fiber,35,$84.97,2861.59,2,Yes,,No
+C100779,2023-02-16,West,Month-to-month,Fiber,29,$61.32,1804.73,1,No,,Yes
+C100780,2023-05-27,South,One year,DSL,15,$128.47,1894.5,,No,,No
+C100781,2023-07-14,,Month-to-month,Fiber,9,$79.65,709.76,4,Yes,,Yes
+C100782,2023-05-29,East,Month-to-month,No internet,28,$65.48,1908.26,4,No,,No
+C100783,2022-10-08,North,Two year,DSL,57,$60.45,3536.12,2,Yes,,No
+C100784,2023-07-20,North,One year,Fiber,53,$95.36,5270.04,1,No,,No
+C100785,2023-07-28,South,Month-to-month,Fiber,12,$85.91,1045.46,2,Yes,,Yes
+C100786,2023-07-26,East,Two year,DSL,70,$41.69,2998.94,2,Yes,,No
+C100787,2022-01-17,South,Month-to-month,Fiber,14,$74.31,1066.7,2,Yes,,Yes
+C100788,2023-08-18,East,Month-to-month,Fiber,7,$35.26,245.62,,Yes,,Yes
+C100789,2024-03-18,North,Month-to-month,No internet,14,$49.90,724.8,5,No,,Yes
+C100790,2023-02-25,West,Two year,No internet,68,$36.38,2435.74,2,Yes,,No
+C100791,2024-03-27,East,Month-to-month,DSL,9,$35.59,314.12,3,No,,No
+C100792,2023-03-30,East,Two year,DSL,70,$51.63,3634.52,0,No,,No
+C100793,2023-09-08,North,One year,Fiber,12,$44.27,536.28,1,No,,Yes
+C100794,2024-01-31,South,Month-to-month,Fiber,26,$82.12,2162.84,2,Yes,,Yes
+C100795,2022-05-08,North,One year,Fiber,6,,538.5,1,No,,Yes
+C100796,2022-10-17,North,Month-to-month,DSL,29,$62.88,1745.18,3,No,,Yes
+C100797,2022-09-10,East,One year,Fiber,40,$40.78,1683.91,4,No,,No
+C100798,2023-12-24,South,One year,Fiber,23,$89.06,2102.14,1,No,,No
+C100799,2024-02-19,South,One year,No internet,39,$18.07,735.78,1,No,,No
+C100800,2022-02-19,North,Two year,Fiber,48,$20.40,958.49,3,No,,No
+C100801,2022-10-01,West,Month-to-month,No internet,5,$87.14,424.94,3,No,,No
+C100802,2022-09-09,South,Two year,DSL,71,$85.35,6222.37,0,Yes,,No
+C100803,2023-12-14,North,Month-to-month,DSL,7,$93.34,629.02,2,No,,Yes
+C100804,2022-07-02,East,One year,Fiber,9,$63.46,563.21,0,No,,No
+C100805,2024-02-13,West,Two year,Fiber,62,$37.21,2416.34,0,No,,Yes
+C100806,2023-04-08,South,Two year,Fiber,43,$56.09,2378.55,0,No,,No
+C100807,2023-10-03,N/A,Month-to-month,DSL,28,$83.11,2330.56,3,No,,Yes
+C100808,2022-06-21,N/A,Month-to-month,No internet,25,$49.64,1232.9,4,No,,No
+C100809,2022-09-28,South,Two year,Fiber,41,$51.25,2154.89,0,Yes,,No
+C100810,2022-11-17,West,Two year,Fiber,51,$33.87,1759.72,6,No,,No
+C100811,2023-07-14,South,Month-to-month,No internet,6,$39.66,234.93,5,No,,Yes
+C100812,2024-03-09,West,Two year,DSL,63,$90.05,5803.44,0,No,,No
+C100813,2024-02-11,West,Month-to-month,Fiber,18,$80.29,1453.49,0,No,,Yes
+C100814,2024-02-20,West,Month-to-month,DSL,18,$39.72,706.41,3,Yes,,Yes
+C100815,2023-10-09,West,One year,DSL,68,$41.76,2803.86,1,Yes,,No
+C100816,2022-09-02,East,Month-to-month,DSL,14,,763.88,N/A,Yes,,Yes
+C100817,2024-01-08,South,Month-to-month,Fiber,26,$82.64,2138.74,2,Yes,,Yes
+C100818,2023-10-20,,Month-to-month,DSL,22,$39.55,827.39,3,Yes,,Yes
+C100819,2024-02-27,East,Month-to-month,Fiber,27,$64.65,1660.95,1,Yes,,Yes
+C100820,2023-04-09,South,Month-to-month,DSL,5,$18.00,87.27,3,Yes,,Yes
+C100821,2023-04-24,South,Month-to-month,Fiber,12,$37.32,456.08,5,No,,Yes
+C100822,2023-02-08,East,One year,Fiber,17,$79.45,1414.09,0,No,,No
+C100823,2023-08-30,East,One year,DSL,48,$91.43,4172.3,0,Yes,,No
+C100824,2023-07-07,North,One year,DSL,68,$39.85,2575.6,1,No,,No
+C100825,2023-05-25,West,Two year,No internet,50,$49.46,2480.62,2,Yes,,No
+C100826,2023-10-23,East,Month-to-month,DSL,26,$88.92,2390.11,6,Yes,,Yes
+C100827,2024-06-02,South,Month-to-month,DSL,23,$59.09,1408.55,2,No,,No
+C100828,2023-05-02,West,Month-to-month,DSL,7,$55.29,373.06,2,No,,Yes
+C100829,2022-03-26,North,Month-to-month,Fiber,25,$81.92,2009.53,1,Yes,,Yes
+C100830,2024-03-30,North,One year,No internet,64,$73.81,4798.3,1,Yes,,Yes
+C100831,2022-01-24,,Month-to-month,DSL,12,$96.81,1200.32,3,Yes,,Yes
+C100832,2023-07-07,N/A,Month-to-month,Fiber,3,$88.83,276.14,3,Yes,,Yes
+C100833,2023-12-18,West,One year,DSL,59,$54.44,3161.23,1,Yes,,No
+C100834,2022-12-05,South,Month-to-month,Fiber,23,$65.91,1542.6,0,Yes,,No
+C100835,2023-11-28,South,Month-to-month,Fiber,7,$67.39,476.49,0,Yes,,No
+C100836,2024-04-06,East,One year,DSL,64,$34.86,2168.68,0,Yes,,No
+C100837,2023-07-07,West,One year,DSL,10,N/A,455.83,2,Yes,,Yes
+C100838,2024-05-08,South,Month-to-month,No internet,8,$93.30,719.68,1,No,,No
+C100839,2022-01-11,West,One year,No internet,12,$29.07,355.57,0,No,,No
+C100840,2023-05-15,West,Month-to-month,No internet,17,$93.88,1579.22,7,Yes,,Yes
+C100841,2022-10-02,East,Month-to-month,Fiber,11,$76.08,860.03,3,No,,No
+C100842,2022-07-30,North,One year,DSL,42,$65.43,2828.37,1,Yes,,No
+C100843,2024-01-29,North,Month-to-month,Fiber,26,$82.43,2067.91,1,Yes,,Yes
+C100844,2024-03-13,West,Month-to-month,DSL,10,$80.88,812.73,3,No,,Yes
+C100845,2022-05-16,West,One year,DSL,55,$99.27,5673.63,4,Yes,,No
+C100846,2023-03-05,West,One year,Fiber,15,$58.88,896.8,4,No,,No
+C100847,2022-01-23,South,Month-to-month,Fiber,13,$63.20,816.67,4,No,,Yes
+C100848,2022-11-14,East,One year,Fiber,43,$62.76,2614.89,2,No,,No
+C100849,2024-05-31,West,Month-to-month,Fiber,17,$116.17,1909.86,1,Yes,,No
+C100850,2022-07-28,North,Two year,Fiber,38,$92.67,3537.64,3,No,,No
+C100851,2023-05-06,North,Month-to-month,DSL,7,$45.76,329.52,6,Yes,,Yes
+C100852,2022-10-08,West,Month-to-month,Fiber,10,$60.58,624.67,3,No,,Yes
+C100853,2022-04-16,West,Month-to-month,Fiber,8,$51.25,423.23,3,No,,Yes
+C100854,2023-05-18,South,Two year,DSL,8,$69.30,561.6,2,Yes,,Yes
+C100855,2022-11-29,West,Month-to-month,Fiber,8,$74.33,622.04,2,No,,Yes
+C100856,2022-08-30,West,One year,Fiber,22,$126.50,2797.95,1,No,,Yes
+C100857,2024-02-04,West,Two year,DSL,56,$23.18,1302.75,3,Yes,,No
+C100858,2023-12-17,West,Two year,Fiber,9,$94.78,891.09,2,No,,No
+C100859,2024-02-01,East,Month-to-month,DSL,15,$79.93,1234.75,1,No,,No
+C100860,2023-04-14,West,Month-to-month,Fiber,1,$51.38,53.01,1,No,,Yes
+C100861,2022-08-21,West,One year,No internet,22,$65.24,1417.66,3,Yes,,No
+C100862,2024-06-17,North,One year,Fiber,68,$56.57,3868.33,0,Yes,,No
+C100863,2023-11-25,North,Month-to-month,DSL,23,$70.26,1552.21,2,No,,No
+C100864,2022-05-06,North,Month-to-month,Fiber,9,$94.26,875.4,2,Yes,,Yes
+C100865,2022-11-02,South,Month-to-month,DSL,6,$30.94,181.46,5,Yes,,Yes
+C100866,2022-10-10,East,Month-to-month,Fiber,5,$101.96,517.48,4,Yes,,Yes
+C100867,2022-06-16,North,One year,Fiber,38,$59.66,2161.11,1,Yes,,Yes
+C100868,2022-01-19,North,Month-to-month,No internet,4,,420.46,0,Yes,,Yes
+C100869,2023-06-02,West,Month-to-month,Fiber,19,N/A,1453.64,4,No,,Yes
+C100870,2023-11-23,West,Month-to-month,No internet,21,$99.98,2074.61,2,No,,Yes
+C100871,2022-12-04,,Month-to-month,Fiber,5,$83.25,421.74,2,Yes,,Yes
+C100872,2023-02-16,West,Month-to-month,DSL,29,$96.28,2800.33,3,No,,No
+C100873,2023-11-30,West,Two year,Fiber,51,$70.49,3434.26,2,Yes,,No
+C100874,2023-07-10,South,Month-to-month,Fiber,25,$48.23,1207.06,4,No,,No
+C100875,2024-03-12,North,Month-to-month,No internet,17,$85.94,1390.78,1,No,,Yes
+C100876,2022-08-14,West,One year,DSL,46,$86.92,3975.0,2,No,,No
+C100877,2024-05-26,North,Month-to-month,Fiber,16,$121.72,2003.79,2,No,,No
+C100878,2023-08-06,East,Month-to-month,DSL,10,$18.87,190.09,2,No,,No
+C100879,2023-11-10,North,Two year,Fiber,56,$64.17,3548.7,0,Yes,,No
+C100880,2022-06-02,West,Two year,DSL,19,$95.73,1845.26,2,No,,Yes
+C100881,2022-11-18,West,One year,DSL,32,$37.71,1215.27,2,Yes,,No
+C100882,2023-05-21,East,Month-to-month,DSL,20,$63.43,1254.76,3,Yes,,No
+C100883,2022-11-08,East,Month-to-month,Fiber,4,$122.21,483.56,1,No,,Yes
+C100884,2022-05-04,North,Month-to-month,DSL,23,$104.65,2449.11,1,No,,No
+C100885,2022-06-19,North,Month-to-month,No internet,25,$47.11,1193.86,5,Yes,,Yes
+C100886,2022-08-02,East,Month-to-month,DSL,19,$104.91,2023.07,4,No,,No
+C100887,2023-02-25,North,Month-to-month,No internet,16,$98.84,1523.32,6,Yes,,Yes
+C100888,2022-11-22,North,One year,DSL,8,$88.66,740.35,2,Yes,,No
+C100889,2023-11-01,East,Month-to-month,Fiber,20,$78.74,1633.11,0,Yes,,No
+C100890,2023-06-02,South,Month-to-month,Fiber,4,$75.16,290.43,5,Yes,,No
+C100891,2022-02-13,North,Two year,DSL,17,$47.41,827.35,1,Yes,,No
+C100892,2023-02-15,West,Month-to-month,No internet,9,$56.27,499.56,,No,,Yes
+C100893,2022-04-13,East,Month-to-month,Fiber,14,$87.57,1264.51,4,No,,Yes
+C100894,2023-03-09,North,Month-to-month,DSL,12,$72.75,873.49,4,No,,Yes
+C100895,2023-09-16,North,One year,DSL,66,$115.56,7731.43,0,No,,No
+C100896,2023-10-22,West,One year,Fiber,55,$60.88,3385.32,1,No,,No
+C100897,2022-08-19,West,Month-to-month,DSL,24,$18.00,438.2,,No,,No
+C100898,2022-12-14,West,One year,Fiber,52,$60.88,3204.93,1,No,,No
+C100899,2023-05-11,South,Month-to-month,Fiber,24,$76.20,1855.98,0,No,,No
+C100900,2023-10-22,South,Month-to-month,DSL,7,$78.84,550.82,3,Yes,,Yes
+C100901,2023-04-20,West,One year,Fiber,47,$70.96,3340.83,1,No,,No
+C100902,2024-02-06,North,Two year,DSL,48,$48.67,2252.56,1,No,,No
+C100903,2022-05-31,South,Two year,No internet,7,$106.71,756.37,2,Yes,,Yes
+C100904,2022-02-06,North,One year,Fiber,31,$52.65,1613.06,1,Yes,,No
+C100905,2024-03-03,,Month-to-month,DSL,17,$87.09,1414.69,2,Yes,,No
+C100906,2023-02-15,North,Month-to-month,DSL,28,$62.11,1787.3,1,Yes,,Yes
+C100907,2023-02-22,North,Two year,Fiber,52,$39.33,2079.22,,Yes,,No
+C100908,2024-01-12,South,Month-to-month,DSL,17,$104.70,1757.12,4,No,,Yes
+C100909,2022-02-02,West,Month-to-month,Fiber,25,$18.00,457.49,2,No,,No
+C100910,2022-11-26,North,One year,No internet,24,$48.01,1209.18,N/A,No,,Yes
+C100911,2024-02-29,South,Two year,No internet,59,$80.16,4561.72,0,Yes,,No
+C100912,2023-08-07,West,One year,DSL,30,$60.42,1856.5,1,No,,No
+C100913,2023-10-20,East,Month-to-month,Fiber,27,$88.14,2498.26,3,No,,No
+C100914,2022-01-17,West,Month-to-month,Fiber,27,$66.87,1735.34,4,Yes,,Yes
+C100915,2022-05-29,North,Month-to-month,Fiber,26,$58.04,1467.69,1,Yes,,No
+C100916,2023-07-14,West,Two year,DSL,29,$123.46,3518.04,2,No,,Yes
+C100917,2023-12-20,South,Two year,DSL,51,$63.89,3409.56,0,No,,No
+C100918,2023-10-08,North,Month-to-month,Fiber,10,$65.45,622.28,2,Yes,,Yes
+C100919,2022-04-17,East,Two year,DSL,30,$42.32,1274.18,1,Yes,,No
+C100920,2022-09-02,North,Month-to-month,DSL,17,$50.71,840.32,3,No,,Yes
+C100921,2023-03-12,West,Month-to-month,No internet,16,$85.67,1322.77,3,No,,Yes
+C100922,2023-02-03,,Month-to-month,Fiber,26,$83.54,2065.49,4,Yes,,No
+C100923,2023-08-25,West,Month-to-month,DSL,6,$69.49,412.79,1,No,,No
+C100924,2024-05-11,South,Month-to-month,DSL,18,$51.94,917.23,2,Yes,,No
+C100925,2024-06-12,South,Month-to-month,Fiber,23,$86.63,1964.7,2,Yes,,No
+C100926,2022-10-28,South,One year,DSL,63,$26.86,1742.65,0,Yes,,No
+C100927,2024-05-06,South,Month-to-month,DSL,26,$60.94,1572.73,1,Yes,,No
+C100928,2023-06-03,,Two year,Fiber,54,$63.18,3371.95,3,Yes,,No
+C100929,2024-03-07,North,Two year,No internet,56,$48.35,2717.44,2,No,,Yes
+C100930,2023-06-13,South,Month-to-month,No internet,5,$73.34,366.37,N/A,No,,No
+C100931,2024-04-17,East,Month-to-month,Fiber,22,$52.83,1187.39,3,No,,No
+C100932,2023-05-21,East,Two year,Fiber,63,$49.45,3149.45,4,Yes,,No
+C100933,2022-04-15,East,Month-to-month,DSL,21,$114.64,2390.02,3,Yes,,No
+C100934,2024-03-23,North,Month-to-month,Fiber,23,$88.12,2127.02,6,Yes,,Yes
+C100935,2022-02-14,South,Month-to-month,Fiber,2,$99.59,208.4,7,No,,Yes
+C100936,2022-05-29,East,Two year,Fiber,16,$70.90,1152.1,0,No,,No
+C100937,2022-04-11,North,One year,DSL,42,$93.75,4063.11,1,Yes,,Yes
+C100938,2023-10-05,South,Month-to-month,DSL,24,,2069.6,,No,,Yes
+C100939,2023-09-06,North,Month-to-month,No internet,14,$100.00,1461.51,0,No,,Yes
+C100940,2022-02-13,East,Month-to-month,DSL,14,$128.90,1872.67,3,Yes,,Yes
+C100941,2022-02-09,North,Month-to-month,Fiber,8,$64.02,513.29,1,Yes,,Yes
+C100942,2022-01-13,East,Two year,DSL,8,$76.18,593.76,1,Yes,,No
+C100943,2022-07-01,West,Two year,No internet,60,$68.43,4126.33,1,No,,No
+C100944,2022-08-28,North,Month-to-month,Fiber,6,$18.00,110.61,3,No,,Yes
+C100945,2022-02-14,West,Month-to-month,DSL,23,$34.83,803.43,3,No,,Yes
+C100946,2022-11-18,West,Month-to-month,Fiber,10,$70.23,706.73,1,No,,Yes
+C100947,2023-07-19,South,Two year,Fiber,45,$85.62,3812.74,2,No,,No
+C100948,2023-09-23,East,One year,DSL,17,$55.39,954.11,2,No,,No
+C100949,2023-09-01,West,One year,Fiber,22,,2224.98,0,Yes,,No
+C100950,2023-02-05,East,One year,DSL,56,$101.92,5893.42,0,Yes,,No
+C100951,2022-07-27,East,Month-to-month,Fiber,6,$59.50,346.65,4,Yes,,Yes
+C100952,2024-02-03,N/A,Two year,Fiber,15,$105.45,1636.26,1,Yes,,No
+C100953,2022-08-13,East,Month-to-month,DSL,18,$113.65,2075.33,1,Yes,,No
+C100954,2022-03-19,West,One year,Fiber,66,$81.47,5289.25,1,No,,No
+C100955,2024-05-27,West,Month-to-month,Fiber,12,$45.34,563.75,2,No,,No
+C100956,2023-08-25,South,Month-to-month,No internet,20,$106.60,2071.54,0,Yes,,Yes
+C100957,2023-01-25,South,Two year,Fiber,45,$65.81,2854.58,0,Yes,,No
+C100958,2023-06-20,South,Month-to-month,DSL,3,$60.47,186.07,4,No,,Yes
+C100959,2022-08-31,East,Month-to-month,Fiber,20,$72.84,1526.83,2,No,,Yes
+C100960,2023-11-12,East,Month-to-month,No internet,21,$56.49,1164.25,0,No,,No
+C100961,2023-08-30,West,One year,DSL,25,$96.76,2421.24,4,Yes,,No
+C100962,2024-01-15,East,Month-to-month,Fiber,9,$89.39,791.94,5,Yes,,Yes
+C100963,2023-10-10,West,Month-to-month,DSL,8,$100.45,813.18,4,Yes,,Yes
+C100964,2023-02-01,West,Month-to-month,DSL,13,$84.51,1138.52,2,No,,Yes
+C100965,2023-04-15,East,Month-to-month,DSL,2,$50.13,104.07,2,No,,Yes
+C100966,2023-09-10,East,Month-to-month,Fiber,9,$66.01,604.42,4,No,,Yes
+C100967,2022-03-21,South,Month-to-month,Fiber,26,$91.88,2435.63,3,No,,No
+C100968,2022-08-04,North,Month-to-month,DSL,25,$59.83,1471.24,3,Yes,,Yes
+C100969,2022-08-22,North,One year,Fiber,56,$140.00,7775.7,1,No,,No
+C100970,2023-08-19,East,Month-to-month,Fiber,1,$63.94,61.03,5,No,,Yes
+C100971,2023-12-22,South,Two year,DSL,14,$55.34,748.64,,Yes,,Yes
+C100972,2023-04-04,North,Two year,No internet,36,$98.72,3449.97,1,Yes,,No
+C100973,2022-09-08,South,Month-to-month,No internet,27,$88.69,2424.47,4,Yes,,No
+C100974,2023-10-03,West,Month-to-month,Fiber,16,$69.30,1122.78,0,No,,No
+C100975,2022-05-25,South,Two year,DSL,41,$64.24,2510.69,2,Yes,,No
+C100976,2023-01-25,North,Month-to-month,Fiber,7,$80.66,550.66,,No,,Yes
+C100977,2022-09-09,North,Two year,Fiber,13,$90.89,1205.74,2,Yes,,No
+C100978,2023-04-06,South,Month-to-month,DSL,25,$89.07,2304.39,3,Yes,,Yes
+C100979,2023-11-06,West,One year,DSL,40,$62.46,2545.19,1,No,,Yes
+C100980,2022-01-24,East,Month-to-month,DSL,23,$80.80,1865.06,3,Yes,,Yes
+C100981,2024-03-29,North,One year,No internet,23,$91.10,1996.61,0,Yes,,No
+C100982,2022-04-21,East,Two year,DSL,35,$89.12,3112.51,2,No,,No
+C100983,2024-02-27,East,Month-to-month,Fiber,15,$18.00,283.47,3,No,,Yes
+C100984,2024-05-22,North,Two year,DSL,63,$47.74,2905.98,1,Yes,,No
+C100985,2024-03-11,North,Month-to-month,Fiber,7,$50.60,344.84,0,No,,Yes
+C100986,2023-09-09,North,Month-to-month,DSL,16,$64.24,1059.8,0,No,,No
+C100987,2024-03-16,South,Month-to-month,Fiber,13,$74.48,996.26,1,No,,No
+C100988,2022-03-01,N/A,Month-to-month,DSL,25,$93.04,2398.68,0,No,,Yes
+C100989,2024-05-21,West,Month-to-month,Fiber,15,$85.44,1273.16,4,No,,Yes
+C100990,2023-04-03,South,One year,DSL,41,$66.83,2609.83,2,Yes,,No
+C100991,2024-02-03,South,Month-to-month,Fiber,1,$70.58,72.59,2,No,,Yes
+C100992,2024-04-09,,One year,DSL,45,$113.98,5343.39,3,No,,Yes
+C100993,2023-07-18,North,Two year,Fiber,32,N/A,1757.72,0,No,,No
+C100994,2024-01-06,West,Two year,DSL,42,$77.61,3224.2,0,Yes,,No
+C100995,2022-09-27,East,Two year,No internet,7,$109.14,736.68,1,Yes,,No
+C100996,2022-11-16,North,Two year,DSL,44,$78.65,3384.98,1,No,,No
+C100997,2024-06-17,West,Month-to-month,Fiber,19,$18.91,360.16,2,No,,Yes
+C100998,2023-05-30,West,Two year,Fiber,65,$79.37,5298.81,2,No,,Yes
+C100999,2022-07-17,North,Month-to-month,DSL,24,$60.32,1390.29,5,No,,No
+C101000,2022-07-28,North,Two year,No internet,13,$67.17,870.99,2,No,,No
+C101001,2022-10-14,East,Two year,Fiber,33,$96.28,3024.46,0,No,,Yes
+C101002,2023-09-05,South,One year,DSL,26,$81.74,2135.56,3,Yes,,No
+C101003,2023-11-20,North,Month-to-month,DSL,20,$63.40,1267.78,3,Yes,,Yes
+C101004,2022-09-23,West,Month-to-month,No internet,3,$92.30,276.45,2,No,,No
+C101005,2023-01-31,West,Month-to-month,Fiber,18,$80.88,1419.56,1,Yes,,Yes
+C101006,2023-03-26,North,Month-to-month,Fiber,6,$72.63,420.01,2,Yes,,No
+C101007,2022-02-07,East,Month-to-month,Fiber,8,$77.53,643.89,4,Yes,,Yes
+C101008,2022-02-18,South,Month-to-month,No internet,23,$76.33,1833.46,3,No,,Yes
+C101009,2023-05-10,West,Two year,Fiber,33,$61.51,2039.81,1,Yes,,No
+C101010,2022-10-18,,Two year,DSL,7,$58.52,428.19,1,Yes,,No
+C101011,2024-03-01,West,Month-to-month,DSL,25,$70.63,1747.64,1,Yes,,Yes
+C101012,2022-09-27,East,Month-to-month,No internet,8,$46.14,364.71,4,Yes,,Yes
+C101013,2023-04-17,East,Month-to-month,Fiber,28,$38.53,1064.32,2,Yes,,No
+C101014,2022-01-05,N/A,Month-to-month,Fiber,13,$102.52,1277.25,2,No,,Yes
+C101015,2023-11-22,West,Month-to-month,No internet,6,$64.01,377.87,2,Yes,,No
+C101016,2022-02-03,South,One year,DSL,47,$69.40,3236.47,1,No,,No
+C101017,2022-06-28,South,Month-to-month,No internet,1,$66.62,67.98,3,No,,Yes
+C101018,2023-04-27,North,Month-to-month,DSL,5,$70.59,346.08,3,No,,Yes
+C101019,2023-12-05,South,Month-to-month,DSL,28,$70.57,1953.78,2,Yes,,No
+C101020,2023-10-30,,One year,DSL,25,$71.63,1836.71,1,No,,No
+C101021,2022-10-24,West,Month-to-month,Fiber,25,$49.88,1246.36,1,Yes,,No
+C101022,2022-04-01,N/A,Month-to-month,DSL,20,$93.30,1886.76,2,Yes,,Yes
+C101023,2022-11-18,South,Month-to-month,Fiber,18,$52.70,941.04,2,Yes,,No
+C101024,2023-02-02,West,Two year,Fiber,38,$95.87,3530.93,2,Yes,,Yes
+C101025,2023-10-28,West,Month-to-month,DSL,24,$22.03,523.61,2,No,,No
+C101026,2023-04-22,West,One year,No internet,41,$43.46,1791.5,1,Yes,,No
+C101027,2023-05-20,South,Month-to-month,DSL,18,$94.80,1768.15,1,No,,Yes
+C101028,2023-08-26,North,Two year,Fiber,25,$66.30,1636.66,2,Yes,,No
+C101029,2023-01-25,North,Month-to-month,Fiber,27,$53.22,1383.41,0,No,,Yes
+C101030,2023-02-20,East,Month-to-month,Fiber,10,$79.38,756.27,1,Yes,,Yes
+C101031,2022-11-16,East,Two year,Fiber,14,$43.86,643.48,0,No,,No
+C101032,2022-10-30,South,One year,DSL,26,$71.92,1893.04,1,Yes,,No
+C101033,2022-10-07,West,Month-to-month,DSL,13,$18.00,241.66,3,Yes,,Yes
+C101034,2024-01-26,North,Month-to-month,Fiber,19,$58.69,1149.83,2,Yes,,No
+C101035,2024-03-01,North,Two year,Fiber,16,$53.75,865.16,1,Yes,,No
+C101036,2022-01-22,South,Month-to-month,Fiber,29,$83.49,2350.3,4,Yes,,Yes
+C101037,2023-06-05,West,Month-to-month,Fiber,7,,642.23,4,Yes,,No
+C101038,2022-08-30,West,Two year,DSL,15,$48.64,699.63,3,Yes,,No
+C101039,2023-11-25,South,Month-to-month,DSL,21,$110.22,2327.37,2,Yes,,Yes
+C101040,2022-09-30,South,Month-to-month,DSL,3,$55.20,172.68,0,No,,No
+C101041,2024-05-09,South,Month-to-month,No internet,8,$18.60,147.61,3,Yes,,Yes
+C101042,2022-10-03,North,Month-to-month,No internet,22,$18.00,395.46,2,No,,Yes
+C101043,2023-02-13,East,Month-to-month,No internet,21,$108.47,2225.53,N/A,Yes,,No
+C101044,2022-11-18,West,One year,DSL,30,$67.81,2100.78,4,Yes,,Yes
+C101045,2023-10-07,East,Month-to-month,Fiber,24,$53.82,1342.36,2,No,,Yes
+C101046,2023-06-03,East,Month-to-month,DSL,26,$51.30,1342.82,1,No,,No
+C101047,2022-03-06,South,Two year,No internet,25,$42.69,1060.13,2,No,,No
+C101048,2023-03-14,North,Two year,Fiber,22,$103.81,2202.18,2,No,,No
+C101049,2023-03-24,West,One year,Fiber,68,$67.90,4670.33,N/A,Yes,,No
+C101050,2023-05-01,North,Month-to-month,Fiber,8,$114.76,888.71,2,No,,No
+C101051,2023-09-04,North,Month-to-month,No internet,19,$65.02,1208.38,2,Yes,,Yes
+C101052,2022-12-13,North,One year,DSL,28,$18.00,495.86,1,Yes,,No
+C101053,2023-11-14,East,Month-to-month,Fiber,22,$91.11,1955.66,1,Yes,,No
+C101054,2022-07-29,East,Two year,Fiber,64,$60.80,3965.41,3,No,,No
+C101055,2023-07-11,North,Month-to-month,Fiber,1,$64.07,64.78,3,Yes,,Yes
+C101056,2022-04-29,North,Month-to-month,Fiber,2,$109.18,226.22,N/A,No,,Yes
+C101057,2023-03-04,West,Month-to-month,Fiber,4,$63.42,260.57,0,Yes,,No
+C101058,2023-12-04,North,One year,No internet,22,$99.05,2246.24,0,Yes,,No
+C101059,2024-04-17,East,One year,Fiber,32,$69.88,2179.25,1,No,,Yes
+C101060,2023-08-13,East,One year,DSL,39,$51.20,2013.43,3,No,,No
+C101061,2022-06-09,South,Month-to-month,DSL,28,$82.68,2397.28,,No,,No
+C101062,2023-09-07,,Two year,DSL,26,$54.98,1443.57,0,Yes,,No
+C101063,2023-09-12,South,One year,Fiber,50,$100.71,4914.74,2,No,,No
+C101064,2022-10-11,North,Month-to-month,Fiber,15,$94.00,1441.57,1,No,,Yes
+C101065,2022-12-19,East,Month-to-month,DSL,27,$71.57,1904.66,3,Yes,,Yes
+C101066,2024-01-12,N/A,One year,Fiber,64,$85.25,5526.68,1,No,,No
+C101067,2022-01-13,West,Month-to-month,DSL,2,$84.12,173.85,0,Yes,,Yes
+C101068,2023-06-21,East,One year,DSL,9,$63.11,569.8,4,Yes,,No
+C101069,2024-06-15,North,One year,Fiber,6,$92.38,552.09,2,Yes,,No
+C101070,2024-01-14,North,Month-to-month,DSL,12,$64.32,769.64,6,No,,Yes
+C101071,2023-11-26,South,Two year,No internet,67,$85.41,5803.1,1,Yes,,No
+C101072,2022-09-05,North,Month-to-month,Fiber,1,$46.24,48.16,2,No,,Yes
+C101073,2024-02-04,South,Month-to-month,Fiber,19,$72.55,1377.64,2,No,,Yes
+C101074,2022-02-12,North,Month-to-month,Fiber,5,$80.40,407.59,3,No,,Yes
+C101075,2022-04-11,South,Two year,Fiber,27,$50.29,1382.82,2,Yes,,Yes
+C101076,2023-06-24,North,Month-to-month,DSL,16,$59.64,981.84,5,Yes,,Yes
+C101077,2024-01-11,North,One year,DSL,7,$56.72,381.03,2,No,,Yes
+C101078,2024-02-08,East,Month-to-month,DSL,22,$88.27,1953.06,2,Yes,,No
+C101079,2023-02-05,South,Two year,Fiber,31,$52.08,1552.5,2,Yes,,No
+C101080,2022-02-24,East,Two year,DSL,60,$81.04,4633.02,2,No,,No
+C101081,2022-09-11,,Month-to-month,Fiber,20,$108.22,2089.47,3,Yes,,Yes
+C101082,2024-05-20,West,Two year,Fiber,53,,4390.8,,Yes,,No
+C101083,2023-05-16,East,One year,Fiber,41,$29.83,1235.38,1,Yes,,No
+C101084,2024-06-01,South,Month-to-month,No internet,28,$73.28,2109.96,3,Yes,,Yes
+C101085,2024-02-04,South,Month-to-month,Fiber,16,$96.16,1551.09,1,No,,No
+C101086,2023-05-30,North,Month-to-month,Fiber,6,$63.00,382.9,5,No,,Yes
+C101087,2024-04-28,West,Month-to-month,Fiber,8,$97.89,771.39,N/A,Yes,,No
+C101088,2023-12-25,North,Month-to-month,Fiber,23,$85.62,2001.55,N/A,Yes,,No
+C101089,2023-04-01,West,Month-to-month,No internet,1,N/A,78.9,4,No,,Yes
+C101090,2022-07-08,East,Month-to-month,Fiber,5,$63.65,319.74,6,Yes,,Yes
+C101091,2023-11-10,,One year,Fiber,24,$57.38,1379.84,4,No,,No
+C101092,2023-02-07,East,Two year,DSL,16,$63.80,1024.22,2,No,,No
+C101093,2024-01-21,West,Two year,DSL,27,$71.79,1865.5,0,Yes,,No
+C101094,2023-09-15,South,Month-to-month,Fiber,4,$83.30,333.63,4,Yes,,Yes
+C101095,2023-08-04,East,One year,Fiber,38,$80.74,2999.41,4,No,,No
+C101096,2024-03-06,North,Month-to-month,Fiber,26,$62.72,1552.52,2,Yes,,Yes
+C101097,2024-06-07,South,Month-to-month,No internet,3,$71.88,221.21,4,Yes,,Yes
+C101098,2022-12-09,East,Two year,No internet,39,$79.95,3000.94,1,No,,No
+C101099,2023-02-17,East,Month-to-month,Fiber,8,$29.65,247.86,3,No,,Yes
+C101100,2023-08-28,East,Two year,Fiber,44,$51.07,2248.81,3,No,,No
+C101101,2022-04-02,West,One year,Fiber,11,$50.31,545.97,1,No,,No
+C101102,2023-08-31,East,Month-to-month,DSL,5,$65.20,310.76,2,No,,Yes
+C101103,2023-02-06,East,One year,DSL,27,$63.42,1629.04,,Yes,,Yes
+C101104,2022-06-21,East,Month-to-month,No internet,27,$63.87,1755.8,2,Yes,,Yes
+C101105,2023-04-18,West,Two year,No internet,33,$48.50,1631.72,1,No,,No
+C101106,2023-11-15,West,Month-to-month,DSL,27,$87.15,2318.97,1,No,,Yes
+C101107,2023-11-14,South,Month-to-month,DSL,25,$77.29,2000.77,0,No,,No
+C101108,2024-05-16,East,One year,No internet,44,$29.28,1261.81,1,Yes,,No
+C101109,2024-01-18,East,Month-to-month,DSL,29,$70.69,2055.05,3,No,,Yes
+C101110,2023-01-20,South,Month-to-month,DSL,18,$42.20,732.48,5,No,,Yes
+C101111,2022-02-10,East,Month-to-month,DSL,26,$112.93,2893.24,2,Yes,,Yes
+C101112,2023-12-09,South,Month-to-month,DSL,10,$58.98,603.06,0,Yes,,No
+C101113,2022-08-02,East,Month-to-month,Fiber,14,$60.53,841.9,1,Yes,,No
+C101114,2022-02-09,East,One year,Fiber,36,$72.48,2549.5,3,No,,Yes
+C101115,2022-05-21,South,Two year,DSL,36,$65.39,2355.09,3,Yes,,No
+C101116,2024-05-11,East,Month-to-month,Fiber,2,$68.94,142.56,3,Yes,,No
+C101117,2024-03-28,North,One year,DSL,60,$109.09,6600.87,1,Yes,,No
+C101118,2023-07-02,West,Two year,DSL,43,$76.06,3194.4,2,No,,No
+C101119,2022-04-02,North,Month-to-month,Fiber,7,$91.29,664.06,1,Yes,,Yes
+C101120,2023-03-04,East,One year,No internet,33,$98.60,3126.99,2,Yes,,Yes
+C101121,2024-02-21,,Month-to-month,DSL,19,$46.05,897.05,3,No,,No
+C101122,2023-05-22,North,Two year,No internet,54,$112.65,6049.99,0,Yes,,No
+C101123,2022-06-22,North,One year,No internet,68,$87.63,5975.62,3,No,,No
+C101124,2023-05-29,South,Two year,Fiber,43,$94.36,3959.18,3,Yes,,No
+C101125,2024-02-20,South,One year,Fiber,23,$48.85,1096.69,1,Yes,,Yes
+C101126,2023-09-14,East,Two year,DSL,15,$90.87,1315.98,0,Yes,,No
+C101127,2023-04-03,,Month-to-month,DSL,6,$80.78,486.87,0,Yes,,Yes
+C101128,2023-12-26,North,One year,Fiber,41,$57.02,2389.84,2,No,,Yes
+C101129,2023-12-23,East,Month-to-month,DSL,13,$127.52,1576.29,0,No,,Yes
+C101130,2023-12-25,South,Month-to-month,Fiber,21,$84.62,1738.44,3,No,,Yes
+C101131,2024-05-07,West,Month-to-month,Fiber,7,$64.47,450.76,3,No,,Yes
+C101132,2023-07-18,North,One year,Fiber,24,$75.31,1892.26,1,Yes,,No
+C101133,2024-06-07,South,One year,DSL,21,$93.22,1958.35,1,No,,No
+C101134,2022-11-23,South,Two year,DSL,24,$98.72,2380.84,1,Yes,,No
+C101135,2022-03-15,South,Month-to-month,Fiber,18,$85.01,1535.72,2,No,,Yes
+C101136,2023-09-17,East,Month-to-month,Fiber,1,$100.90,97.55,4,No,,Yes
+C101137,2024-03-05,East,Month-to-month,No internet,19,$107.23,2043.01,0,No,,No
+C101138,2022-11-30,East,Two year,DSL,21,$39.61,803.57,2,Yes,,No
+C101139,2023-11-02,East,Month-to-month,No internet,10,$58.34,600.69,2,No,,No
+C101140,2022-03-01,East,Month-to-month,DSL,15,$47.00,724.8,2,No,,No
+C101141,2022-11-16,North,One year,Fiber,64,$72.92,4791.79,2,No,,No
+C101142,2022-11-25,East,One year,DSL,61,$106.57,6319.62,1,Yes,,No
+C101143,2022-07-07,West,Month-to-month,Fiber,25,$86.82,2155.83,4,Yes,,Yes
+C101144,2022-06-24,North,Month-to-month,Fiber,13,$44.35,552.91,2,Yes,,No
+C101145,2023-08-09,South,Month-to-month,DSL,23,$63.16,1464.37,1,Yes,,No
+C101146,2024-05-13,South,Two year,Fiber,47,$96.21,4386.67,4,No,,No
+C101147,2023-09-20,East,One year,Fiber,70,$57.21,4133.79,0,No,,No
+C101148,2022-01-05,South,Month-to-month,No internet,23,$68.08,1572.5,0,Yes,,Yes
+C101149,2022-05-03,East,Month-to-month,Fiber,29,$78.11,2202.1,1,No,,No
+C101150,2023-02-23,South,Month-to-month,DSL,7,$24.96,176.03,0,Yes,,No
+C101151,2023-10-19,West,One year,DSL,69,$89.99,6149.76,1,No,,No
+C101152,2022-09-12,North,One year,DSL,29,$79.06,2330.58,5,Yes,,Yes
+C101153,2023-05-13,South,Two year,DSL,51,$84.71,4488.24,1,No,,No
+C101154,2023-12-14,South,Month-to-month,Fiber,11,$46.03,482.12,1,No,,No
+C101155,2023-09-06,South,Month-to-month,Fiber,18,$51.30,901.78,1,Yes,,Yes
+C101156,2022-03-15,West,One year,DSL,28,$55.58,1613.78,1,No,,No
+C101157,2024-01-18,West,Two year,Fiber,52,$76.76,3841.33,2,No,,Yes
+C101158,2023-01-06,,One year,Fiber,64,$72.26,4655.88,5,No,,No
+C101159,2023-02-20,West,Month-to-month,DSL,15,$73.70,1155.92,3,Yes,,Yes
+C101160,2023-03-07,North,Two year,DSL,64,$115.29,7170.5,5,Yes,,No
+C101161,2024-04-12,East,Month-to-month,DSL,14,$103.14,1501.95,3,No,,Yes
+C101162,2023-12-17,North,Two year,DSL,8,$52.52,410.29,0,No,,Yes
+C101163,2023-05-31,West,Month-to-month,Fiber,17,$54.16,927.44,3,Yes,,No
+C101164,2022-01-01,East,Month-to-month,DSL,22,$113.39,2536.68,6,No,,Yes
+C101165,2022-08-31,North,Two year,No internet,67,$62.58,4016.42,2,Yes,,No
+C101166,2022-07-17,North,Month-to-month,DSL,17,$104.97,1847.67,3,No,,No
+C101167,2022-11-30,East,Two year,DSL,71,$110.47,8101.27,2,No,,No
+C101168,2022-10-22,West,One year,DSL,11,$56.94,596.6,1,No,,Yes
+C101169,2022-09-24,South,Month-to-month,Fiber,13,$63.76,827.46,4,No,,Yes
+C101170,2024-01-27,East,Month-to-month,Fiber,2,$72.57,151.31,2,No,,No
+C101171,2024-04-27,East,One year,DSL,16,$48.91,771.02,0,No,,No
+C101172,2023-07-05,East,Month-to-month,Fiber,3,$46.05,137.34,2,Yes,,Yes
+C101173,2023-08-14,East,Two year,Fiber,14,$60.47,831.47,1,Yes,,No
+C101174,2022-10-19,North,Two year,Fiber,15,$91.82,1318.08,5,Yes,,Yes
+C101175,2023-05-02,South,Month-to-month,No internet,23,$59.30,1309.01,3,Yes,,Yes
+C101176,2024-03-24,,Month-to-month,DSL,29,$65.34,1926.82,2,Yes,,No
+C101177,2024-04-04,West,Two year,Fiber,31,$58.87,1783.07,1,Yes,,No
+C101178,2022-07-15,West,Month-to-month,Fiber,23,$36.38,874.64,4,Yes,,No
+C101179,2023-06-29,West,Month-to-month,Fiber,27,$107.61,3022.11,,Yes,,Yes
+C101180,2023-05-06,South,Month-to-month,Fiber,25,$18.00,460.24,3,No,,Yes
+C101181,2023-04-04,North,Month-to-month,DSL,15,$54.15,812.17,2,Yes,,No
+C101182,2022-10-27,West,Month-to-month,Fiber,27,$84.47,2340.74,4,Yes,,Yes
+C101183,2023-02-06,West,One year,Fiber,48,$35.60,1625.49,1,No,,No
+C101184,2023-01-28,South,Two year,No internet,33,$85.62,2951.86,5,No,,No
+C101185,2024-02-20,East,Two year,Fiber,58,$101.81,6185.71,2,No,,No
+C101186,2023-12-04,South,Month-to-month,DSL,29,$49.01,1434.58,2,No,,No
+C101187,2023-04-11,West,Month-to-month,No internet,20,$75.71,1524.45,3,Yes,,Yes
+C101188,2022-12-07,North,Month-to-month,Fiber,6,$42.73,262.68,7,No,,Yes
+C101189,2022-11-28,South,Two year,Fiber,26,$83.17,2054.7,2,Yes,,Yes
+C101190,2023-02-26,North,Month-to-month,DSL,1,$72.70,74.13,1,No,,No
+C101191,2022-07-01,South,Month-to-month,DSL,13,$75.88,974.3,1,Yes,,Yes
+C101192,2023-03-15,North,Two year,DSL,57,$104.64,5668.88,1,No,,No
+C101193,2022-09-22,East,Month-to-month,DSL,12,$82.27,980.89,3,No,,No
+C101194,2023-04-02,East,Month-to-month,Fiber,15,$104.14,1628.49,3,No,,Yes
+C101195,2023-12-01,West,One year,Fiber,45,$86.34,3920.02,2,No,,No
+C101196,2022-02-19,West,Month-to-month,Fiber,3,$40.49,118.59,N/A,No,,Yes
+C101197,2022-07-06,South,Two year,No internet,33,$77.02,2542.17,0,Yes,,No
+C101198,2023-07-18,North,Month-to-month,Fiber,20,$82.72,1708.36,3,No,,Yes
+C101199,2024-02-06,East,Month-to-month,DSL,2,$34.34,66.25,2,Yes,,Yes
+C101200,2024-04-19,West,Month-to-month,Fiber,6,$103.82,651.57,1,No,,Yes
+C101201,2023-12-29,South,One year,No internet,31,$72.18,2160.66,1,No,,No
+C101202,2022-11-29,West,Month-to-month,DSL,24,$79.69,1842.14,2,No,,Yes
+C101203,2022-08-05,South,Two year,DSL,26,$48.07,1190.72,0,Yes,,No
+C101204,2023-01-08,West,Two year,No internet,38,$72.30,2854.02,1,No,,No
+C101205,2022-04-14,N/A,Two year,DSL,56,$77.98,4418.43,2,No,,No
+C101206,2024-02-28,South,Month-to-month,No internet,23,,1455.01,2,No,,Yes
+C101207,2024-01-31,South,Month-to-month,No internet,28,$72.50,2009.97,6,No,,No
+C101208,2022-01-03,North,Month-to-month,Fiber,25,$18.00,432.22,3,Yes,,Yes
+C101209,2023-06-09,West,Two year,Fiber,63,$104.53,6499.77,0,Yes,,No
+C101210,2022-02-27,South,One year,DSL,10,$42.62,411.98,2,Yes,,No
+C101211,2024-02-01,West,Month-to-month,DSL,24,$18.00,435.19,4,Yes,,Yes
+C101212,2023-04-10,East,One year,Fiber,26,$46.47,1227.47,1,Yes,,No
+C101213,2024-04-27,North,Two year,DSL,18,,895.92,4,No,,Yes
+C101214,2022-08-03,South,Two year,DSL,53,$84.06,4401.42,2,No,,No
+C101215,2022-06-13,North,One year,Fiber,36,$47.63,1673.76,0,Yes,,No
+C101216,2022-12-10,West,Two year,Fiber,20,$77.57,1579.45,1,Yes,,No
+C101217,2023-08-10,North,Two year,No internet,69,$46.48,3104.72,0,Yes,,No
+C101218,2023-02-06,South,Month-to-month,DSL,15,$125.64,1965.68,6,No,,Yes
+C101219,2022-08-17,North,Month-to-month,Fiber,12,$84.09,1009.18,1,Yes,,Yes
+C101220,2022-07-20,North,One year,DSL,45,$119.36,5390.08,3,Yes,,No
+C101221,2023-03-23,North,Month-to-month,No internet,28,$45.09,1307.01,4,Yes,,Yes
+C101222,2024-02-23,North,Month-to-month,Fiber,29,$87.05,2428.26,4,No,,Yes
+C101223,2022-04-19,North,Two year,DSL,27,$46.54,1309.16,1,Yes,,No
+C101224,2022-05-21,East,One year,Fiber,35,$84.91,3089.22,4,No,,Yes
+C101225,2023-12-21,South,Month-to-month,DSL,28,$87.39,2416.43,1,No,,No
+C101226,2022-03-29,South,Two year,No internet,39,$30.57,1152.87,2,Yes,,No
+C101227,2022-12-17,South,Month-to-month,DSL,6,$42.02,259.62,6,Yes,,Yes
+C101228,2022-12-24,East,Two year,Fiber,9,$41.27,354.5,,Yes,,No
+C101229,2022-05-12,East,Two year,Fiber,42,$32.83,1413.59,2,No,,No
+C101230,2022-06-25,,Month-to-month,DSL,2,$52.14,106.64,4,No,,Yes
+C101231,2022-04-18,East,Month-to-month,Fiber,26,$46.40,1162.35,2,No,,Yes
+C101232,2022-11-23,North,Month-to-month,No internet,21,$34.27,683.79,0,Yes,,No
+C101233,2023-01-11,North,Two year,DSL,59,$72.83,4131.62,2,Yes,,No
+C101234,2022-02-09,South,Month-to-month,Fiber,28,$84.02,2401.54,1,No,,No
+C101235,2022-10-03,East,Month-to-month,DSL,15,$37.51,558.92,3,Yes,,No
+C101236,2023-08-18,East,Two year,Fiber,61,$56.44,3604.72,2,Yes,,No
+C101237,2023-09-26,,One year,Fiber,31,$70.56,2107.02,2,Yes,,No
+C101238,2022-05-16,East,One year,Fiber,45,$64.55,3038.63,2,Yes,,No
+C101239,2022-06-06,North,One year,Fiber,23,$52.83,1271.61,2,No,,No
+C101240,2023-05-26,East,Month-to-month,Fiber,21,$90.59,1865.98,3,Yes,,Yes
+C101241,2022-10-03,West,Month-to-month,DSL,29,$91.50,2537.1,3,Yes,,Yes
+C101242,2023-04-24,North,Month-to-month,Fiber,12,N/A,1082.66,,No,,Yes
+C101243,2024-04-13,North,Month-to-month,Fiber,12,$65.11,793.05,4,Yes,,Yes
+C101244,2024-06-01,North,Month-to-month,Fiber,16,$119.97,1960.64,1,No,,Yes
+C101245,2022-11-09,East,One year,Fiber,24,$113.82,2644.7,0,Yes,,No
+C101246,2023-11-09,South,One year,DSL,17,$60.25,978.51,2,Yes,,No
+C101247,2022-04-25,East,One year,Fiber,15,$67.29,986.91,0,No,,No
+C101248,2023-01-23,North,Month-to-month,Fiber,24,$100.00,2489.08,4,No,,Yes
+C101249,2022-06-20,North,Month-to-month,No internet,16,$50.30,765.69,4,Yes,,Yes
+C101250,2024-03-14,North,Two year,Fiber,41,$80.24,3392.68,2,No,,No
+C101251,2024-03-23,North,Month-to-month,DSL,14,,969.31,2,Yes,,Yes
+C101252,2022-05-31,East,Month-to-month,DSL,20,$52.69,1033.26,2,Yes,,No
+C101253,2022-05-25,North,Month-to-month,No internet,26,$64.48,1687.74,1,Yes,,Yes
+C101254,2023-02-13,North,Two year,Fiber,68,$30.97,2188.48,2,Yes,,No
+C101255,2022-07-08,West,Month-to-month,DSL,2,$56.68,113.95,1,Yes,,Yes
+C101256,2024-05-07,,Month-to-month,DSL,22,$20.37,450.81,3,Yes,,No
+C101257,2023-06-07,,Month-to-month,DSL,2,$127.25,261.19,0,Yes,,Yes
+C101258,2024-01-02,West,One year,Fiber,48,$107.88,5283.05,0,Yes,,No
+C101259,2022-11-26,West,Two year,Fiber,70,$100.95,7312.99,1,No,,Yes
+C101260,2022-11-02,South,One year,Fiber,60,$77.78,4579.01,1,Yes,,No
+C101261,2022-02-10,North,Month-to-month,DSL,18,$95.19,1791.07,4,No,,Yes
+C101262,2023-09-22,West,Month-to-month,DSL,19,$102.02,2029.28,7,No,,Yes
+C101263,2023-01-10,South,One year,DSL,57,$95.61,5571.09,2,No,,No
+C101264,2022-07-12,South,Two year,Fiber,55,$93.16,4895.69,4,Yes,,No
+C101265,2022-07-12,East,Month-to-month,DSL,14,$47.39,655.88,2,Yes,,No
+C101266,2022-11-01,West,One year,DSL,71,$80.90,5912.41,N/A,No,,No
+C101267,2023-01-04,North,Month-to-month,Fiber,18,$56.81,994.07,3,Yes,,No
+C101268,2023-06-08,South,Month-to-month,Fiber,12,$40.65,487.03,1,Yes,,No
+C101269,2023-05-31,North,Month-to-month,No internet,19,$41.62,777.01,4,No,,No
+C101270,2024-05-06,South,One year,Fiber,9,$80.85,703.09,2,Yes,,No
+C101271,2023-03-20,South,Two year,DSL,17,$96.47,1651.21,2,No,,No
+C101272,2022-06-11,East,One year,Fiber,18,$35.94,638.06,1,No,,No
+C101273,2022-04-22,North,Month-to-month,DSL,8,$113.77,939.3,3,No,,Yes
+C101274,2023-01-31,South,One year,DSL,30,$106.85,3073.45,3,No,,Yes
+C101275,2023-08-29,South,Month-to-month,No internet,29,,1827.2,2,No,,No
+C101276,2023-02-14,East,Month-to-month,DSL,14,$58.53,809.36,2,No,,Yes
+C101277,2022-07-08,East,Month-to-month,Fiber,10,$68.27,698.39,6,Yes,,Yes
+C101278,2022-01-31,East,Month-to-month,No internet,25,$94.63,2298.92,3,No,,No
+C101279,2023-12-29,North,Month-to-month,No internet,28,$60.51,1623.56,3,No,,No
+C101280,2022-08-31,West,Month-to-month,Fiber,9,$42.42,364.57,2,Yes,,Yes
+C101281,2023-03-27,West,Month-to-month,Fiber,15,$78.66,1152.07,1,No,,Yes
+C101282,2023-10-19,South,Month-to-month,No internet,4,$18.43,71.64,3,No,,No
+C101283,2022-02-05,South,Month-to-month,DSL,7,$73.57,521.8,2,No,,Yes
+C101284,2022-06-19,South,Two year,Fiber,34,$99.02,3406.22,4,Yes,,Yes
+C101285,2024-06-13,South,Two year,DSL,60,$77.68,4848.45,3,Yes,,No
+C101286,2022-02-14,North,Month-to-month,No internet,21,$89.54,1902.35,3,Yes,,Yes
+C101287,2022-08-09,East,One year,Fiber,11,$82.37,911.4,3,Yes,,No
+C101288,2023-05-03,North,Two year,No internet,64,$88.22,5512.82,3,No,,No
+C101289,2022-01-06,West,Month-to-month,DSL,10,$73.64,702.03,1,Yes,,Yes
+C101290,2023-08-15,South,One year,DSL,15,$49.27,747.78,4,No,,No
+C101291,2024-02-03,North,Month-to-month,Fiber,13,$64.39,809.22,2,Yes,,Yes
+C101292,2024-06-06,East,One year,No internet,18,$68.17,1288.02,0,No,,No
+C101293,2023-01-20,North,Two year,No internet,71,$101.47,7334.55,1,Yes,,No
+C101294,2024-01-20,South,Month-to-month,Fiber,21,$110.65,2215.23,2,No,,No
+C101295,2022-12-01,East,Two year,DSL,29,$80.52,2320.29,0,Yes,,No
+C101296,2022-04-13,South,One year,Fiber,71,$51.18,3486.18,1,Yes,,No
+C101297,2023-11-15,West,One year,Fiber,11,$51.76,540.91,2,Yes,,No
+C101298,2022-09-25,North,One year,DSL,62,$65.31,4006.82,2,Yes,,No
+C101299,2024-06-18,North,Two year,DSL,57,$104.72,6223.8,1,Yes,,No
+C101300,2023-06-10,West,Month-to-month,DSL,6,$78.36,452.8,1,Yes,,Yes
+C101301,2022-05-07,South,One year,Fiber,25,$68.62,1799.42,1,Yes,,No
+C101302,2022-09-29,North,Month-to-month,No internet,17,$50.87,860.22,N/A,Yes,,No
+C101303,2023-12-17,North,Month-to-month,Fiber,28,$92.06,2526.92,5,Yes,,Yes
+C101304,2022-02-06,West,One year,DSL,54,$77.23,4350.03,0,No,,No
+C101305,2024-06-03,North,Month-to-month,Fiber,1,$68.73,67.45,3,No,,Yes
+C101306,2024-02-25,East,Month-to-month,No internet,19,$72.59,1331.13,N/A,Yes,,Yes
+C101307,2024-04-21,West,One year,DSL,27,$112.16,3154.12,3,Yes,,Yes
+C101308,2023-06-02,East,Two year,DSL,22,$65.99,1513.02,0,No,,No
+C101309,2022-10-03,West,One year,No internet,14,$112.21,1614.92,0,No,,No
+C101310,2023-12-15,North,Month-to-month,DSL,23,$101.06,2386.53,3,No,,Yes
+C101311,2022-02-15,East,One year,DSL,22,$71.31,1563.14,3,Yes,,No
+C101312,2022-07-27,,Month-to-month,Fiber,1,,95.33,3,No,,Yes
+C101313,2023-04-02,North,One year,Fiber,44,$66.91,2916.53,N/A,No,,No
+C101314,2023-09-18,West,One year,DSL,30,$49.29,1475.71,1,No,,No
+C101315,2023-07-12,East,One year,DSL,25,$63.30,1528.56,0,No,,No
+C101316,2023-07-17,East,Month-to-month,No internet,18,$47.32,854.42,3,Yes,,Yes
+C101317,2022-08-01,East,Month-to-month,Fiber,15,$82.79,1268.5,1,Yes,,Yes
+C101318,2023-04-16,South,One year,Fiber,38,$70.37,2610.12,2,Yes,,No
+C101319,2023-06-21,South,Month-to-month,Fiber,27,$84.20,2190.7,2,No,,No
+C101320,2024-01-26,North,One year,No internet,19,$90.67,1649.58,1,Yes,,No
+C101321,2022-01-29,West,Month-to-month,DSL,10,$18.00,179.51,2,Yes,,No
+C101322,2022-06-29,East,Month-to-month,Fiber,14,$77.79,1046.36,1,Yes,,Yes
+C101323,2024-02-12,West,Month-to-month,DSL,3,$24.96,74.29,3,Yes,,Yes
+C101324,2023-03-01,West,One year,DSL,36,$74.17,2699.45,3,Yes,,No
+C101325,2022-11-16,North,Two year,Fiber,69,$48.07,3170.75,0,No,,No
+C101326,2022-05-22,East,Two year,DSL,50,$72.61,3736.02,1,No,,No
+C101327,2022-02-14,North,Month-to-month,Fiber,26,$104.14,2597.94,1,No,,Yes
+C101328,2022-06-20,South,One year,No internet,64,$27.31,1681.27,1,No,,No
+C101329,2022-08-31,South,Month-to-month,DSL,10,$74.77,759.24,3,No,,Yes
+C101330,2022-09-27,N/A,One year,DSL,30,$68.04,2131.27,3,Yes,,No
+C101331,2024-03-13,East,Month-to-month,Fiber,4,$22.69,87.27,4,Yes,,Yes
+C101332,2024-01-24,East,Month-to-month,DSL,21,$86.20,1846.43,1,No,,No
+C101333,2022-06-22,West,Month-to-month,Fiber,18,$70.86,1271.72,4,No,,No
+C101334,2022-04-01,South,Month-to-month,Fiber,24,$57.28,1333.9,3,Yes,,Yes
+C101335,2022-08-19,West,One year,Fiber,28,$51.96,1464.83,1,Yes,,No
+C101336,2022-05-30,West,One year,DSL,16,$140.00,2224.12,0,No,,No
+C101337,2022-11-01,West,One year,Fiber,35,$60.15,2080.39,0,Yes,,No
+C101338,2023-12-06,East,Month-to-month,Fiber,22,$24.99,569.96,2,No,,No
+C101339,2023-01-27,East,One year,DSL,47,$46.73,2209.31,3,Yes,,No
+C101340,2022-05-30,North,Month-to-month,DSL,18,$60.83,1128.73,3,No,,Yes
+C101341,2022-06-18,North,One year,DSL,36,$60.39,2074.62,2,No,,No
+C101342,2023-02-26,East,Month-to-month,DSL,11,$68.03,781.49,5,No,,Yes
+C101343,2022-07-24,South,One year,Fiber,24,$43.83,1023.17,2,Yes,,No
+C101344,2022-09-10,East,Month-to-month,Fiber,14,$83.54,1171.07,3,No,,Yes
+C101345,2023-12-16,North,Month-to-month,Fiber,1,$57.91,55.4,2,No,,Yes
+C101346,2022-02-22,East,Month-to-month,DSL,18,$35.98,628.89,3,No,,No
+C101347,2023-06-25,East,Month-to-month,No internet,29,,1435.64,3,Yes,,Yes
+C101348,2022-05-02,South,Month-to-month,DSL,14,$60.38,866.48,1,Yes,,No
+C101349,2022-07-12,North,One year,DSL,25,$91.22,2342.68,1,No,,No
+C101350,2023-12-31,South,Two year,No internet,39,$82.11,3192.86,0,No,,No
+C101351,2024-05-31,West,Month-to-month,Fiber,4,$61.55,239.99,6,No,,Yes
+C101352,2023-11-20,West,Month-to-month,Fiber,16,$70.49,1139.86,1,No,,Yes
+C101353,2022-11-04,East,One year,No internet,39,$75.38,2901.74,1,No,,No
+C101354,2023-01-06,West,Month-to-month,Fiber,26,$120.97,3039.49,5,No,,Yes
+C101355,2023-05-08,West,Two year,DSL,33,$54.56,1847.57,0,No,,No
+C101356,2022-02-14,South,Month-to-month,Fiber,5,$81.68,420.12,0,No,,Yes
+C101357,2023-07-29,East,Month-to-month,Fiber,24,$88.16,2046.05,0,No,,No
+C101358,2022-06-25,North,Month-to-month,No internet,15,$46.17,660.61,3,Yes,,No
+C101359,2024-05-31,East,Month-to-month,DSL,8,$74.73,612.26,2,Yes,,Yes
+C101360,2022-01-28,East,Month-to-month,DSL,23,$74.09,1756.09,0,No,,Yes
+C101361,2023-09-17,South,Month-to-month,Fiber,6,$58.25,334.54,1,No,,Yes
+C101362,2024-02-08,North,One year,No internet,18,$84.19,1499.46,1,No,,No
+C101363,2024-02-10,West,Two year,Fiber,28,,2731.84,0,No,,Yes
+C101364,2022-12-19,North,Month-to-month,Fiber,17,$98.26,1642.53,4,No,,Yes
+C101365,2022-12-29,West,One year,DSL,67,$65.20,4494.59,3,Yes,,No
+C101366,2023-04-13,South,Month-to-month,Fiber,3,$74.75,213.94,2,Yes,,Yes
+C101367,2022-09-30,North,One year,No internet,12,$128.77,1554.72,4,No,,No
+C101368,2022-01-08,South,Month-to-month,Fiber,6,$42.41,247.2,2,Yes,,No
+C101369,2023-11-16,North,Month-to-month,Fiber,29,$75.55,2237.83,3,No,,No
+C101370,2022-12-30,North,Two year,Fiber,55,$92.25,4828.24,3,Yes,,No
+C101371,2023-07-02,North,One year,Fiber,33,$73.75,2483.67,1,No,,Yes
+C101372,2022-11-20,East,Month-to-month,Fiber,9,$86.40,774.18,3,Yes,,No
+C101373,2023-02-02,East,Month-to-month,DSL,10,$74.32,757.82,3,Yes,,Yes
+C101374,2023-05-28,East,Two year,Fiber,15,$88.84,1281.28,1,Yes,,Yes
+C101375,2022-04-03,South,Two year,DSL,61,$102.06,6433.57,1,Yes,,No
+C101376,2024-03-14,East,One year,No internet,15,$64.46,981.92,0,Yes,,No
+C101377,2023-02-10,North,Two year,DSL,49,$74.94,3501.62,1,No,,No
+C101378,2022-06-22,North,Two year,DSL,30,$68.62,2134.72,3,Yes,,No
+C101379,2022-03-10,East,One year,Fiber,70,$59.91,4054.16,3,Yes,,No
+C101380,2022-07-29,West,One year,Fiber,29,$69.51,1992.25,2,Yes,,No
+C101381,2023-10-17,North,Month-to-month,Fiber,3,$41.71,123.27,3,No,,No
+C101382,2023-09-29,North,Month-to-month,Fiber,13,$88.61,1183.31,1,No,,No
+C101383,2022-07-24,West,One year,No internet,13,$112.56,1500.98,1,Yes,,No
+C101384,2024-03-30,North,Two year,DSL,31,$112.61,3345.91,4,Yes,,Yes
+C101385,2023-04-20,West,Month-to-month,Fiber,4,$101.90,421.98,4,No,,Yes
+C101386,2022-04-21,,Month-to-month,Fiber,29,$45.90,1285.78,2,Yes,,Yes
+C101387,2023-03-03,North,Month-to-month,Fiber,9,$107.99,992.95,1,No,,Yes
+C101388,2022-02-23,East,One year,DSL,33,$52.11,1655.07,1,Yes,,No
+C101389,2022-01-06,East,Month-to-month,Fiber,9,$68.67,612.44,1,No,,Yes
+C101390,2024-01-02,South,One year,DSL,30,$116.15,3348.4,0,No,,No
+C101391,2024-05-18,East,Month-to-month,DSL,21,$43.20,922.49,5,No,,Yes
+C101392,2023-11-02,West,One year,DSL,36,$91.03,3244.53,0,No,,No
+C101393,2022-06-30,N/A,One year,DSL,71,$77.03,5503.27,2,No,,No
+C101394,2023-08-26,West,Month-to-month,DSL,5,$66.20,347.51,1,No,,Yes
+C101395,2023-10-25,South,Month-to-month,DSL,4,$48.10,198.64,2,Yes,,Yes
+C101396,2022-05-13,East,Month-to-month,Fiber,29,$80.56,2266.18,1,No,,Yes
+C101397,2024-04-11,West,One year,DSL,13,$58.41,754.31,2,Yes,,No
+C101398,2023-03-10,,Month-to-month,DSL,28,$96.13,2710.15,0,Yes,,No
+C101399,2023-03-04,North,Month-to-month,DSL,20,$100.61,1979.37,2,No,,No
+C101400,2023-06-20,West,Month-to-month,No internet,21,$35.52,713.14,1,No,,Yes
+C101401,2022-10-21,West,Month-to-month,Fiber,21,$57.37,1186.5,1,No,,Yes
+C101402,2023-01-06,West,Two year,DSL,55,$62.02,3335.38,2,No,,No
+C101403,2022-03-16,South,Two year,DSL,24,$40.46,941.76,0,No,,No
+C101404,2024-02-06,East,Two year,Fiber,59,$42.05,2396.77,4,Yes,,No
+C101405,2022-09-27,East,Two year,Fiber,34,$72.22,2359.08,2,Yes,,No
+C101406,2022-10-17,North,One year,Fiber,15,$64.80,1005.36,2,Yes,,Yes
+C101407,2023-02-14,East,Month-to-month,DSL,17,$28.70,485.69,2,No,,Yes
+C101408,2023-10-23,South,Two year,Fiber,21,$56.55,1214.71,1,Yes,,No
+C101409,2022-12-25,West,One year,DSL,40,$82.97,3410.9,1,Yes,,No
+C101410,2022-10-13,North,One year,DSL,6,$39.84,247.49,4,No,,Yes
+C101411,2022-07-16,,One year,DSL,44,$46.91,2082.07,1,Yes,,No
+C101412,2024-03-25,N/A,Two year,DSL,53,$109.69,6014.0,1,No,,Yes
+C101413,2023-07-09,North,Month-to-month,No internet,7,$102.93,694.31,1,Yes,,No
+C101414,2022-03-08,East,One year,Fiber,35,$29.47,999.31,2,Yes,,No
+C101415,2023-12-02,North,Month-to-month,Fiber,22,$36.23,808.74,2,No,,No
+C101416,2024-04-14,West,Month-to-month,DSL,7,$79.43,549.12,3,No,,No
+C101417,2022-12-21,South,Month-to-month,Fiber,6,$40.21,233.81,3,No,,Yes
+C101418,2024-01-27,North,Month-to-month,Fiber,11,$63.68,691.48,2,Yes,,No
+C101419,2022-07-28,North,Month-to-month,Fiber,16,$58.72,929.73,3,No,,Yes
+C101420,2022-12-30,South,Month-to-month,No internet,21,$84.00,1832.69,1,Yes,,No
+C101421,2022-09-26,West,Month-to-month,DSL,8,$18.00,143.01,2,Yes,,No
+C101422,2023-02-28,North,Two year,Fiber,41,$18.00,767.03,0,No,,No
+C101423,2022-06-27,South,One year,Fiber,28,$39.35,1069.26,2,Yes,,No
+C101424,2024-03-25,North,One year,Fiber,16,$95.35,1582.15,1,Yes,,No
+C101425,2024-05-14,South,Two year,Fiber,48,$66.14,3277.69,1,Yes,,No
+C101426,2023-06-07,North,Month-to-month,Fiber,10,$27.29,264.12,2,Yes,,Yes
+C101427,2024-02-16,West,Month-to-month,DSL,20,$82.32,1690.36,4,No,,Yes
+C101428,2022-08-25,West,Month-to-month,DSL,9,$87.69,812.49,0,No,,Yes
+C101429,2022-03-12,West,Month-to-month,Fiber,13,$63.85,854.1,5,No,,Yes
+C101430,2023-05-18,West,Two year,No internet,13,$61.74,834.64,1,Yes,,No
+C101431,2022-04-23,North,Month-to-month,DSL,8,$80.94,644.59,4,Yes,,No
+C101432,2024-03-28,West,One year,Fiber,65,$100.24,6510.17,2,No,,No
+C101433,2024-01-10,North,Two year,DSL,35,$73.81,2519.44,0,Yes,,No
+C101434,2022-01-03,West,Month-to-month,DSL,3,$83.33,249.95,5,Yes,,Yes
+C101435,2023-03-14,East,One year,DSL,14,$68.79,1003.93,0,Yes,,No
+C101436,2023-03-08,South,Month-to-month,Fiber,18,$60.47,1102.5,5,No,,No
+C101437,2022-10-13,South,Month-to-month,DSL,13,$47.10,631.06,8,No,,Yes
+C101438,2023-04-16,,Month-to-month,No internet,5,$76.41,396.11,0,No,,No
+C101439,2024-04-14,West,Month-to-month,DSL,26,$62.50,1643.0,3,No,,Yes
+C101440,2023-08-12,East,Month-to-month,No internet,12,$63.91,770.93,2,No,,No
+C101441,2023-01-01,South,Month-to-month,DSL,21,$93.24,1901.57,3,No,,No
+C101442,2022-10-10,,Two year,Fiber,54,$82.20,4475.3,2,Yes,,Yes
+C101443,2023-01-21,South,Month-to-month,DSL,29,$91.75,2692.56,1,No,,No
+C101444,2022-12-01,West,Month-to-month,DSL,24,$30.61,701.51,1,Yes,,Yes
+C101445,2024-02-21,South,Two year,Fiber,26,$83.96,2074.79,0,Yes,,No
+C101446,2024-03-21,North,Month-to-month,Fiber,29,$55.25,1678.49,3,Yes,,Yes
+C101447,2023-10-27,North,Two year,Fiber,28,$49.79,1331.71,0,Yes,,No
+C101448,2022-07-24,West,Two year,Fiber,39,$48.70,1957.98,2,Yes,,No
+C101449,2023-04-30,,One year,Fiber,38,$100.28,3858.12,1,Yes,,No
+C101450,2022-05-10,South,Month-to-month,DSL,10,,937.36,5,Yes,,Yes
+C101451,2022-01-22,North,Month-to-month,DSL,21,$52.08,1098.56,4,No,,Yes
+C101452,2023-01-06,East,Month-to-month,DSL,4,$41.56,167.15,3,Yes,,No
+C101453,2023-04-05,,Month-to-month,DSL,25,$70.34,1709.47,3,No,,No
+C101454,2022-05-14,South,Month-to-month,Fiber,29,$58.51,1712.7,2,No,,No
+C101455,2024-01-15,South,Month-to-month,No internet,3,$111.49,347.6,1,No,,Yes
+C101456,2023-05-13,East,Two year,DSL,66,$33.47,2149.02,4,Yes,,No
+C101457,2023-04-21,West,Month-to-month,Fiber,14,$24.25,353.95,3,No,,Yes
+C101458,2024-05-01,,Two year,Fiber,67,$63.61,4155.87,N/A,No,,No
+C101459,2022-05-31,West,One year,Fiber,66,$70.27,4703.92,2,No,,No
+C101460,2023-12-24,South,Month-to-month,DSL,28,$73.32,2138.23,1,Yes,,Yes
+C101461,2023-07-12,South,One year,DSL,6,$88.84,550.24,2,No,,Yes
+C101462,2022-01-04,West,Month-to-month,Fiber,18,$121.83,2151.36,6,No,,Yes
+C101463,2023-11-29,North,Month-to-month,DSL,23,$61.44,1421.91,4,No,,Yes
+C101464,2022-02-20,West,Two year,Fiber,56,$56.39,3250.53,0,No,,No
+C101465,2023-04-11,North,Month-to-month,DSL,21,$26.02,572.67,6,No,,No
+C101466,2023-09-26,West,Month-to-month,DSL,25,$76.09,1947.68,3,No,,Yes
+C101467,2023-03-22,West,Month-to-month,Fiber,28,$91.34,2665.69,2,No,,No
+C101468,2022-01-04,North,One year,Fiber,43,$63.49,2734.72,3,No,,Yes
+C101469,2023-12-13,North,Month-to-month,DSL,11,$99.52,1107.66,0,Yes,,No
+C101470,2023-11-06,East,Month-to-month,Fiber,25,$70.76,1725.37,4,Yes,,Yes
+C101471,2022-10-29,East,One year,DSL,61,$107.87,6510.25,1,No,,No
+C101472,2024-05-05,South,Month-to-month,DSL,10,$78.33,771.77,1,Yes,,Yes
+C101473,2022-09-18,North,One year,Fiber,51,$43.57,2325.31,,Yes,,No
+C101474,2022-01-29,East,Month-to-month,DSL,23,$54.08,1301.46,2,No,,No
+C101475,2022-12-31,West,Month-to-month,Fiber,12,$31.66,396.54,2,No,,No
+C101476,2022-07-29,North,Month-to-month,DSL,2,$26.57,52.69,1,Yes,,Yes
+C101477,2022-11-09,East,One year,DSL,29,$76.67,2325.21,2,Yes,,No
+C101478,2023-03-02,East,Two year,DSL,56,$91.74,5211.25,3,Yes,,No
+C101479,2023-08-23,East,One year,DSL,27,$118.86,3113.71,1,No,,No
+C101480,2023-10-03,South,Month-to-month,DSL,2,,136.95,0,Yes,,No
+C101481,2023-11-15,East,Month-to-month,DSL,10,$64.08,615.62,3,Yes,,No
+C101482,2022-02-14,North,Month-to-month,Fiber,27,$42.27,1144.9,5,No,,Yes
+C101483,2023-04-08,North,Month-to-month,DSL,9,$94.68,890.57,,Yes,,No
+C101484,2022-03-04,West,Month-to-month,Fiber,3,$79.73,237.18,2,No,,No
+C101485,2024-04-13,North,Month-to-month,Fiber,7,$55.12,381.14,2,No,,No
+C101486,2024-03-29,North,Two year,DSL,67,$87.21,5594.77,2,No,,No
+C101487,2024-02-17,,One year,No internet,67,$84.03,5623.22,1,No,,No
+C101488,2024-03-15,West,Two year,DSL,51,$23.25,1207.05,2,No,,No
+C101489,2024-02-08,East,One year,DSL,37,$88.57,3416.53,5,No,,No
+C101490,2023-07-29,East,Month-to-month,No internet,8,$73.40,577.98,4,No,,Yes
+C101491,2023-10-22,East,Month-to-month,No internet,25,$60.21,1467.67,0,No,,No
+C101492,2022-12-20,N/A,Month-to-month,Fiber,9,$59.57,559.54,3,No,,Yes
+C101493,2024-05-03,,Month-to-month,DSL,29,$113.71,3166.5,6,No,,No
+C101494,2022-10-15,West,Month-to-month,Fiber,22,$108.40,2352.51,1,No,,Yes
+C101495,2022-09-17,West,One year,DSL,24,$115.65,2772.42,0,No,,No
+C101496,2023-01-14,North,Month-to-month,Fiber,11,$41.28,474.37,2,Yes,,Yes
+C101497,2023-09-16,East,Month-to-month,No internet,2,$53.64,108.38,1,No,,No
+C101498,2022-12-26,East,Month-to-month,Fiber,6,$92.64,576.67,0,No,,Yes
+C101499,2022-12-27,South,One year,Fiber,33,$39.79,1365.81,2,No,,Yes
+C101500,2024-05-18,South,One year,DSL,68,$51.99,3624.73,,No,,No
+C101501,2023-01-25,North,One year,DSL,37,$24.89,947.8,1,No,,No
+C101502,2024-04-15,North,Month-to-month,DSL,29,$116.33,3273.76,,No,,No
+C101503,2024-05-24,South,Month-to-month,DSL,3,$96.57,298.84,4,No,,Yes
+C101504,2022-10-22,South,Month-to-month,Fiber,10,$81.46,839.06,2,Yes,,Yes
+C101505,2023-04-22,West,Month-to-month,DSL,20,$75.48,1482.58,3,No,,No
+C101506,2022-03-05,South,One year,Fiber,25,$59.57,1445.42,1,Yes,,No
+C101507,2023-06-11,West,Two year,Fiber,62,$60.05,3636.23,2,No,,No
+C101508,2022-03-12,North,One year,DSL,55,$85.39,4859.34,1,No,,No
+C101509,2022-04-13,North,Month-to-month,DSL,6,$52.21,319.51,3,Yes,,No
+C101510,2024-01-03,North,Month-to-month,DSL,16,$100.68,1607.52,5,No,,Yes
+C101511,2023-12-09,East,Two year,Fiber,33,$57.69,1825.21,0,Yes,,No
+C101512,2023-05-17,South,Two year,Fiber,32,$48.16,1601.82,0,Yes,,No
+C101513,2022-09-10,West,One year,Fiber,57,$102.45,5554.65,1,Yes,,No
+C101514,2022-05-30,North,Month-to-month,No internet,5,$66.40,322.34,0,No,,Yes
+C101515,2023-01-30,South,Month-to-month,DSL,1,$83.87,87.25,0,No,,No
+C101516,2024-05-27,West,One year,DSL,8,$59.63,478.01,4,No,,Yes
+C101517,2022-08-11,West,Two year,Fiber,16,$18.00,283.52,0,No,,Yes
+C101518,2023-11-11,East,Month-to-month,Fiber,11,$83.68,921.37,2,No,,Yes
+C101519,2023-08-14,West,Month-to-month,DSL,17,$36.33,625.59,7,No,,Yes
+C101520,2023-07-10,East,Month-to-month,Fiber,6,$97.06,593.2,2,No,,No
+C101521,2022-07-24,South,Month-to-month,DSL,7,$31.23,219.61,2,No,,Yes
+C101522,2023-04-05,South,Two year,Fiber,62,$23.38,1383.92,0,Yes,,No
+C101523,2023-05-30,North,One year,Fiber,46,$77.69,3452.04,0,Yes,,No
+C101524,2024-06-15,West,Two year,No internet,30,$80.63,2361.55,1,No,,No
+C101525,2023-01-19,South,Month-to-month,Fiber,19,$72.67,1376.01,1,Yes,,Yes
+C101526,2022-07-14,East,Month-to-month,Fiber,10,$39.66,399.65,1,Yes,,Yes
+C101527,2023-06-06,West,One year,DSL,22,$92.21,2088.01,3,No,,No
+C101528,2022-07-16,West,One year,Fiber,6,$33.38,194.46,4,Yes,,Yes
+C101529,2024-03-01,South,Month-to-month,DSL,10,$58.39,561.22,6,No,,Yes
+C101530,2024-06-12,North,Month-to-month,Fiber,5,$50.30,259.86,2,No,,Yes
+C101531,2023-03-11,South,One year,No internet,45,$60.56,2751.2,3,Yes,,No
+C101532,2022-02-17,West,One year,DSL,55,$91.32,4961.55,0,No,,No
+C101533,2023-06-29,South,Month-to-month,DSL,14,$54.15,725.72,3,Yes,,Yes
+C101534,2024-03-15,West,Month-to-month,DSL,25,$84.11,2038.01,2,Yes,,No
+C101535,2023-06-14,West,Two year,DSL,53,$87.35,4768.29,0,Yes,,No
+C101536,2022-06-24,North,Month-to-month,Fiber,7,$27.22,190.94,2,Yes,,Yes
+C101537,2022-06-26,East,One year,Fiber,68,$40.84,2643.72,N/A,Yes,,No
+C101538,2023-03-18,East,Month-to-month,DSL,4,$60.42,241.59,5,Yes,,Yes
+C101539,2024-01-24,North,Month-to-month,Fiber,25,$55.20,1371.36,4,No,,No
+C101540,2023-12-13,North,Month-to-month,Fiber,10,$77.69,797.17,5,Yes,,Yes
+C101541,2023-04-11,South,Month-to-month,DSL,19,$21.71,395.76,,Yes,,Yes
+C101542,2024-03-13,West,Month-to-month,DSL,27,$88.01,2351.7,2,Yes,,Yes
+C101543,2024-01-28,,Month-to-month,No internet,17,$88.61,1569.16,4,Yes,,No
+C101544,2024-02-28,West,Month-to-month,No internet,27,$65.79,1816.53,2,Yes,,No
+C101545,2022-02-18,West,Month-to-month,Fiber,15,$35.42,539.33,3,Yes,,Yes
+C101546,2022-03-30,North,Month-to-month,Fiber,28,$70.14,1944.82,1,Yes,,Yes
+C101547,2023-04-04,East,Two year,DSL,26,$56.56,1433.87,0,No,,No
+C101548,2024-05-22,South,Month-to-month,Fiber,19,$84.17,1534.1,0,Yes,,Yes
+C101549,2022-10-09,North,Month-to-month,DSL,15,$67.86,997.92,4,Yes,,Yes
+C101550,2023-02-24,South,Two year,DSL,41,$88.21,3567.34,3,No,,No
+C101551,2022-03-14,North,Month-to-month,Fiber,22,$59.17,1293.73,3,Yes,,Yes
+C101552,2023-02-21,East,Month-to-month,No internet,17,$106.07,1864.59,5,Yes,,Yes
+C101553,2024-05-09,South,Month-to-month,DSL,6,$18.00,107.25,2,No,,Yes
+C101554,2024-01-19,East,Month-to-month,Fiber,25,$44.60,1131.27,N/A,No,,No
+C101555,2023-08-27,East,Month-to-month,DSL,10,$82.27,795.24,4,Yes,,Yes
+C101556,2023-07-10,West,Two year,No internet,23,$32.23,731.5,,No,,No
+C101557,2024-03-05,East,Two year,Fiber,60,$88.40,5533.04,1,Yes,,No
+C101558,2022-09-23,West,Month-to-month,No internet,20,$39.58,765.87,0,No,,No
+C101559,2023-06-19,South,Month-to-month,Fiber,12,$72.33,834.13,4,No,,Yes
+C101560,2022-11-01,East,Two year,DSL,27,$47.13,1218.36,4,No,,No
+C101561,2022-11-04,N/A,Month-to-month,DSL,25,$58.97,1401.12,3,Yes,,Yes
+C101562,2024-05-31,North,One year,No internet,29,$74.37,2080.69,2,Yes,,No
+C101563,2023-03-14,South,Two year,No internet,52,$67.38,3359.18,2,No,,No
+C101564,2023-01-02,West,One year,Fiber,31,$60.47,1812.5,4,Yes,,No
+C101565,2022-04-09,North,Two year,DSL,17,$123.83,2086.0,1,No,,No
+C101566,2022-01-13,North,Month-to-month,No internet,21,$70.21,1504.2,1,Yes,,No
+C101567,2023-07-11,South,Two year,Fiber,68,$45.75,3209.6,3,Yes,,No
+C101568,2023-03-06,South,Month-to-month,Fiber,9,$93.19,844.83,8,Yes,,Yes
+C101569,2023-08-26,East,Month-to-month,DSL,22,$90.52,1912.17,3,Yes,,Yes
+C101570,2022-08-26,East,Month-to-month,Fiber,18,$100.57,1868.55,1,Yes,,Yes
+C101571,2023-05-09,South,Month-to-month,Fiber,20,$114.68,2331.02,5,Yes,,Yes
+C101572,2024-03-28,East,One year,No internet,38,$46.52,1825.99,2,Yes,,No
+C101573,2023-11-12,West,Two year,DSL,51,$96.49,5046.97,0,Yes,,No
+C101574,2023-11-28,West,Month-to-month,DSL,1,$98.49,95.56,2,Yes,,Yes
+C101575,2022-09-29,East,Month-to-month,Fiber,26,$70.01,1905.13,2,No,,No
+C101576,2022-01-01,South,Month-to-month,DSL,4,$76.13,313.13,1,No,,Yes
+C101577,2024-03-20,North,Month-to-month,DSL,14,$18.00,247.61,3,No,,No
+C101578,2022-01-19,West,Two year,DSL,16,$55.65,914.56,3,No,,No
+C101579,2023-08-29,South,Two year,Fiber,70,$114.70,7966.55,1,No,,No
+C101580,2022-10-03,South,Two year,Fiber,27,$25.33,656.83,3,No,,No
+C101581,2022-07-31,North,One year,No internet,9,$56.61,516.17,,No,,No
+C101582,2022-10-17,North,One year,DSL,57,$77.20,4617.56,0,No,,No
+C101583,2023-08-31,North,Month-to-month,DSL,7,$84.39,600.46,3,No,,No
+C101584,2022-11-21,South,Month-to-month,DSL,11,$110.79,1269.6,3,No,,Yes
+C101585,2023-09-19,North,Month-to-month,Fiber,18,$25.93,452.65,2,No,,No
+C101586,2023-07-24,East,Two year,Fiber,29,$71.07,2061.77,2,Yes,,No
+C101587,2024-03-30,North,Month-to-month,No internet,24,$91.49,2152.2,1,No,,No
+C101588,2023-08-08,South,Month-to-month,No internet,3,$37.16,116.42,2,No,,No
+C101589,2023-03-10,North,Month-to-month,Fiber,3,$69.01,199.79,0,Yes,,No
+C101590,2023-09-06,West,Month-to-month,DSL,7,$117.12,781.0,2,Yes,,Yes
+C101591,2022-07-31,West,One year,DSL,11,$102.91,1135.92,2,Yes,,No
+C101592,2023-03-03,South,Month-to-month,DSL,8,$83.49,662.32,1,Yes,,Yes
+C101593,2022-05-05,North,Month-to-month,Fiber,19,$18.00,332.21,2,Yes,,Yes
+C101594,2023-07-26,North,Two year,No internet,16,$66.74,1113.15,2,No,,No
+C101595,2022-10-27,South,Two year,DSL,44,$79.66,3431.73,0,Yes,,No
+C101596,2023-05-09,West,One year,DSL,55,$62.29,3335.79,2,Yes,,No
+C101597,2023-01-18,East,One year,Fiber,32,$68.36,2226.24,1,No,,Yes
+C101598,2022-06-06,East,Month-to-month,DSL,17,$140.00,2492.36,1,Yes,,Yes
+C101599,2023-11-04,North,Two year,Fiber,56,$64.64,3590.52,2,No,,No
+C101600,2022-02-05,North,One year,Fiber,57,$45.76,2676.01,5,No,,No
+C101601,2022-02-25,South,Month-to-month,Fiber,27,$76.07,1962.79,2,No,,Yes
+C101602,2023-05-04,North,Month-to-month,DSL,12,$62.11,770.95,1,Yes,,Yes
+C101603,2022-04-10,South,Month-to-month,Fiber,29,N/A,1812.53,5,Yes,,Yes
+C101604,2022-09-01,South,Month-to-month,Fiber,9,$67.82,619.44,2,No,,Yes
+C101605,2023-10-31,,Month-to-month,Fiber,23,$89.35,2048.33,4,No,,Yes
+C101606,2023-08-01,West,Month-to-month,DSL,14,$75.94,1011.84,2,No,,Yes
+C101607,2022-06-29,East,Month-to-month,Fiber,1,$39.96,39.51,1,No,,Yes
+C101608,2022-05-03,East,Month-to-month,Fiber,2,$66.68,128.86,3,No,,Yes
+C101609,2022-01-22,East,Month-to-month,Fiber,5,$81.86,396.21,2,Yes,,Yes
+C101610,2024-03-27,South,Month-to-month,No internet,18,$58.31,1084.44,1,Yes,,No
+C101611,2022-03-21,East,Month-to-month,Fiber,18,$98.72,1749.91,3,No,,Yes
+C101612,2022-08-19,East,Month-to-month,Fiber,5,$89.43,461.69,2,Yes,,Yes
+C101613,2023-08-09,South,One year,No internet,25,$45.23,1160.7,4,Yes,,Yes
+C101614,2024-03-24,East,Month-to-month,Fiber,10,$77.99,795.19,3,No,,Yes
+C101615,2023-06-15,N/A,Month-to-month,DSL,3,$119.59,357.99,4,Yes,,Yes
+C101616,2023-02-07,North,One year,Fiber,52,$109.00,5423.07,1,Yes,,No
+C101617,2024-04-18,East,Month-to-month,Fiber,15,$68.59,1061.5,2,Yes,,Yes
+C101618,2022-03-13,N/A,Month-to-month,DSL,4,$92.44,352.32,4,No,,Yes
+C101619,2022-05-10,East,One year,Fiber,17,$53.15,892.97,2,No,,Yes
+C101620,2022-08-30,South,One year,Fiber,36,,1263.83,1,Yes,,No
+C101621,2023-08-21,East,Two year,Fiber,37,$83.86,3181.75,3,No,,No
+C101622,2022-04-26,East,Two year,DSL,31,$76.16,2380.32,2,No,,No
+C101623,2022-03-03,East,One year,Fiber,13,$82.85,1091.06,1,Yes,,No
+C101624,2022-10-15,,One year,Fiber,38,$69.38,2750.9,1,Yes,,No
+C101625,2024-01-04,West,Month-to-month,Fiber,8,$78.15,642.23,3,Yes,,Yes
+C101626,2023-06-22,South,One year,DSL,35,$57.18,2009.81,1,Yes,,Yes
+C101627,2023-04-03,West,Month-to-month,DSL,7,$81.83,565.46,3,No,,Yes
+C101628,2023-02-14,East,Month-to-month,DSL,4,$90.83,349.25,1,No,,No
+C101629,2022-02-17,South,Month-to-month,Fiber,3,$68.54,212.44,4,Yes,,No
+C101630,2023-05-11,North,Month-to-month,No internet,9,$90.35,837.04,,No,,Yes
+C101631,2022-01-04,North,Month-to-month,Fiber,17,$25.73,443.83,2,No,,No
+C101632,2024-05-03,East,One year,DSL,34,$50.34,1778.93,3,Yes,,No
+C101633,2024-05-05,North,One year,DSL,22,$106.11,2224.75,0,Yes,,Yes
+C101634,2022-01-16,West,One year,DSL,14,$114.04,1533.16,0,No,,No
+C101635,2023-03-05,East,Month-to-month,DSL,21,$76.26,1617.56,0,No,,Yes
+C101636,2022-08-17,North,One year,Fiber,47,$67.42,3326.75,1,No,,No
+C101637,2024-04-06,West,Two year,DSL,37,$38.30,1478.51,0,No,,No
+C101638,2022-05-22,East,Month-to-month,Fiber,17,$79.09,1363.54,1,Yes,,Yes
+C101639,2022-04-30,East,Month-to-month,No internet,28,$89.46,2406.69,1,No,,No
+C101640,2022-01-17,West,Month-to-month,DSL,25,$32.96,828.14,1,No,,Yes
+C101641,2023-03-04,West,Month-to-month,DSL,10,$83.97,849.52,2,Yes,,Yes
+C101642,2023-02-04,East,Month-to-month,No internet,2,$82.27,169.15,1,Yes,,Yes
+C101643,2023-09-17,North,Month-to-month,No internet,26,$81.02,2208.27,1,Yes,,No
+C101644,2022-02-25,North,Month-to-month,Fiber,1,$41.81,42.96,5,No,,Yes
+C101645,2022-02-24,North,One year,No internet,34,$83.55,2844.79,2,No,,No
+C101646,2023-08-25,West,Month-to-month,No internet,7,$32.55,233.6,5,Yes,,Yes
+C101647,2023-05-20,East,One year,Fiber,50,$107.21,5282.27,5,Yes,,Yes
+C101648,2023-04-01,East,Month-to-month,Fiber,1,$73.38,73.13,3,Yes,,Yes
+C101649,2024-05-16,West,One year,Fiber,37,$40.91,1518.7,3,No,,No
+C101650,2022-07-06,North,One year,DSL,52,$103.63,5318.3,3,Yes,,No
+C101651,2022-08-16,North,One year,DSL,39,$98.85,4040.58,1,No,,No
+C101652,2023-03-25,West,Month-to-month,Fiber,1,$53.74,52.6,3,No,,Yes
+C101653,2022-08-19,West,Two year,DSL,26,$125.10,3299.85,2,No,,No
+C101654,2023-05-07,West,One year,DSL,47,$44.90,2053.79,1,No,,No
+C101655,2022-08-16,South,Month-to-month,DSL,19,$77.84,1552.55,3,No,,Yes
+C101656,2022-04-03,South,Month-to-month,Fiber,12,$99.56,1176.58,5,No,,Yes
+C101657,2023-04-18,North,Month-to-month,Fiber,4,$18.00,72.76,4,Yes,,Yes
+C101658,2023-01-02,West,Month-to-month,Fiber,6,$95.04,594.88,0,Yes,,Yes
+C101659,2022-10-28,East,Month-to-month,DSL,16,$68.38,1114.22,2,No,,No
+C101660,2022-10-25,South,Month-to-month,Fiber,7,$69.61,491.26,6,Yes,,Yes
+C101661,2023-06-16,West,Month-to-month,Fiber,3,$43.08,123.78,5,No,,Yes
+C101662,2022-04-14,South,One year,Fiber,44,$78.29,3417.97,5,Yes,,No
+C101663,2024-05-21,West,Month-to-month,DSL,7,$42.26,294.17,4,No,,Yes
+C101664,2022-03-08,East,Month-to-month,Fiber,12,$45.79,560.19,3,No,,Yes
+C101665,2022-03-19,West,Month-to-month,DSL,19,$58.81,1115.69,2,Yes,,Yes
+C101666,2024-03-13,East,Month-to-month,No internet,5,$39.32,192.11,0,Yes,,No
+C101667,2024-04-26,South,Month-to-month,DSL,29,$109.32,3179.88,3,No,,Yes
+C101668,2023-02-04,N/A,Two year,Fiber,69,$36.78,2506.95,3,No,,Yes
+C101669,2023-12-03,West,Month-to-month,Fiber,29,$51.13,1529.85,4,No,,No
+C101670,2023-02-14,East,Month-to-month,DSL,11,$62.09,680.76,4,Yes,,Yes
+C101671,2023-07-22,South,Month-to-month,DSL,8,$70.09,558.22,5,No,,Yes
+C101672,2023-01-13,North,Month-to-month,Fiber,21,$89.81,1925.92,3,Yes,,No
+C101673,2022-11-28,West,Two year,Fiber,43,$90.46,3904.03,4,Yes,,Yes
+C101674,2022-08-29,West,Two year,Fiber,63,$62.43,3907.38,1,Yes,,No
+C101675,2023-11-20,East,Month-to-month,Fiber,16,$60.40,926.03,0,Yes,,No
+C101676,2024-01-19,North,Month-to-month,DSL,25,$70.88,1765.0,2,No,,No
+C101677,2022-05-07,South,Month-to-month,Fiber,13,$90.55,1220.08,,Yes,,Yes
+C101678,2023-06-11,North,Month-to-month,Fiber,7,$87.44,640.9,2,Yes,,Yes
+C101679,2022-01-19,North,One year,DSL,60,$57.09,3546.42,2,Yes,,No
+C101680,2023-02-05,,One year,Fiber,69,$18.52,1227.67,1,Yes,,No
+C101681,2023-06-01,South,One year,Fiber,22,$123.58,2823.09,0,Yes,,Yes
+C101682,2024-01-14,South,One year,Fiber,35,$93.79,3281.46,1,No,,No
+C101683,2022-07-10,East,Month-to-month,Fiber,21,$76.58,1639.46,3,Yes,,Yes
+C101684,2022-01-06,West,Month-to-month,DSL,12,,953.89,1,Yes,,Yes
+C101685,2022-09-03,North,Month-to-month,Fiber,17,$56.96,967.96,3,Yes,,No
+C101686,2022-04-30,West,One year,DSL,66,$44.97,2882.42,1,No,,No
+C101687,2022-10-03,South,Month-to-month,Fiber,19,$61.69,1155.68,4,Yes,,Yes
+C101688,2024-04-12,West,Month-to-month,Fiber,23,$64.44,1460.24,4,Yes,,Yes
+C101689,2022-10-30,North,Two year,DSL,15,$54.37,837.47,3,No,,No
+C101690,2024-06-02,South,Month-to-month,Fiber,16,N/A,518.35,1,Yes,,Yes
+C101691,2023-05-28,North,Month-to-month,DSL,20,$62.19,1189.98,3,No,,Yes
+C101692,2024-05-05,West,Month-to-month,Fiber,14,$84.41,1223.14,3,No,,Yes
+C101693,2024-02-20,South,Two year,No internet,19,$57.63,1112.66,1,Yes,,No
+C101694,2022-05-01,North,Month-to-month,No internet,3,$70.55,212.99,4,No,,Yes
+C101695,2024-03-23,North,Month-to-month,Fiber,28,$18.23,492.49,0,No,,Yes
+C101696,2022-05-06,West,Month-to-month,No internet,8,$64.81,499.11,1,Yes,,No
+C101697,2023-04-14,,One year,DSL,41,$66.95,2790.91,3,Yes,,No
+C101698,2023-12-02,West,Month-to-month,DSL,18,$39.35,683.72,1,No,,No
+C101699,2022-05-17,East,Two year,DSL,69,$26.76,1911.95,1,Yes,,No
+C101700,2023-07-28,West,Month-to-month,DSL,1,$80.30,77.64,2,Yes,,Yes
+C101701,2022-11-12,South,One year,DSL,15,$49.76,755.62,5,Yes,,Yes
+C101702,2022-12-14,East,Month-to-month,Fiber,4,$82.21,320.19,4,No,,Yes
+C101703,2024-05-20,North,Two year,DSL,10,$59.49,583.77,1,Yes,,No
+C101704,2023-06-19,West,Month-to-month,Fiber,1,$85.58,84.09,2,Yes,,No
+C101705,2022-04-22,South,One year,DSL,41,$61.53,2402.82,0,No,,No
+C101706,2022-04-30,North,Two year,DSL,62,$32.33,1988.25,0,Yes,,No
+C101707,2023-12-24,North,Month-to-month,DSL,9,$67.84,632.88,2,No,,Yes
+C101708,2022-11-11,South,Month-to-month,DSL,9,$61.79,556.05,1,Yes,,No
+C101709,2023-06-02,East,One year,Fiber,9,$86.43,753.88,0,No,,No
+C101710,2023-11-02,East,Month-to-month,DSL,26,$58.74,1530.08,1,No,,No
+C101711,2023-11-26,West,Month-to-month,Fiber,2,$60.17,125.57,3,Yes,,Yes
+C101712,2024-05-14,East,One year,DSL,69,$91.50,6291.53,0,Yes,,No
+C101713,2023-12-21,North,Month-to-month,Fiber,6,$99.16,593.94,3,Yes,,No
+C101714,2022-05-12,South,Month-to-month,Fiber,15,$88.99,1371.04,7,No,,Yes
+C101715,2023-05-22,South,Month-to-month,DSL,12,$95.94,1101.49,5,Yes,,No
+C101716,2022-08-10,West,Month-to-month,Fiber,12,$81.36,958.16,6,Yes,,Yes
+C101717,2024-01-09,South,Month-to-month,DSL,3,$89.26,264.97,1,No,,Yes
+C101718,2022-05-13,East,Month-to-month,DSL,26,$91.96,2345.13,3,No,,Yes
+C101719,2023-12-29,North,Month-to-month,DSL,13,$80.09,1046.12,3,No,,Yes
+C101720,2024-06-09,West,Month-to-month,Fiber,27,$71.57,1986.51,3,No,,Yes
+C101721,2024-01-25,West,Month-to-month,Fiber,7,$73.55,510.16,2,Yes,,No
+C101722,2022-12-07,East,One year,Fiber,51,$130.12,6825.25,4,No,,Yes
+C101723,2024-03-01,North,Month-to-month,DSL,25,$70.34,1748.37,3,No,,No
+C101724,2022-06-12,West,Month-to-month,No internet,23,$64.08,1531.92,3,No,,Yes
+C101725,2022-05-14,North,Month-to-month,Fiber,10,$60.89,598.32,2,Yes,,No
+C101726,2023-07-19,East,Month-to-month,Fiber,20,$69.17,1375.61,4,No,,Yes
+C101727,2023-03-10,North,Month-to-month,Fiber,12,$76.11,930.27,1,Yes,,Yes
+C101728,2022-01-07,West,Month-to-month,No internet,29,$41.72,1150.49,N/A,No,,No
+C101729,2024-06-10,South,Month-to-month,Fiber,24,$20.49,510.74,2,No,,No
+C101730,2023-07-26,North,One year,Fiber,10,$77.38,769.4,1,No,,No
+C101731,2022-09-14,East,Two year,Fiber,24,,707.2,0,Yes,,No
+C101732,2023-05-08,West,Two year,Fiber,40,$76.47,2941.52,0,No,,No
+C101733,2022-10-24,East,Month-to-month,Fiber,2,$73.52,141.13,N/A,No,,Yes
+C101734,2024-03-28,North,Month-to-month,DSL,7,$98.82,689.83,1,No,,No
+C101735,2024-02-03,South,Month-to-month,Fiber,7,$111.75,807.15,1,Yes,,Yes
+C101736,2022-11-22,South,Month-to-month,Fiber,1,$79.19,80.02,2,Yes,,Yes
+C101737,2023-11-27,North,Two year,DSL,41,$56.15,2396.85,3,Yes,,No
+C101738,2023-12-05,North,Month-to-month,No internet,20,$40.63,851.91,2,No,,Yes
+C101739,2023-12-22,West,Month-to-month,Fiber,6,$50.21,301.7,3,Yes,,Yes
+C101740,2024-02-25,North,One year,Fiber,42,$71.00,2890.69,2,No,,No
+C101741,2024-02-04,North,One year,Fiber,60,$18.27,1144.72,,Yes,,No
+C101742,2024-06-16,South,Month-to-month,Fiber,26,$71.88,1816.78,3,No,,Yes
+C101743,2024-06-16,South,Two year,Fiber,38,$69.70,2664.85,0,Yes,,No
+C101744,2023-03-31,East,Month-to-month,Fiber,14,$86.11,1169.66,1,Yes,,Yes
+C101745,2022-05-22,East,One year,Fiber,41,$61.63,2623.43,1,Yes,,No
+C101746,2024-01-16,East,Month-to-month,DSL,6,$72.55,446.93,3,Yes,,Yes
+C101747,2023-04-24,North,Two year,Fiber,52,$51.60,2689.76,1,No,,Yes
+C101748,2024-05-11,South,Month-to-month,No internet,10,$58.40,605.57,3,Yes,,Yes
+C101749,2023-01-04,North,Month-to-month,DSL,17,$25.67,444.43,3,Yes,,Yes
+C101750,2022-10-24,,Two year,DSL,10,$73.09,740.37,1,No,,Yes
+C101751,2022-12-27,South,Two year,Fiber,44,$108.72,4867.43,3,No,,No
+C101752,2023-02-07,South,Two year,DSL,70,$74.07,5387.88,3,Yes,,No
+C101753,2024-02-03,South,Two year,Fiber,8,$79.15,626.81,1,No,,No
+C101754,2023-06-05,North,Month-to-month,Fiber,25,$45.46,1159.2,4,Yes,,Yes
+C101755,2024-06-10,North,Month-to-month,No internet,8,$105.78,833.96,4,No,,Yes
+C101756,2023-02-23,West,Month-to-month,Fiber,4,$50.82,206.67,2,No,,Yes
+C101757,2023-09-21,West,Month-to-month,Fiber,9,$90.04,812.91,2,No,,No
+C101758,2024-03-15,,Two year,Fiber,63,$72.68,4693.36,3,No,,No
+C101759,2022-01-22,North,Month-to-month,DSL,26,,1202.48,3,No,,No
+C101760,2023-12-23,North,Month-to-month,Fiber,22,$95.68,2103.95,5,No,,Yes
+C101761,2023-01-09,South,Month-to-month,DSL,2,N/A,135.0,2,No,,Yes
+C101762,2022-12-11,West,Month-to-month,Fiber,3,$74.47,213.36,3,Yes,,Yes
+C101763,2024-05-04,North,Month-to-month,Fiber,11,$81.30,926.4,1,No,,Yes
+C101764,2023-07-29,North,Month-to-month,Fiber,1,$69.46,69.12,,Yes,,Yes
+C101765,2023-04-16,North,Two year,DSL,15,$60.53,951.14,2,No,,No
+C101766,2023-02-22,East,One year,No internet,49,,3979.96,0,Yes,,No
+C101767,2022-07-20,West,Month-to-month,Fiber,21,$59.88,1206.49,5,No,,No
+C101768,2022-03-29,South,Two year,DSL,18,$71.63,1320.83,2,Yes,,No
+C101769,2022-04-23,South,One year,Fiber,12,$53.31,628.17,0,Yes,,No
+C101770,2023-03-04,West,Month-to-month,Fiber,1,$32.75,33.15,4,No,,Yes
+C101771,2022-06-26,East,Two year,Fiber,49,$53.17,2485.33,1,Yes,,No
+C101772,2024-01-01,North,Two year,Fiber,38,$57.62,2276.01,2,No,,No
+C101773,2022-03-21,East,One year,Fiber,52,$70.37,3543.84,0,No,,No
+C101774,2022-05-30,North,Month-to-month,Fiber,19,$99.61,1867.89,4,Yes,,Yes
+C101775,2024-01-08,West,Two year,DSL,24,$27.76,660.68,N/A,Yes,,Yes
+C101776,2023-11-14,North,Two year,Fiber,50,$73.21,3671.92,2,No,,No
+C101777,2023-08-29,West,Month-to-month,Fiber,7,$18.00,131.49,1,Yes,,Yes
+C101778,2023-01-16,East,Month-to-month,Fiber,22,$43.85,1000.3,1,Yes,,No
+C101779,2023-07-23,South,Two year,DSL,27,$57.32,1528.76,2,Yes,,Yes
+C101780,2023-10-01,East,One year,DSL,13,$18.00,231.06,2,Yes,,No
+C101781,2023-11-29,East,Month-to-month,Fiber,9,$23.56,217.11,2,No,,Yes
+C101782,2024-05-27,North,One year,DSL,6,$73.85,435.66,1,No,,No
+C101783,2023-02-21,North,Month-to-month,DSL,23,$71.94,1610.1,5,Yes,,Yes
+C101784,2023-10-19,East,Two year,DSL,62,$67.16,4347.14,0,Yes,,No
+C101785,2023-12-08,East,Month-to-month,Fiber,3,$49.91,153.46,6,Yes,,Yes
+C101786,2024-06-11,South,Month-to-month,Fiber,18,$123.86,2209.25,5,No,,Yes
+C101787,2023-12-24,North,Month-to-month,DSL,14,$65.97,896.17,5,No,,Yes
+C101788,2023-08-07,South,Month-to-month,Fiber,22,$48.45,1065.84,1,Yes,,Yes
+C101789,2023-09-04,North,Two year,DSL,10,$111.96,1110.94,N/A,No,,Yes
+C101790,2024-04-02,East,Month-to-month,Fiber,6,$85.36,501.86,1,No,,Yes
+C101791,2022-06-17,West,Month-to-month,Fiber,27,$60.73,1652.61,2,Yes,,No
+C101792,2022-01-30,,Two year,Fiber,50,$99.82,4826.31,0,Yes,,No
+C101793,2024-05-17,West,Month-to-month,DSL,25,$73.92,1804.37,0,Yes,,No
+C101794,2022-08-19,West,Month-to-month,Fiber,19,$86.08,1644.45,3,Yes,,Yes
+C101795,2023-03-22,East,Two year,Fiber,59,$75.87,4435.04,0,No,,No
+C101796,2023-01-08,East,Month-to-month,Fiber,8,$44.29,351.23,3,Yes,,Yes
+C101797,2023-10-17,West,Two year,Fiber,40,$94.28,3834.3,1,No,,No
+C101798,2024-04-05,East,Two year,Fiber,44,$74.01,3117.67,1,No,,No
+C101799,2022-08-30,West,Month-to-month,No internet,13,$44.77,596.81,4,Yes,,Yes
+C101800,2022-09-22,South,One year,No internet,43,$50.93,2290.04,1,No,,No
+C101801,2022-04-11,South,One year,DSL,44,$93.88,4299.7,0,Yes,,No
+C101802,2023-03-26,South,One year,DSL,13,$60.77,820.36,1,Yes,,No
+C101803,2022-02-18,West,Month-to-month,No internet,29,$71.16,1969.97,3,No,,No
+C101804,2022-06-24,West,Month-to-month,Fiber,3,$86.36,254.13,4,No,,No
+C101805,2022-02-24,South,Month-to-month,DSL,20,$73.21,1405.48,1,No,,No
+C101806,2022-10-22,North,Month-to-month,DSL,22,$31.83,672.64,2,Yes,,Yes
+C101807,2024-05-28,East,Month-to-month,No internet,12,$85.94,997.87,5,Yes,,Yes
+C101808,2024-04-04,West,Two year,DSL,65,$93.46,5804.86,4,Yes,,No
+C101809,2022-03-19,North,Two year,Fiber,26,$91.67,2485.96,1,Yes,,No
+C101810,2022-05-22,South,Month-to-month,Fiber,12,$110.42,1337.5,3,No,,Yes
+C101811,2022-05-08,South,One year,Fiber,40,$79.11,3107.8,0,Yes,,No
+C101812,2023-03-26,West,Month-to-month,DSL,26,$89.43,2266.22,5,Yes,,No
+C101813,2024-03-26,South,Month-to-month,DSL,3,$109.73,312.88,4,Yes,,Yes
+C101814,2022-07-20,North,Month-to-month,Fiber,4,$62.73,239.14,1,No,,Yes
+C101815,2022-01-08,,Two year,Fiber,43,$113.41,4947.83,1,No,,No
+C101816,2022-01-29,West,Month-to-month,No internet,4,$113.37,452.52,4,Yes,,Yes
+C101817,2024-01-16,North,One year,No internet,37,$89.58,3253.87,0,No,,No
+C101818,2023-12-22,North,Two year,No internet,62,$115.99,7168.02,0,No,,No
+C101819,2023-12-02,,Month-to-month,DSL,13,$91.30,1171.85,3,Yes,,Yes
+C101820,2022-11-22,West,Two year,No internet,60,$47.98,2937.76,2,No,,No
+C101821,2024-04-01,West,Month-to-month,Fiber,21,$98.43,2077.89,1,Yes,,No
+C101822,2022-12-06,East,One year,Fiber,22,$78.16,1705.82,2,No,,Yes
+C101823,2023-08-03,North,Two year,DSL,10,$80.34,763.55,1,Yes,,No
+C101824,2022-08-07,West,Two year,DSL,36,$73.87,2671.9,1,No,,No
+C101825,2022-08-17,North,Two year,Fiber,58,$103.99,6253.77,N/A,No,,No
+C101826,2024-06-18,East,One year,DSL,66,,5393.54,4,No,,No
+C101827,2024-06-11,North,Two year,Fiber,68,$52.60,3519.41,,No,,No
+C101828,2022-08-29,East,Month-to-month,Fiber,13,$82.15,1095.3,5,Yes,,No
+C101829,2023-11-30,North,Month-to-month,No internet,2,$88.23,170.49,,No,,Yes
+C101830,2023-07-17,East,Month-to-month,No internet,25,$51.86,1307.43,0,No,,No
+C101831,2022-08-27,West,Month-to-month,Fiber,3,$59.14,179.52,3,No,,No
+C101832,2023-03-03,West,Month-to-month,DSL,9,$60.42,559.6,1,No,,No
+C101833,2022-09-04,North,One year,DSL,6,$54.82,341.85,0,Yes,,No
+C101834,2022-04-01,East,One year,DSL,40,$78.72,3256.18,0,No,,No
+C101835,2023-11-21,East,Month-to-month,DSL,24,$95.44,2218.55,2,Yes,,Yes
+C101836,2022-10-30,North,Two year,DSL,34,$117.31,4098.28,0,No,,No
+C101837,2023-05-12,East,Month-to-month,Fiber,6,$99.87,605.12,1,No,,Yes
+C101838,2022-11-06,,Month-to-month,No internet,11,$95.55,1041.61,6,Yes,,Yes
+C101839,2024-03-14,West,Two year,DSL,43,$98.58,4046.84,1,No,,No
+C101840,2023-09-21,East,Two year,DSL,55,$103.38,5737.5,3,No,,No
+C101841,2022-11-19,South,One year,Fiber,49,$60.58,2946.95,2,Yes,,No
+C101842,2023-03-12,North,Month-to-month,Fiber,9,$87.34,801.76,3,Yes,,Yes
+C101843,2022-06-26,North,Month-to-month,DSL,24,$78.06,1890.23,2,Yes,,No
+C101844,2023-02-15,East,Two year,Fiber,35,N/A,2252.92,0,No,,Yes
+C101845,2023-11-01,East,Month-to-month,DSL,27,$58.63,1615.54,3,Yes,,Yes
+C101846,2022-10-13,,Two year,Fiber,20,$57.37,1105.8,N/A,Yes,,No
+C101847,2022-02-26,South,One year,Fiber,22,$63.30,1341.46,0,No,,No
+C101848,2023-10-21,North,Month-to-month,Fiber,9,$39.13,358.12,1,Yes,,No
+C101849,2022-10-03,North,Two year,Fiber,42,$83.04,3631.17,0,Yes,,No
+C101850,2023-05-23,East,Month-to-month,DSL,6,$69.45,425.72,0,No,,Yes
+C101851,2023-01-11,West,One year,No internet,29,$72.65,2200.09,0,Yes,,No
+C101852,2022-01-18,East,One year,Fiber,23,$78.47,1740.96,1,No,,No
+C101853,2023-05-20,South,Month-to-month,Fiber,18,$88.12,1521.35,1,No,,No
+C101854,2022-01-27,,Month-to-month,DSL,22,$55.21,1211.84,2,Yes,,Yes
+C101855,2023-04-11,North,One year,Fiber,32,$67.34,2103.6,1,No,,No
+C101856,2024-02-25,North,Month-to-month,No internet,23,$29.79,669.87,4,Yes,,Yes
+C101857,2024-03-11,West,Month-to-month,DSL,11,$18.00,191.81,2,Yes,,No
+C101858,2022-12-02,North,Two year,DSL,62,$21.49,1305.08,2,No,,No
+C101859,2024-01-16,West,Two year,Fiber,34,$108.42,3774.26,2,Yes,,Yes
+C101860,2022-06-28,East,Month-to-month,DSL,11,$24.34,265.2,4,Yes,,Yes
+C101861,2022-05-29,South,Two year,DSL,23,$81.80,1881.2,2,No,,No
+C101862,2023-08-23,West,Month-to-month,DSL,28,$106.93,2890.72,6,No,,Yes
+C101863,2022-05-10,West,Month-to-month,DSL,11,$58.56,652.76,5,Yes,,Yes
+C101864,2022-08-16,West,Two year,Fiber,26,$110.74,2934.88,1,Yes,,No
+C101865,2023-08-17,South,Month-to-month,Fiber,23,$116.18,2631.4,,Yes,,Yes
+C101866,2023-01-24,East,One year,Fiber,52,$93.63,4891.96,3,Yes,,No
+C101867,2022-12-04,East,Two year,Fiber,28,$129.32,3531.59,4,Yes,,Yes
+C101868,2024-02-05,South,Month-to-month,Fiber,24,$85.57,1967.95,3,Yes,,Yes
+C101869,2024-06-01,South,Month-to-month,No internet,5,$51.79,250.25,1,No,,Yes
+C101870,2024-01-15,East,Two year,DSL,51,$83.10,4028.53,0,No,,No
+C101871,2022-09-27,North,One year,Fiber,70,$58.98,4294.36,3,No,,No
+C101872,2022-06-21,North,Two year,DSL,64,$37.50,2509.67,0,Yes,,No
+C101873,2022-06-29,West,Month-to-month,Fiber,2,$38.19,73.79,4,No,,Yes
+C101874,2023-09-02,West,One year,Fiber,9,$127.90,1187.84,1,Yes,,No
+C101875,2022-11-07,North,Two year,Fiber,63,$56.60,3593.55,3,No,,No
+C101876,2023-01-02,North,Month-to-month,Fiber,14,$69.54,999.47,3,No,,No
+C101877,2023-09-26,North,Month-to-month,Fiber,19,$53.58,1028.39,0,No,,No
+C101878,2024-01-17,West,Month-to-month,DSL,11,$73.63,810.88,N/A,Yes,,No
+C101879,2023-05-27,South,Month-to-month,Fiber,17,$64.24,1077.61,2,Yes,,No
+C101880,2022-09-23,South,Month-to-month,DSL,10,$59.97,592.53,4,Yes,,No
+C101881,2022-08-12,North,Month-to-month,DSL,12,$39.96,497.72,1,No,,Yes
+C101882,2023-01-22,N/A,Month-to-month,No internet,24,$34.94,821.19,6,No,,No
+C101883,2024-03-29,West,One year,DSL,64,$51.68,3194.54,2,Yes,,No
+C101884,2023-11-10,North,Month-to-month,Fiber,7,$77.61,570.0,2,Yes,,Yes
+C101885,2024-04-21,,One year,Fiber,21,$122.22,2511.6,0,No,,Yes
+C101886,2023-06-15,South,Month-to-month,Fiber,28,$96.65,2598.79,1,No,,Yes
+C101887,2023-12-31,,Month-to-month,Fiber,1,$115.92,113.27,3,No,,Yes
+C101888,2022-02-13,West,One year,DSL,58,$82.48,4930.12,1,Yes,,No
+C101889,2022-09-26,North,Month-to-month,DSL,16,$68.19,1122.27,1,No,,No
+C101890,2022-01-03,North,One year,Fiber,48,$37.26,1858.1,2,Yes,,No
+C101891,2022-02-22,East,Month-to-month,DSL,9,$70.45,659.38,5,Yes,,Yes
+C101892,2023-03-25,East,One year,DSL,24,$18.00,453.5,2,No,,No
+C101893,2023-08-04,South,Two year,DSL,65,$62.91,4018.96,0,Yes,,No
+C101894,2023-09-29,North,Month-to-month,Fiber,29,$111.13,3134.76,5,No,,No
+C101895,2023-08-19,West,Month-to-month,DSL,16,$78.67,1314.9,1,No,,No
+C101896,2022-09-29,North,One year,No internet,55,$98.67,5652.94,1,Yes,,No
+C101897,2024-03-17,South,Month-to-month,No internet,2,$60.92,122.09,1,No,,No
+C101898,2024-01-05,North,Two year,Fiber,9,$36.08,318.65,2,No,,No
+C101899,2022-01-23,East,Month-to-month,DSL,29,$58.52,1645.95,3,No,,Yes
+C101900,2022-08-12,North,Month-to-month,No internet,2,$60.59,126.99,,Yes,,Yes
+C101901,2022-07-31,West,One year,No internet,19,$100.66,1939.16,0,Yes,,Yes
+C101902,2023-08-06,East,Two year,No internet,57,$119.92,6910.93,0,Yes,,No
+C101903,2024-04-21,West,One year,Fiber,47,$52.03,2368.55,3,Yes,,No
+C101904,2024-04-01,South,Two year,Fiber,50,,2981.6,1,No,,No
+C101905,2024-06-15,North,Month-to-month,DSL,22,$66.93,1460.66,1,No,,No
+C101906,2024-01-02,East,Month-to-month,No internet,26,$61.85,1671.97,2,No,,No
+C101907,2022-11-05,South,One year,DSL,11,$39.49,448.01,1,No,,No
+C101908,2024-01-14,,Two year,Fiber,28,$72.92,1993.64,3,No,,Yes
+C101909,2024-02-21,East,One year,Fiber,31,$79.66,2362.15,0,Yes,,Yes
+C101910,2023-04-23,South,One year,DSL,6,$80.26,486.91,1,Yes,,No
+C101911,2024-01-10,West,Month-to-month,Fiber,22,$40.46,911.36,3,No,,Yes
+C101912,2022-07-10,East,One year,Fiber,71,$67.78,5018.02,0,No,,No
+C101913,2022-04-11,West,One year,No internet,11,$27.14,302.69,4,No,,Yes
+C101914,2022-02-11,South,Two year,Fiber,67,$93.48,6108.93,0,Yes,,No
+C101915,2023-11-23,West,Two year,DSL,45,$45.16,2038.89,2,No,,No
+C101916,2023-08-21,East,One year,Fiber,67,$63.80,4363.08,1,No,,No
+C101917,2022-12-31,East,Two year,Fiber,70,$59.44,4034.52,4,No,,No
+C101918,2022-09-30,West,Month-to-month,Fiber,28,$56.10,1635.06,4,Yes,,Yes
+C101919,2022-10-20,West,One year,DSL,24,$44.21,1023.45,1,No,,No
+C101920,2022-03-08,West,Month-to-month,Fiber,23,$26.51,579.86,2,No,,No
+C101921,2023-10-03,West,One year,No internet,53,$114.03,5917.31,3,Yes,,Yes
+C101922,2023-07-03,South,Month-to-month,DSL,28,$77.11,2217.91,2,Yes,,Yes
+C101923,2023-01-23,North,Month-to-month,Fiber,11,$77.36,856.78,3,Yes,,No
+C101924,2022-07-01,West,Two year,Fiber,65,$123.20,7832.95,2,No,,No
+C101925,2024-03-06,West,Month-to-month,No internet,11,$68.22,737.78,3,No,,Yes
+C101926,2023-07-08,North,Month-to-month,Fiber,4,$84.56,338.5,3,No,,No
+C101927,2022-09-11,South,Month-to-month,Fiber,26,$71.27,1910.57,0,Yes,,No
+C101928,2023-01-29,East,Two year,Fiber,7,$100.44,736.36,2,Yes,,No
+C101929,2022-08-07,North,Month-to-month,Fiber,16,$83.31,1358.41,2,Yes,,Yes
+C101930,2023-10-12,North,Two year,Fiber,54,$78.63,4093.75,3,Yes,,No
+C101931,2022-03-11,South,Month-to-month,DSL,2,$64.39,133.56,0,No,,Yes
+C101932,2023-05-01,East,Month-to-month,DSL,13,$77.77,1042.89,3,No,,Yes
+C101933,2024-02-05,East,One year,DSL,18,$99.88,1835.43,2,Yes,,No
+C101934,2024-05-28,North,One year,DSL,42,$18.87,817.71,2,Yes,,No
+C101935,2022-12-09,South,Two year,Fiber,24,$67.57,1543.29,1,No,,No
+C101936,2022-07-08,East,Two year,Fiber,62,$60.35,3809.3,3,No,,No
+C101937,2022-02-25,East,Month-to-month,DSL,24,$63.29,1517.15,1,No,,No
+C101938,2023-10-15,South,One year,DSL,30,$21.40,673.72,0,Yes,,No
+C101939,2024-05-29,West,One year,No internet,65,$89.09,6050.95,1,Yes,,Yes
+C101940,2023-10-18,West,Month-to-month,Fiber,6,$49.67,297.18,4,No,,No
+C101941,2022-05-20,South,One year,No internet,59,$65.14,3973.08,1,Yes,,No
+C101942,2022-02-04,West,Two year,Fiber,15,$58.22,893.3,1,No,,Yes
+C101943,2022-07-18,North,Month-to-month,DSL,26,$29.06,773.99,4,Yes,,No
+C101944,2023-10-02,North,Two year,DSL,38,$59.66,2233.85,1,No,,No
+C101945,2023-09-01,East,Month-to-month,No internet,1,$24.77,25.34,1,No,,No
+C101946,2023-11-07,West,Month-to-month,Fiber,24,$47.25,1081.06,1,No,,Yes
+C101947,2024-05-23,North,One year,DSL,20,$62.94,1199.95,0,Yes,,No
+C101948,2022-07-24,West,Month-to-month,No internet,4,,275.15,1,No,,No
+C101949,2024-05-19,,One year,DSL,56,$72.20,3935.96,3,No,,No
+C101950,2023-02-26,North,Month-to-month,No internet,3,N/A,192.31,1,No,,Yes
+C101951,2024-06-09,West,Month-to-month,No internet,16,$124.27,2064.43,2,Yes,,Yes
+C101952,2023-04-26,North,One year,Fiber,68,,5716.78,0,Yes,,No
+C101953,2022-11-05,South,One year,DSL,68,$40.28,2814.55,2,Yes,,No
+C101954,2022-04-29,East,Month-to-month,Fiber,17,$55.52,973.39,4,Yes,,No
+C101955,2022-11-14,East,Month-to-month,DSL,26,$54.39,1474.96,3,Yes,,Yes
+C101956,2022-10-28,North,Two year,Fiber,45,$66.39,2883.32,1,No,,No
+C101957,2022-02-24,East,Two year,DSL,12,$55.74,668.43,N/A,Yes,,No
+C101958,2022-06-07,North,Two year,Fiber,28,$49.44,1366.69,0,Yes,,No
+C101959,2023-11-25,West,Month-to-month,Fiber,20,$112.06,2214.33,2,Yes,,Yes
+C101960,2023-11-03,North,Month-to-month,DSL,23,$71.93,1681.45,2,Yes,,No
+C101961,2024-02-13,West,Month-to-month,Fiber,19,$62.40,1169.12,2,Yes,,Yes
+C101962,2023-09-30,North,Month-to-month,DSL,18,$64.53,1211.81,2,Yes,,No
+C101963,2022-01-21,East,Month-to-month,No internet,10,$65.41,630.25,2,No,,No
+C101964,2022-09-19,West,Month-to-month,Fiber,27,$105.66,2760.61,3,No,,Yes
+C101965,2022-10-23,South,Month-to-month,Fiber,7,$82.80,601.69,2,Yes,,No
+C101966,2022-12-24,East,Month-to-month,DSL,19,$98.92,1833.58,5,No,,Yes
+C101967,2024-03-12,North,Month-to-month,DSL,27,$18.00,479.01,,Yes,,No
+C101968,2023-12-26,South,Month-to-month,DSL,19,$79.00,1494.11,4,Yes,,No
+C101969,2023-01-07,West,One year,Fiber,24,$97.33,2388.74,2,Yes,,Yes
+C101970,2023-09-12,North,One year,DSL,20,$120.19,2501.83,2,No,,Yes
+C101971,2023-12-15,South,Two year,DSL,22,$71.60,1601.13,0,No,,Yes
+C101972,2023-11-27,West,Two year,DSL,26,$27.94,706.79,2,No,,No
+C101973,2023-01-11,North,One year,DSL,16,$85.59,1417.5,1,Yes,,Yes
+C101974,2022-03-23,East,Two year,DSL,38,$55.89,2085.34,0,No,,No
+C101975,2024-05-17,West,Month-to-month,Fiber,17,$26.08,424.89,3,Yes,,Yes
+C101976,2022-02-04,South,One year,DSL,34,$55.41,1796.27,1,No,,No
+C101977,2022-03-21,West,Month-to-month,Fiber,11,$97.28,1105.85,3,No,,No
+C101978,2023-11-29,North,Month-to-month,Fiber,4,$100.93,404.76,2,Yes,,Yes
+C101979,2023-10-22,South,Two year,Fiber,39,$88.93,3378.64,1,Yes,,No
+C101980,2022-04-18,South,One year,No internet,42,$44.69,1795.54,2,Yes,,No
+C101981,2024-04-26,East,Month-to-month,Fiber,17,$133.82,2382.24,2,Yes,,Yes
+C101982,2022-04-23,South,One year,DSL,54,$41.67,2316.19,1,Yes,,No
+C101983,2023-12-16,West,Month-to-month,Fiber,21,$68.97,1485.16,3,No,,Yes
+C101984,2023-06-11,South,Two year,DSL,9,$34.79,310.32,4,Yes,,Yes
+C101985,2024-02-04,South,Month-to-month,DSL,21,$103.85,2115.79,6,Yes,,Yes
+C101986,2023-04-07,South,Month-to-month,DSL,20,$82.08,1619.23,5,No,,Yes
+C101987,2022-10-12,North,Month-to-month,DSL,15,$93.14,1419.31,1,Yes,,Yes
+C101988,2023-03-31,West,Month-to-month,No internet,19,$73.20,1408.41,5,No,,Yes
+C101989,2023-05-10,N/A,Two year,Fiber,50,$69.24,3326.58,2,No,,No
+C101990,2022-01-22,West,Month-to-month,DSL,6,,468.18,3,No,,No
+C101991,2023-03-29,West,Month-to-month,Fiber,1,$23.75,23.96,3,Yes,,No
+C101992,2024-02-05,East,One year,DSL,11,$95.82,1061.02,0,No,,Yes
+C101993,2022-01-31,West,One year,Fiber,41,$93.81,3901.24,2,No,,No
+C101994,2022-05-10,North,One year,Fiber,41,$61.17,2520.6,1,Yes,,No
+C101995,2023-12-15,,Month-to-month,No internet,19,$70.68,1404.3,2,Yes,,Yes
+C101996,2023-02-15,East,Month-to-month,DSL,7,,534.21,2,No,,Yes
+C101997,2022-02-28,South,Two year,Fiber,30,$110.26,3371.96,1,Yes,,No
+C101998,2023-03-06,West,Month-to-month,Fiber,14,$81.81,1158.76,2,No,,Yes
+C101999,2022-07-23,North,Month-to-month,Fiber,28,$72.09,2115.64,2,Yes,,Yes
+C100674,2022-12-29,South,Month-to-month,Fiber,17,$75.75,1307.2,4,Yes,,Yes
+C101699,2022-05-17,East,Two year,DSL,69,$26.76,1911.95,1,Yes,,No
+C101282,2023-10-19,South,Month-to-month,No internet,4,$18.43,71.64,3,No,,No
+C101315,2023-07-12,East,One year,DSL,25,$63.30,1528.56,0,No,,No
+C101210,2022-02-27,South,One year,DSL,10,$42.62,411.98,2,Yes,,No
+C101636,2022-08-17,North,One year,Fiber,47,$67.42,3326.75,1,No,,No
+C100613,2023-03-08,North,Month-to-month,No internet,2,$18.00,37.47,3,No,,Yes
+C100447,2022-03-20,West,One year,DSL,33,$76.89,2451.12,,No,,No
+C101131,2024-05-07,West,Month-to-month,Fiber,7,$64.47,450.76,3,No,,Yes
+C100808,2022-06-21,N/A,Month-to-month,No internet,25,$49.64,1232.9,4,No,,No
+C101496,2023-01-14,North,Month-to-month,Fiber,11,$41.28,474.37,2,Yes,,Yes
+C101468,2022-01-04,North,One year,Fiber,43,$63.49,2734.72,3,No,,Yes
+C101682,2024-01-14,South,One year,Fiber,35,$93.79,3281.46,1,No,,No
+C101149,2022-05-03,East,Month-to-month,Fiber,29,$78.11,2202.1,1,No,,No
+C100442,2024-05-31,South,Month-to-month,No internet,21,$85.18,1724.4,5,Yes,,No
+C101813,2024-03-26,South,Month-to-month,DSL,3,$109.73,312.88,4,Yes,,Yes
+C100654,2023-10-16,East,Month-to-month,Fiber,11,$73.26,773.92,1,No,,Yes
+C101264,2022-07-12,South,Two year,Fiber,55,$93.16,4895.69,4,Yes,,No
+C100858,2023-12-17,West,Two year,Fiber,9,$94.78,891.09,2,No,,No
+C101482,2022-02-14,North,Month-to-month,Fiber,27,$42.27,1144.9,5,No,,Yes
+C100231,2023-05-12,West,One year,DSL,24,$59.42,1368.0,3,Yes,,Yes
+C101821,2024-04-01,West,Month-to-month,Fiber,21,$98.43,2077.89,1,Yes,,No
+C101926,2023-07-08,North,Month-to-month,Fiber,4,$84.56,338.5,3,No,,No
+C100881,2022-11-18,West,One year,DSL,32,$37.71,1215.27,2,Yes,,No
+C100631,2022-07-15,South,Two year,DSL,42,$18.15,731.17,2,Yes,,No
